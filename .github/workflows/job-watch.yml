@@ -1,0 +1,94 @@
+# Save as .github/workflows/job-watch.yml in RJunderstand/sponsor-register-watch
+#
+# Runs every morning before the assistant's scheduled task. Rebuilds the
+# employer seed from the register, probes a slice of unresolved employers for
+# an ATS feed, then pulls every known feed and writes new_today.json.
+#
+# The assistant already clones this repo for the sponsor register, so reading
+# new_today.json costs it nothing extra.
+
+name: job-watch
+
+on:
+  schedule:
+    # 05:40 UTC daily, comfortably before the assistant's run.
+    - cron: "40 5 * * *"
+  workflow_dispatch:
+    inputs:
+      probe_limit:
+        description: "How many unresolved employers to probe this run"
+        required: false
+        default: "400"
+
+permissions:
+  contents: write
+
+concurrency:
+  group: job-watch
+  cancel-in-progress: false
+
+jobs:
+  watch:
+    runs-on: ubuntu-latest
+    timeout-minutes: 50
+
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Install dependencies
+        run: pip install --quiet requests
+
+      - name: Rebuild employer seed from the register
+        run: python jobwatch/build_seed.py register.csv jobwatch/seed_employers.csv
+
+      - name: Probe unresolved employers for an ATS feed
+        working-directory: jobwatch
+        continue-on-error: true
+        run: python probe_ats.py "${{ github.event.inputs.probe_limit || 400 }}"
+
+      - name: Pull all known feeds and diff against yesterday
+        working-directory: jobwatch
+        run: python fetch_jobs.py
+
+      - name: Summary
+        working-directory: jobwatch
+        run: |
+          {
+            echo "## job-watch $(date -u +%F)"
+            echo
+            python - <<'PY'
+          import json, pathlib
+          reg = json.loads(pathlib.Path("ats_registry.json").read_text())
+          new = json.loads(pathlib.Path("new_today.json").read_text())
+          print(f"- feeds in registry: **{len(reg['employers'])}**")
+          print(f"- unresolved employers: {len(reg['unresolved'])}")
+          print(f"- new postings today: **{new['count']}**")
+          fam = {}
+          for j in new["jobs"]:
+              for f in j["families"]:
+                  fam[f] = fam.get(f, 0) + 1
+          if fam:
+              print()
+              print("| family | new |")
+              print("| --- | --- |")
+              for k in sorted(fam):
+                  print(f"| {k} | {fam[k]} |")
+          PY
+          } >> "$GITHUB_STEP_SUMMARY"
+
+      - name: Commit
+        run: |
+          git config user.name  "job-watch bot"
+          git config user.email "actions@github.com"
+          git add jobwatch/ats_registry.json jobwatch/all_current.json \
+                  jobwatch/new_today.json jobwatch/seed_employers.csv
+          if git diff --cached --quiet; then
+            echo "nothing changed"
+          else
+            git commit -m "job-watch: $(date -u +%F)"
+            git push
+          fi
