@@ -33,12 +33,67 @@
   ]
  },
  {
+  "employer": "Captify Technologies Ltd",
+  "title": "Account Manager (Media)",
+  "location": "London, UK",
+  "url": "https://job-boards.greenhouse.io/captify/jobs/8687358002",
+  "posted": "2026-08-24",
+  "ats": "greenhouse",
+  "families": [
+   "D_edtech_customer"
+  ]
+ },
+ {
+  "employer": "Captify Technologies Ltd",
+  "title": "Senior Account Manager (Media)",
+  "location": "London, UK",
+  "url": "https://job-boards.greenhouse.io/captify/jobs/8691668002",
+  "posted": "2026-08-24",
+  "ats": "greenhouse",
+  "families": [
+   "D_edtech_customer"
+  ]
+ },
+ {
   "employer": "Clay Labs UK Ltd",
   "title": "Growth Strategist, Enterprise (Customer Success)",
   "location": "London",
   "url": "https://jobs.ashbyhq.com/claylabs/9d4828b2-8c23-406d-8225-b916ff9174c0",
   "posted": "2025-07-16",
   "ats": "ashby",
+  "families": [
+   "D_edtech_customer"
+  ]
+ },
+ {
+  "employer": "D2L Europe Limited",
+  "title": "Customer Success Manager",
+  "location": "UK - remote; London, UK",
+  "url": "https://www.d2l.com/careers/jobs/?job_id=8044319&gh_jid=8044319",
+  "posted": "2026-07-20",
+  "ats": "greenhouse",
+  "families": [
+   "D_edtech_customer"
+  ]
+ },
+ {
+  "employer": "Dataiku Ltd",
+  "title": "Technical Account Manager - UK",
+  "location": "United Kingdom, London; United Kingdom, Remote",
+  "url": "https://job-boards.greenhouse.io/dataiku/jobs/6145120004",
+  "posted": "2026-08-27",
+  "ats": "greenhouse",
+  "families": [
+   "D_edtech_customer"
+  ]
+ },
+ {
+  "employer": "Domino Data Lab Limited",
+  "title": "Enterprise Customer Success Manager",
+  "location": "Remote US (East Coast)",
+  "url": "https://app.careerpuck.com/job-board/domino-data-lab/job/7365539?gh_jid=7365539",
+  "posted": "2026-08-14",
+  "ats": "greenhouse",
   "families": [
    "D_edtech_customer"
   ]
@@ -75,6 +130,182 @@
   "families": [
    "B_corporate_ld",
    "G_content_multimedia"
+  ]
+ },
+ {
+  "employer": "Eleven Labs Ltd",
+  "title": "AI Creative Producer",
+  "location": "United Kingdom",
+  "url": "https://jobs.ashbyhq.com/elevenlabs/3178581d-ea70-4dee-b018-2ce2d2a18bbe",
+  "posted": "2025-11-18",
+  "ats": "ashby",
+  "families": [
+   "G_content_multimedia"
+  ]
+ },
+ {
+  "employer": "Eleven Labs Ltd",
+  "title": "Brand Design",
+  "location": "London",
+  "url": "https://jobs.ashbyhq.com/elevenlabs/d5fb656f-a8ac-457a-ab26-07304791e097",
+  "posted": "2025-11-19",
+  "ats": "ashby",
+  "families": [
+   "C_marketing_recruitment"
+  ]
+ },
+ {
+  "employer": "Extreme Networks UK Technology Limited",
+  "title": "Integrated Campaigns and Programs Manager – EMEA",
+  "location": "Reading, United Kingdom",
+  "url": "https://jobs.lever.co/extremenetworks/9c7cc13d-3300-4a38-b44b-cfc2c88005ae",
+  "posted": "",
+  "ats": "lever",
+  "families": [
+   "C_marketing_recruitment"
+  ]
+ },
+ {
+  "employer": "Instructure Global Limited",
+  "title": "Sr. Customer Success Manager",
+  "location": "US-REMOTE",
+  "url": "https://jobs.ashbyhq.com/instructure/7947f857-080e-4a65-a93c-7fb4c8f2cfc6",
+  "posted": "2026-08-24",
+  "ats": "ashby",
+  "families": [
+   "D_edtech_customer"
+  ]
+ },
+ {
+  "employer": "Instructure Global Limited",
+  "title": "Customer Success Manager, K-12",
+  "location": "US-REMOTE-Utah",
+  "url": "https://jobs.ashbyhq.com/instructure/b6afa2ac-988c-45ab-98a4-616b217a9de8",
+  "posted": "2026-05-27",
+  "ats": "ashby",
+  "families": [
+   "D_edtech_customer"
+  ]
+ },
+ {
+  "employer": "Instructure Global Limited",
+  "title": "Sr. Revenue Operations Analyst",
+  "location": "US-REMOTE",
+  "url": "https://jobs.ashbyhq.com/instructure/d36f43ef-5d99-4b62-a91e-a05a5e0c9cde",
+  "posted": "2026-08-19",
+  "ats": "ashby",
+  "families": [
+   "J_process_ops"
+  ]
+ },
+ {
+  "employer": "Instructure Global Limited",
+  "title": "Learning Consultant",
+  "location": "US-REMOTE",
+  "url": "https://jobs.ashbyhq.com/instructure/294fab1d-6104-4fe6-b6da-8aa78e6da7f1",
+  "posted": "2026-08-27",
+  "ats": "ashby",
+  "families": [
+   "B_corporate_ld"
+  ]
+ },
+ {
+  "employer": "MONIEPOINT TECHNOLOGIES UK LTD",
+  "title": "Senior Business Analyst",
+  "location": "Remote, Bangalore",
+  "url": "https://job-boards.eu.greenhouse.io/moniepoint/jobs/4912941101",
+  "posted": "2026-08-19",
+  "ats": "greenhouse",
+  "families": [
+   "J_process_ops"
+  ]
+ },
+ {
+  "employer": "MONIEPOINT TECHNOLOGIES UK LTD",
+  "title": "Senior Business Analyst",
+  "location": "Remote, London, United Kingdom",
+  "url": "https://job-boards.eu.greenhouse.io/moniepoint/jobs/4912592101",
+  "posted": "2026-08-19",
+  "ats": "greenhouse",
+  "families": [
+   "J_process_ops"
+  ]
+ },
+ {
+  "employer": "MONIEPOINT TECHNOLOGIES UK LTD",
+  "title": "Senior Content Designer",
+  "location": "Remote, London, United Kingdom",
+  "url": "https://job-boards.eu.greenhouse.io/moniepoint/jobs/4960916101",
+  "posted": "2026-08-26",
+  "ats": "greenhouse",
+  "families": [
+   "G_content_multimedia"
+  ]
+ },
+ {
+  "employer": "MONIEPOINT TECHNOLOGIES UK LTD",
+  "title": "Senior Quality Assurance Engineer",
+  "location": "Remote, Bangalore",
+  "url": "https://job-boards.eu.greenhouse.io/moniepoint/jobs/4941088101",
+  "posted": "2026-08-20",
+  "ats": "greenhouse",
+  "families": [
+   "F_quality_compliance"
+  ]
+ },
+ {
+  "employer": "Multiverse Group Limited",
+  "title": "Technical Instructional Designer (AI Programmes)",
+  "location": "London",
+  "url": "https://jobs.ashbyhq.com/multiverse/5e2c6d02-a513-451b-a486-3405841a0e40",
+  "posted": "2026-07-21",
+  "ats": "ashby",
+  "families": [
+   "A_he_learning_tech"
+  ]
+ },
+ {
+  "employer": "Multiverse Group Limited",
+  "title": "Technical Instructional Designer (Data Programmes)",
+  "location": "London",
+  "url": "https://jobs.ashbyhq.com/multiverse/45bed8fa-033c-49f2-af51-eade17c16083",
+  "posted": "2026-07-22",
+  "ats": "ashby",
+  "families": [
+   "A_he_learning_tech"
+  ]
+ },
+ {
+  "employer": "NICE Systems UK Limited",
+  "title": "Lead Partner Success Implementation Engineer",
+  "location": "United Kingdom - London",
+  "url": "https://boards.eu.greenhouse.io/nice/jobs/4851456101?gh_jid=4851456101",
+  "posted": "2026-08-26",
+  "ats": "greenhouse",
+  "families": [
+   "D_edtech_customer"
+  ]
+ },
+ {
+  "employer": "NICE Systems UK Limited",
+  "title": "Product Customer Success Manager",
+  "location": "United Kingdom - London",
+  "url": "https://boards.eu.greenhouse.io/nice/jobs/4877490101?gh_jid=4877490101",
+  "posted": "2026-08-26",
+  "ats": "greenhouse",
+  "families": [
+   "D_edtech_customer"
+  ]
+ },
+ {
+  "employer": "Qube Research & Technologies Limited",
+  "title": "Senior Technical Business Analyst",
+  "location": "London",
+  "url": "https://job-boards.greenhouse.io/quberesearchandtechnologies/jobs/8201764002",
+  "posted": "2026-05-08",
+  "ats": "greenhouse",
+  "families": [
+   "J_process_ops"
   ]
  }
 ]
