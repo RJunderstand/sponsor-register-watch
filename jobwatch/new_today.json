@@ -1,5 +1,84 @@
 {
  "generated": "2026-08-27",
- "count": 0,
- "jobs": []
+ "count": 7,
+ "jobs": [
+  {
+   "employer": "Elemis",
+   "title": "Global Learning Content Designer",
+   "location": "London Head Office, London",
+   "url": "https://careers.elemis.com/en/postings/acf05fc5-5e60-40de-a3ed-2b1e224df6bc",
+   "posted": "",
+   "ats": "pinpoint",
+   "families": [
+    "B_corporate_ld",
+    "G_content_multimedia"
+   ]
+  },
+  {
+   "employer": "Bottomline Technologies Limited",
+   "title": "Customer Success Associate",
+   "location": "UK, Theale (Reading)",
+   "url": "https://job-boards.greenhouse.io/bottomlinetechnologies/jobs/8699373002",
+   "posted": "2026-08-25",
+   "ats": "greenhouse",
+   "families": [
+    "D_edtech_customer"
+   ]
+  },
+  {
+   "employer": "Bottomline Technologies Limited",
+   "title": "Customer Success Manager",
+   "location": "zzDNU UK, London",
+   "url": "https://job-boards.greenhouse.io/bottomlinetechnologies/jobs/8323809002",
+   "posted": "2026-07-29",
+   "ats": "greenhouse",
+   "families": [
+    "D_edtech_customer"
+   ]
+  },
+  {
+   "employer": "Clay Labs UK Ltd",
+   "title": "Growth Strategist, Enterprise (Customer Success)",
+   "location": "London",
+   "url": "https://jobs.ashbyhq.com/claylabs/9d4828b2-8c23-406d-8225-b916ff9174c0",
+   "posted": "2025-07-16",
+   "ats": "ashby",
+   "families": [
+    "D_edtech_customer"
+   ]
+  },
+  {
+   "employer": "Elemis",
+   "title": "Senior National Account Manager",
+   "location": "London Head Office, London",
+   "url": "https://careers.elemis.com/en/postings/ea0824ab-6aaa-4831-aff7-e2f2616a309a",
+   "posted": "",
+   "ats": "pinpoint",
+   "families": [
+    "D_edtech_customer"
+   ]
+  },
+  {
+   "employer": "Elemis",
+   "title": "Account Manager",
+   "location": "Leeds John Lewis, Leeds",
+   "url": "https://careers.elemis.com/en/postings/e6e756c3-21a8-4514-ace2-8f6dd595533f",
+   "posted": "",
+   "ats": "pinpoint",
+   "families": [
+    "D_edtech_customer"
+   ]
+  },
+  {
+   "employer": "Black Kite Studios Ltd",
+   "title": "PR & Content Manager",
+   "location": "London England gb Featherstone Street EC1Y 51.5246108 -0.0884741 London, England, United Kingdom",
+   "url": "https://jobs.smartrecruiters.com/743999780165689",
+   "posted": "2021-10-18",
+   "ats": "smartrecruiters",
+   "families": [
+    "G_content_multimedia"
+   ]
+  }
+ ]
 }
