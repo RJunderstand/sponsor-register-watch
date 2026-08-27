@@ -110,6 +110,19 @@ UK = re.compile(
     re.I,
 )
 
+# A named foreign country beats a bare "Remote". The first run let through
+# "Remote - Philippines" and "United States - Remote" because both contain
+# the word remote.
+NOT_UK = re.compile(
+    r"\b(philippines|united states|usa|canada|india|australia|germany"
+    r"|france|spain|portugal|poland|romania|netherlands|belgium|sweden|norway"
+    r"|denmark|switzerland|austria|italy|greece|turkey|israel|uae|dubai"
+    r"|singapore|malaysia|japan|korea|hong kong|china|taiwan|brazil|mexico"
+    r"|argentina|colombia|chile|south africa|nigeria|kenya|egypt|new zealand"
+    r"|dublin)\b",
+    re.I,
+)
+
 
 def families_for(title: str) -> list[str]:
     t = title.lower()
@@ -148,7 +161,18 @@ def norm(ats: str, employer: str, raw: dict) -> dict | None:
             posted = (raw.get("published_at") or "")[:10]
         else:  # teamtailor, pinpoint and anything else with loose shapes
             title = raw.get("title") or raw.get("name") or ""
-            loc = str(raw.get("location") or raw.get("city") or "")
+            loc_raw = raw.get("location") or raw.get("city") or ""
+            if isinstance(loc_raw, dict):
+                # Pinpoint returns {"id":..,"city":..,"region":..,"country":..}
+                loc = " ".join(
+                    str(loc_raw.get(k))
+                    for k in ("city", "region", "state", "country", "name")
+                    if isinstance(loc_raw.get(k), str)
+                )
+            elif isinstance(loc_raw, list):
+                loc = " ".join(str(x) for x in loc_raw if isinstance(x, str))
+            else:
+                loc = str(loc_raw)
             url = raw.get("url") or raw.get("careers_url") or ""
             posted = str(raw.get("created_at") or raw.get("published_at") or "")[:10]
     except Exception:
@@ -205,8 +229,11 @@ def pull(session: requests.Session, emp: dict) -> list[dict]:
         fams = families_for(rec["title"])
         if not fams:
             continue
-        if rec["location"] and not UK.search(rec["location"]):
-            continue
+        if rec["location"]:
+            if NOT_UK.search(rec["location"]):
+                continue
+            if not UK.search(rec["location"]):
+                continue
         rec["families"] = fams
         out.append(rec)
     return out
