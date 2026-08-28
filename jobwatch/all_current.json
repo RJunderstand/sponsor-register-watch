@@ -212,8 +212,8 @@
  {
   "employer": "MONIEPOINT TECHNOLOGIES UK LTD",
   "title": "Senior Business Analyst",
-  "location": "Remote, Bangalore",
-  "url": "https://job-boards.eu.greenhouse.io/moniepoint/jobs/4912941101",
+  "location": "Remote, London, United Kingdom",
+  "url": "https://job-boards.eu.greenhouse.io/moniepoint/jobs/4912592101",
   "posted": "2026-08-19",
   "ats": "greenhouse",
   "families": [
@@ -223,8 +223,8 @@
  {
   "employer": "MONIEPOINT TECHNOLOGIES UK LTD",
   "title": "Senior Business Analyst",
-  "location": "Remote, London, United Kingdom",
-  "url": "https://job-boards.eu.greenhouse.io/moniepoint/jobs/4912592101",
+  "location": "Remote, Bangalore",
+  "url": "https://job-boards.eu.greenhouse.io/moniepoint/jobs/4912941101",
   "posted": "2026-08-19",
   "ats": "greenhouse",
   "families": [
@@ -236,7 +236,7 @@
   "title": "Senior Content Designer",
   "location": "Remote, London, United Kingdom",
   "url": "https://job-boards.eu.greenhouse.io/moniepoint/jobs/4960916101",
-  "posted": "2026-08-26",
+  "posted": "2026-08-28",
   "ats": "greenhouse",
   "families": [
    "G_content_multimedia"
@@ -280,7 +280,7 @@
   "title": "Lead Partner Success Implementation Engineer",
   "location": "United Kingdom - London",
   "url": "https://boards.eu.greenhouse.io/nice/jobs/4851456101?gh_jid=4851456101",
-  "posted": "2026-08-26",
+  "posted": "2026-08-28",
   "ats": "greenhouse",
   "families": [
    "D_edtech_customer"
@@ -291,7 +291,7 @@
   "title": "Product Customer Success Manager",
   "location": "United Kingdom - London",
   "url": "https://boards.eu.greenhouse.io/nice/jobs/4877490101?gh_jid=4877490101",
-  "posted": "2026-08-26",
+  "posted": "2026-08-28",
   "ats": "greenhouse",
   "families": [
    "D_edtech_customer"
@@ -306,6 +306,73 @@
   "ats": "greenhouse",
   "families": [
    "J_process_ops"
+  ]
+ },
+ {
+  "employer": "SambaNova Systems UK Limited",
+  "title": "Customer Success Manager",
+  "location": "London, England, United Kingdom",
+  "url": "https://sambanova.ai/sambanova-available-positions/?gh_jid=6114166004",
+  "posted": "2026-08-04",
+  "ats": "greenhouse",
+  "families": [
+   "D_edtech_customer"
+  ]
+ },
+ {
+  "employer": "SambaNova Systems UK Limited",
+  "title": "Customer Success Manager",
+  "location": "Remote - US",
+  "url": "https://sambanova.ai/sambanova-available-positions/?gh_jid=6114176004",
+  "posted": "2026-08-04",
+  "ats": "greenhouse",
+  "families": [
+   "D_edtech_customer"
+  ]
+ },
+ {
+  "employer": "Sigma Computing UK Limited",
+  "title": "Enterprise Customer Success Manager - Central",
+  "location": "Remote",
+  "url": "https://job-boards.greenhouse.io/sigmacomputing/jobs/7906143003",
+  "posted": "2026-08-26",
+  "ats": "greenhouse",
+  "families": [
+   "D_edtech_customer"
+  ]
+ },
+ {
+  "employer": "Sigma Computing UK Limited",
+  "title": "Enterprise Customer Success Manager - Upper Midwest Region",
+  "location": "Remote",
+  "url": "https://job-boards.greenhouse.io/sigmacomputing/jobs/7787045003",
+  "posted": "2026-08-26",
+  "ats": "greenhouse",
+  "families": [
+   "D_edtech_customer"
+  ]
+ },
+ {
+  "employer": "Skin Analytics",
+  "title": "AI Enablement Engineer",
+  "location": "London",
+  "url": "https://jobs.ashbyhq.com/skin-analytics/c3597a36-674a-4a83-9dce-d1d48f958733",
+  "posted": "2026-08-13",
+  "ats": "ashby",
+  "families": [
+   "D_edtech_customer",
+   "H_ai_governance"
+  ]
+ },
+ {
+  "employer": "Snap Analytics Ltd",
+  "title": "Senior Marketing Executive",
+  "location": "Bristol Bristol, UK",
+  "url": "https://snapanalytics.pinpointhq.com/en/postings/a673bee9-d9fa-4f9a-ba73-85af8161022e",
+  "posted": "",
+  "ats": "pinpoint",
+  "families": [
+   "C_marketing_recruitment"
   ]
  }
 ]
