@@ -61,8 +61,13 @@ FACETS = [
     "other",
 ]
 
-PAGE_SIZE = 100
-MAX_PAGES_PER_FACET = 4  # 400 rows a facet is plenty; the facets are date-sorted
+# jobs.ac.uk ignores pageSize above 25 and silently returns 25. The first
+# version of this script asked for 100 and then advanced startIndex by 100,
+# which skipped 75 rows a page and meant only the first page of each facet was
+# ever read. That was the exact limitation this script exists to remove.
+# Advance by the number of rows actually parsed, never by a constant.
+PAGE_SIZE = 25
+MAX_PAGES_PER_FACET = 8  # 200 rows a facet; the facets are date-sorted
 
 BASE = "https://www.jobs.ac.uk"
 UA = "Mozilla/5.0 (compatible; sponsor-register-watch/1.0; +https://github.com/RJunderstand/sponsor-register-watch)"
@@ -305,10 +310,11 @@ def sweep_facet(slug: str, session: requests.Session) -> list[dict]:
             })
         if found_on_page == 0:
             break
-        start += PAGE_SIZE
+        start += found_on_page          # never a constant; see the PAGE_SIZE note
         if total is not None and start >= total:
             break
         time.sleep(2)
+    print(f"  {slug}: collected {len(rows)} of {total}")
     return rows
 
 
