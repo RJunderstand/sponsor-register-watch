@@ -282,8 +282,12 @@ def sweep_facet(slug: str, session: requests.Session) -> list[dict]:
             break
         if total is None:
             m = FOUND_RE.search(body)
-            total = int(m.group(1).replace(",", "")) if m else 0
-            print(f"{slug}: {total} jobs found")
+            # Must stay None when the count cannot be read. An earlier version
+            # used 0 here, which made "start >= total" true immediately and
+            # stopped every facet after its first page. That is the whole bug
+            # this script was written to avoid.
+            total = int(m.group(1).replace(",", "")) if m else None
+            print(f"{slug}: {total if total is not None else 'count unknown'} jobs found")
         found_on_page = 0
         for block in RESULT_RE.finditer(body):
             chunk = block.group(0)
