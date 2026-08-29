@@ -1,0 +1,138 @@
+{
+ "kind": "cv",
+ "_family": "D — EdTech customer success, implementation, onboarding, enablement",
+ "_howto": "Swap only: title, profile, the Skills groups irrelevant to this family, and the section headings (mirror the person spec's order). Do not rebuild from zero.",
+ "title": "[PASTE THE ADVERT JOB TITLE VERBATIM]",
+ "profile": "P-HE",
+ "headlines": [
+  "H5",
+  "H4",
+  "H3",
+  "H1"
+ ],
+ "sections": [
+  {
+   "h": "LEARNING PLATFORM AND EDTECH EXPERTISE",
+   "bullets": [
+    [
+     {
+      "t": "Manages the online learning platform pages for two departments",
+      "b": true
+     },
+     {
+      "t": " and works daily in Moodle. I am the person on the other side of an LMS rollout: the administrator who has to make adoption happen with academic and professional services colleagues."
+     }
+    ],
+    "Publishes to those platform areas against WCAG 2.2 AA, so materials go live compliant instead of being fixed afterwards."
+   ]
+  },
+  {
+   "h": "ADOPTION, ENABLEMENT AND FACILITATION",
+   "bullets": [
+    [
+     {
+      "t": "Sole presenter, 45-minute session",
+      "b": true
+     },
+     {
+      "t": " on AI-augmented professional services, Professional Services Staff Development Day, UGM Manchester, 19 August 2026, to 24 professional services staff. Written follow-up pack circulated to all attendees. The day's lead facilitator invited a further talk and a colleague registered for the next session on the day."
+     }
+    ],
+    "Delivery across four formats: one-to-one, in-person groups, live online and asynchronous self-serve resources.",
+    "ALTC26 proposal accepted and in the programme; EmpowerED Webinar 6 online, 28 August 2026; TIRIAE Conference 7-minute talk accepted."
+   ]
+  },
+  {
+   "h": "CUSTOMER HEALTH, DATA AND OUTCOMES",
+   "bullets": [
+    "PRJ-BOOK",
+    "Tracks before and after numbers on every tool shipped: 15,705 errors found, 2,068 to 4 after rebuild, 30 minutes to 9 seconds per record, 2 errors to 0."
+   ]
+  },
+  {
+   "h": "CROSS-FUNCTIONAL COLLABORATION AND STAKEHOLDER INFLUENCE",
+   "bullets": [
+    "PRJ-UX",
+    "Briefed senior management on compliance reasoning for the SORA tool and demonstrated it to the campus General Manager; won approval for two working days at an external conference and returned with a briefing and three proposals that were taken up."
+   ]
+  },
+  {
+   "h": "AI ACUMEN",
+   "bullets": [
+    "PRJ-GOV",
+    [
+     {
+      "t": "SORA (SEN) Exam Support Tool",
+      "b": true
+     },
+     {
+      "t": " · on-device web tool — 2-day manual process to 30 seconds. Zero student data leaves the machine. Gentle Mirror re-architected around ICO guidance and EU AI Act Article 5(1)(f)."
+     }
+    ]
+   ]
+  },
+  {
+   "h": "EXPERIENCE",
+   "bullets": [
+    "E1-HE",
+    "E2"
+   ]
+  },
+  {
+   "h": "SKILLS",
+   "bullets": [
+    [
+     {
+      "t": "Learning platforms: ",
+      "b": true
+     },
+     {
+      "t": "Moodle (LMS), accessible PDF remediation, PowerPoint, Word, Excel"
+     }
+    ],
+    [
+     {
+      "t": "Automation and AI: ",
+      "b": true
+     },
+     {
+      "t": "Power Automate, SharePoint, Make, Notion, Microsoft Bookings and Forms, Claude and GenAI tooling, HTML/JavaScript (AI-assisted builds)"
+     }
+    ],
+    [
+     {
+      "t": "Analytics: ",
+      "b": true
+     },
+     {
+      "t": "Excel (VLOOKUP), Google Analytics 4, Microsoft Bookings dashboards"
+     }
+    ],
+    [
+     {
+      "t": "Accessibility and compliance: ",
+      "b": true
+     },
+     {
+      "t": "WCAG 2.2 AA, PAC auditing, SCULPT (extended to a nine-point checklist), Equality Act 2010, PSBAR 2018, UK GDPR and DPA 2018, EU AI Act Articles 5 and 50"
+     }
+    ],
+    [
+     {
+      "t": "Languages: ",
+      "b": true
+     },
+     {
+      "t": "English (professional), Mandarin (native)"
+     }
+    ]
+   ]
+  },
+  {
+   "h": "EDUCATION AND CERTIFICATES",
+   "bullets": [
+    "E-EDU"
+   ]
+  }
+ ]
+}
