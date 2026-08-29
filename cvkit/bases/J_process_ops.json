@@ -1,0 +1,118 @@
+{
+ "kind": "cv",
+ "_family": "J — process optimisation, operations analysis, learning operations",
+ "_howto": "Swap only: title, profile, irrelevant Skills groups, and section headings (mirror the person spec's order).",
+ "title": "[PASTE THE ADVERT JOB TITLE VERBATIM]",
+ "profile": "P-OPS",
+ "headlines": [
+  "H3",
+  "H2",
+  "H4",
+  "H1"
+ ],
+ "sections": [
+  {
+   "h": "OPERATIONS, ADMINISTRATION AND PROJECT COORDINATION",
+   "bullets": [
+    "PRJ-REC",
+    "PRJ-SORA",
+    "PRJ-BOOK",
+    [
+     {
+      "t": "Servicing and documentation",
+      "b": true
+     },
+     {
+      "t": " — staff briefings, conference minutes and written improvement proposals adopted by management; tracked each build from brief to delivery against fixed term deadlines."
+     }
+    ]
+   ]
+  },
+  {
+   "h": "BUDGETS, RESOURCES AND PROCUREMENT",
+   "bullets": [
+    "Runs the campus free period products station end to end: ordering, stock control and spend, coordinated across departments.",
+    "Dashboard evidence from the booking system supported a staffing business case that was approved, giving the service demand data by topic and presenting issue."
+   ]
+  },
+  {
+   "h": "COMMUNICATION WITH TECHNICAL AND NON-TECHNICAL STAKEHOLDERS",
+   "bullets": [
+    "PRJ-UX",
+    "Manages the shared inboxes and online VLE pages for two departments; day-to-day working relationship with the Marketing team.",
+    "PRJ-PARTNER"
+   ]
+  },
+  {
+   "h": "COMPLIANCE AND QUALITY",
+   "bullets": [
+    "PRJ-DOC",
+    "PRJ-GOV",
+    "Working knowledge of Equality Act 2010, PSBAR 2018, UK GDPR and DPA 2018."
+   ]
+  },
+  {
+   "h": "EXPERIENCE",
+   "bullets": [
+    "E1-HE",
+    "E2"
+   ]
+  },
+  {
+   "h": "SKILLS",
+   "bullets": [
+    [
+     {
+      "t": "Automation and systems: ",
+      "b": true
+     },
+     {
+      "t": "Power Automate, SharePoint, Make, Notion, Microsoft Bookings and Forms, Claude and GenAI tooling, HTML/JavaScript (AI-assisted builds)"
+     }
+    ],
+    [
+     {
+      "t": "Microsoft Office: ",
+      "b": true
+     },
+     {
+      "t": "Excel (VLOOKUP), Word, PowerPoint, accessible PDF remediation"
+     }
+    ],
+    [
+     {
+      "t": "Analytics: ",
+      "b": true
+     },
+     {
+      "t": "Excel, Google Analytics 4, Microsoft Bookings dashboards"
+     }
+    ],
+    [
+     {
+      "t": "Compliance: ",
+      "b": true
+     },
+     {
+      "t": "WCAG 2.2 AA, PAC auditing, SCULPT, Equality Act 2010, PSBAR 2018, UK GDPR and DPA 2018"
+     }
+    ],
+    [
+     {
+      "t": "Languages: ",
+      "b": true
+     },
+     {
+      "t": "English (professional), Mandarin (native)"
+     }
+    ]
+   ]
+  },
+  {
+   "h": "EDUCATION AND CERTIFICATES",
+   "bullets": [
+    "E-EDU"
+   ]
+  }
+ ]
+}
