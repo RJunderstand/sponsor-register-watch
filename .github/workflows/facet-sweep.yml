@@ -1,0 +1,77 @@
+# Save as .github/workflows/facet-sweep.yml
+#
+# Sweeps all ten jobs.ac.uk professional-services facets every morning and
+# applies the two gates that can be decided by code:
+#
+#   Gate 1  employer is on the sponsor register with Route == Skilled Worker
+#   Gate 2  top of the advertised band >= £33,400 (new entrant floor)
+#
+# Gate 3 (contract length) and Gate 4 (hard bars) still need the JD read, so
+# facets_today.json holds candidates, not decisions.
+#
+# Why: the assistant used to scrape these facets during its own run. One facet
+# cost about 4k tokens, so it could only afford four of ten and six went
+# unswept daily. Here all ten are swept for free and arrive pre-filtered.
+
+name: facet-sweep
+
+on:
+  schedule:
+    # 05:20 UTC, after update-register (so register.csv is fresh) and before
+    # the assistant's 05:05 local run picks the repo up.
+    - cron: "20 5 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: facet-sweep
+  cancel-in-progress: false
+
+jobs:
+  sweep:
+    runs-on: ubuntu-latest
+    timeout-minutes: 30
+
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Install dependencies
+        run: pip install --quiet requests
+
+      - name: Sweep all ten facets and apply Gate 1 and Gate 2
+        run: python jobwatch/sweep_facets.py
+
+      - name: Summary
+        run: |
+          {
+            echo "### jobs.ac.uk facet sweep"
+            echo ""
+            python - <<'PY'
+          import json, pathlib
+          d = json.loads(pathlib.Path("jobwatch/facets_today.json").read_text(encoding="utf8"))
+          c = d["counts"]
+          print(f"- swept **{c['raw']}** rows, **{c['unique']}** unique adverts")
+          print(f"- **{c['kept']}** new candidates passed Gate 1 and Gate 2")
+          print(f"- dropped: {c['seen_before']} seen before, {c['excluded_title']} on title, "
+                f"{c['gate1']} no sponsor licence, {c['gate2']} under the salary floor")
+          print("")
+          for j in d["jobs"][:20]:
+              fam = ", ".join(j["families"]) or "no family match"
+              print(f"  - **{j['title']}** — {j['employer']} — {j['salary_raw'] or 'salary not published'} "
+                    f"— closes {j['closes'] or 'n/a'} — _{fam}_")
+          PY
+          } >> "$GITHUB_STEP_SUMMARY"
+
+      - name: Commit
+        run: |
+          git config user.name "facet-sweep"
+          git config user.email "actions@users.noreply.github.com"
+          git add jobwatch/facets_today.json jobwatch/facets_seen.json
+          git diff --cached --quiet || git commit -m "facet sweep $(date -u +%F)"
+          git push
