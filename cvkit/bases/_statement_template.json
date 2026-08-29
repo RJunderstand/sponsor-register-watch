@@ -1,0 +1,32 @@
+{
+ "kind": "statement",
+ "_howto": "One paragraph per essential, in the person spec's own order and wording. Name the honest gaps in a 'What I have not done' paragraph. M-VISA then close. Zero em/en dashes. British spelling. 'per cent' not '%'. Numbers copied verbatim from blocks.json.",
+ "title": "Supporting statement: [ROLE TITLE] ([REF]), [EMPLOYER]",
+ "paragraphs": [
+  {
+   "text": "[Opening: which post you are applying for, where you work now, one sentence on why this role. If relocation matters, say so here.]"
+  },
+  {
+   "heading": "[Essential 1, in their words]",
+   "text": "[Your evidence, with the number in it. Copy numbers verbatim from blocks.json.]"
+  },
+  {
+   "heading": "[Essential 2, in their words]",
+   "text": "[...]"
+  },
+  {
+   "heading": "[Essential 3, in their words]",
+   "text": "[...]"
+  },
+  {
+   "heading": "What I have not done",
+   "text": "[Name the gap plainly, in one or two sentences. Do not pad it and do not apologise for it. See the gaps object in blocks.json.]"
+  },
+  {
+   "text": "M-VISA"
+  },
+  {
+   "close": true
+  }
+ ]
+}
