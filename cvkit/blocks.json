@@ -1,0 +1,76 @@
+{
+ "_source": "Build artefact of the Notion CV & Statement Block Library. Notion is authoritative. If the two disagree, Notion wins and this file is wrong. Never introduce wording here that is not in Notion or derived from a Master Profile fact.",
+ "_synced": "2026-08-29",
+ "identity": {
+  "name": "Ruojing (RJ) Kou",
+  "location": "Manchester, UK",
+  "phone": "+44 7770 096347",
+  "email": "rj1353954304@gmail.com",
+  "portfolio": "https://rjunderstand.github.io/portfolio/",
+  "linkedin": "https://www.linkedin.com/in/ruojing-kou-744170297"
+ },
+ "headlines": {
+  "H1": "15,705 WCAG 2.2 AA structural errors found across four student documents; first rebuild 2,068 to 4",
+  "H2": "SEN exam adjustments tool: 2-day manual check to 30 seconds, fully on-device, zero data egress",
+  "H3": "Student records automation: 30 minutes to 9 seconds per record, zero errors",
+  "H4": "Admin email down 60 to 70 per cent via self-service booking; the dashboard evidence won additional headcount",
+  "H5": "45-minute AI-in-HE session delivered solo to 24 staff, Aug 2026; repeat talk requested on the day; speaking at ALTC26"
+ },
+ "profiles": {
+  "P-HE": "Designs and ships accessible, GenAI-supported learning tools on the frontline of a UK university. MA Education Leadership. WCAG 2.2 AA, Equality Act 2010, PSBAR 2018, UK GDPR. Bilingual English / Mandarin.",
+  "P-OPS": "Turns manual processes into zero-error self-serve tools: 30 minutes to 9 seconds per record, two days to 30 seconds per check, admin email down 60 to 70 per cent. No-code and low-code (Power Automate, Make) with AI-assisted builds. MA Education Leadership."
+ },
+ "projects": {
+  "PRJ-REC": "Student Records Automation · Power Automate + SharePoint — per-record workflow from about 30 minutes to 9 seconds, zero errors, no per-run cost; reusable by non-technical colleagues each term.",
+  "PRJ-SORA": "SORA (SEN) Exam Support Tool · on-device web tool — cross-references exam reasonable-adjustment lists entirely on-device: 2-day manual process to 2 hours (Excel-logic iteration) to 30 seconds. Related lecturer-notification workflow consolidated from 3 days to 1 across 155 emails per term (2 errors to 0).",
+  "PRJ-BOOK": "Self-Service Wellbeing Booking System · Microsoft Bookings + dashboards — replaced email-based appointment handling; cut related admin email 60 to 70 per cent. Dashboards gave the service demand data by topic and presenting issue; that evidence supported an approved staffing case.",
+  "PRJ-DOC": "Document Accessibility Audit — audited four student-facing documents against WCAG 2.2 AA using PAC: 15,705 structural errors at baseline; the first rebuilt document went from 2,068 errors to 4. Extended the SCULPT framework into a nine-point checklist.",
+  "PRJ-UX": "Student Services UX Review — turned repeated front-desk queries into a structured review; identified 12 systemic failure points across the VLE, registration, certification and finance processes. After presenting to IT and Library Resources, the VLE login path was redesigned and related queries fell.",
+  "PRJ-GOV": "Wrote a three-tier governance framework covering personal data, third-party copyright and account hierarchy, with five written working rules; adopted into the project plan as an institutional precedent.",
+  "PRJ-MIRROR": "Gentle Mirror · browser-based · privacy-first · on-device — facial expression detection (deliberately not emotion inference), re-architected around ICO guidance and EU AI Act Article 5(1)(f).",
+  "PRJ-PARTNER": "Coordinated 25 external partner organisations: in-depth meetings with 4 and one site visit; materials now used for campus signposting."
+ },
+ "experience": {
+  "E1-HE": "Student Services Administrator, UGM Manchester (campus affiliated with University of Greater Manchester), Aug 2025 to present — frontline support for a diverse adult-learner population including ESL and additional-needs students; built the tools above; staff briefings, conference minutes, improvement proposals adopted by management; coordinated external wellbeing partnerships.",
+  "E2": "Sales Associate, Burberry, May 2024 to May 2025 — high-performance client-facing sales; stakeholder communication, relationship building, working to targets.",
+  "E-EDU": "MA Education Leadership, University of Chester (2023 to 2024) · BFA Graphic Design, Beijing Institute of Graphic Communication (2019 to 2023) · Anthropic AI Fluency Framework (2026) · Inclusive Education: SEND (2025) · Safeguarding Adults (2026) · GA4 (2026)"
+ },
+ "statement": {
+  "M-VISA": "I hold a Graduate visa and would need Skilled Worker sponsorship as a new entrant, where the applicable salary floor is £33,400.",
+  "M-CLOSE": "I would be genuinely glad of the chance to be considered. My portfolio is [here].",
+  "_M-CLOSE-note": "Fill the [here] slot with a hyperlinked word. Never print the bare URL. Plain-text-only fields are the documented exception (Profile §17.2)."
+ },
+ "facts": {
+  "address": "2a Old Birley Street, Manchester, M15 5RG",
+  "current_salary": "£25,000",
+  "notice_period": "1 month",
+  "criminal_convictions": "None",
+  "disability": "None declared; no reasonable adjustments required",
+  "dob": "10 July 2000",
+  "referee1": {
+   "name": "Mimi Tai",
+   "title": "Head of Quality",
+   "org": "UGM Manchester",
+   "email": "mimi.tai@manchester.bolton.ac.uk",
+   "phone": "07435994446",
+   "address": "Greenheys Lane, Manchester M15 6LR"
+  },
+  "referee2": {
+   "name": "Donglin Pei",
+   "title": "Senior Lecturer",
+   "org": "UGM Manchester",
+   "email": "donglin.pei@manchester.bolton.ac.uk",
+   "phone": "07435994446",
+   "address": "Greenheys Lane, Manchester M15 6LR"
+  }
+ },
+ "gaps": {
+  "_rule": "Never paper over these. Name them plainly in the supporting statement.",
+  "authoring_tools": "No Articulate Storyline, Rise, Captivate, Elucidat or Vyond experience. Do not claim it.",
+  "assistive_tech": "Capability yes, delivery record no. Has not run formal screen reader testing or delivered captioned content.",
+  "line_management": "Has not line-managed. Mentoring and informal coaching only.",
+  "commercial": "No book of enterprise accounts, no renewals, no QBRs.",
+  "health_safety": "Compliance background is accessibility and data protection, not H&S.",
+  "budget": "Runs ordering, stock and spend for the period products station. No formal departmental budget line, no recorded figures. Do not invent amounts."
+ }
+}
