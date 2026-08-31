@@ -311,8 +311,8 @@
  {
   "employer": "SambaNova Systems UK Limited",
   "title": "Customer Success Manager",
-  "location": "London, England, United Kingdom",
-  "url": "https://sambanova.ai/sambanova-available-positions/?gh_jid=6114166004",
+  "location": "Remote - US",
+  "url": "https://sambanova.ai/sambanova-available-positions/?gh_jid=6114176004",
   "posted": "2026-08-04",
   "ats": "greenhouse",
   "families": [
@@ -322,8 +322,8 @@
  {
   "employer": "SambaNova Systems UK Limited",
   "title": "Customer Success Manager",
-  "location": "Remote - US",
-  "url": "https://sambanova.ai/sambanova-available-positions/?gh_jid=6114176004",
+  "location": "London, England, United Kingdom",
+  "url": "https://sambanova.ai/sambanova-available-positions/?gh_jid=6114166004",
   "posted": "2026-08-04",
   "ats": "greenhouse",
   "families": [
@@ -555,17 +555,6 @@
   "employer": "WPP Media UK Limited",
   "title": "Account Manager, Planning",
   "location": "London, United Kingdom",
-  "url": "https://job-boards.greenhouse.io/wppmedia/jobs/5374051008",
-  "posted": "2026-08-10",
-  "ats": "greenhouse",
-  "families": [
-   "D_edtech_customer"
-  ]
- },
- {
-  "employer": "WPP Media UK Limited",
-  "title": "Account Manager, Planning",
-  "location": "London, United Kingdom",
   "url": "https://job-boards.greenhouse.io/wppmedia/jobs/5211330008",
   "posted": "2026-07-20",
   "ats": "greenhouse",
@@ -588,6 +577,17 @@
   "employer": "WPP Media UK Limited",
   "title": "Account Manager, Planning",
   "location": "London, United Kingdom",
+  "url": "https://job-boards.greenhouse.io/wppmedia/jobs/5374051008",
+  "posted": "2026-08-10",
+  "ats": "greenhouse",
+  "families": [
+   "D_edtech_customer"
+  ]
+ },
+ {
+  "employer": "WPP Media UK Limited",
+  "title": "Account Manager, Planning",
+  "location": "London, United Kingdom",
   "url": "https://job-boards.greenhouse.io/wppmedia/jobs/5239982008",
   "posted": "2026-07-09",
   "ats": "greenhouse",
@@ -599,8 +599,8 @@
   "employer": "WPP Media UK Limited",
   "title": "Account Manager, Programmatic",
   "location": "London, United Kingdom",
-  "url": "https://job-boards.greenhouse.io/wppmedia/jobs/5187822008",
-  "posted": "2026-07-02",
+  "url": "https://job-boards.greenhouse.io/wppmedia/jobs/5290060008",
+  "posted": "2026-07-07",
   "ats": "greenhouse",
   "families": [
    "D_edtech_customer"
@@ -610,8 +610,8 @@
   "employer": "WPP Media UK Limited",
   "title": "Account Manager, Programmatic",
   "location": "London, United Kingdom",
-  "url": "https://job-boards.greenhouse.io/wppmedia/jobs/5290060008",
-  "posted": "2026-07-07",
+  "url": "https://job-boards.greenhouse.io/wppmedia/jobs/5187822008",
+  "posted": "2026-07-02",
   "ats": "greenhouse",
   "families": [
    "D_edtech_customer"
@@ -686,9 +686,9 @@
  {
   "employer": "WPP Media UK Limited",
   "title": "Account Manager, Social",
-  "location": "London, United Kingdom",
-  "url": "https://job-boards.greenhouse.io/wppmedia/jobs/5226306008",
-  "posted": "2026-07-13",
+  "location": "Manchester, United Kingdom",
+  "url": "https://job-boards.greenhouse.io/wppmedia/jobs/5158963008",
+  "posted": "2026-07-02",
   "ats": "greenhouse",
   "families": [
    "D_edtech_customer"
@@ -697,9 +697,9 @@
  {
   "employer": "WPP Media UK Limited",
   "title": "Account Manager, Social",
-  "location": "Manchester, United Kingdom",
-  "url": "https://job-boards.greenhouse.io/wppmedia/jobs/5158963008",
-  "posted": "2026-07-02",
+  "location": "London, United Kingdom",
+  "url": "https://job-boards.greenhouse.io/wppmedia/jobs/5226306008",
+  "posted": "2026-07-13",
   "ats": "greenhouse",
   "families": [
    "D_edtech_customer"
@@ -752,9 +752,9 @@
  {
   "employer": "WPP Media UK Limited",
   "title": "Paid Social Account Manager",
-  "location": "London, United Kingdom",
-  "url": "https://job-boards.greenhouse.io/wppmedia/jobs/5379091008",
-  "posted": "2026-08-10",
+  "location": "Manchester, United Kingdom",
+  "url": "https://job-boards.greenhouse.io/wppmedia/jobs/5250807008",
+  "posted": "2026-07-02",
   "ats": "greenhouse",
   "families": [
    "D_edtech_customer"
@@ -763,9 +763,9 @@
  {
   "employer": "WPP Media UK Limited",
   "title": "Paid Social Account Manager",
-  "location": "Manchester, United Kingdom",
-  "url": "https://job-boards.greenhouse.io/wppmedia/jobs/5250807008",
-  "posted": "2026-07-02",
+  "location": "London, United Kingdom",
+  "url": "https://job-boards.greenhouse.io/wppmedia/jobs/5379091008",
+  "posted": "2026-08-10",
   "ats": "greenhouse",
   "families": [
    "D_edtech_customer"
