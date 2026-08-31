@@ -1,6 +1,6 @@
 {
- "generated": "2026-08-30T10:34:26Z",
- "run_date": "2026-08-30",
+ "generated": "2026-08-31T11:41:21Z",
+ "run_date": "2026-08-31",
  "floor": 33400,
  "facets_swept": [
   "pr-marketing-sales-and-communication",
@@ -15,14 +15,38 @@
   "other"
  ],
  "counts": {
-  "raw": 1676,
+  "raw": 1688,
   "unique": 170,
-  "kept": 0,
-  "seen_before": 99,
-  "excluded_title": 33,
-  "gate1": 12,
+  "kept": 1,
+  "seen_before": 98,
+  "excluded_title": 32,
+  "gate1": 13,
   "gate2": 26
  },
  "note": "Gate 1 and Gate 2 applied mechanically. Gate 3 and Gate 4 need the JD.",
- "jobs": []
+ "jobs": [
+  {
+   "advert_id": "1086316",
+   "title": "Assistant Farm Manager (Inspector Group 2) – Farm Unit Hillsborough",
+   "employer": "Agri-Food and Biosciences Institute (AFBI)",
+   "department": "Northern Ireland",
+   "location": "County Down, Royal Hillsborough",
+   "salary_raw": "£31,643 to £32,293\n                                    (£33,542 - £34,231 with effect from 1 August 2025)",
+   "closes": "18 Sep",
+   "url": "https://www.jobs.ac.uk/job/DST205/assistant-farm-manager-inspector-group-2-farm-unit-hillsborough",
+   "facet": "project-management-and-consulting",
+   "families": [],
+   "salary_bottom": 31643,
+   "salary_top": 34231,
+   "salary_note": "",
+   "gate2": "需谈薪至门槛以上",
+   "register_match": {
+    "matched_name": "Agri- Food and Biosciences Institute",
+    "rating": "Worker (A rating)",
+    "route": "Skilled Worker",
+    "skilled_worker": true
+   },
+   "gate3_gate4": "unassessed"
+  }
+ ]
 }
