@@ -1,5 +1,17 @@
 {
- "generated": "2026-08-31",
- "count": 0,
- "jobs": []
+ "generated": "2026-09-01",
+ "count": 1,
+ "jobs": [
+  {
+   "employer": "WPP Media UK Limited",
+   "title": "Account Manager, Clients",
+   "location": "London, United Kingdom",
+   "url": "https://job-boards.greenhouse.io/wppmedia/jobs/5290917008",
+   "posted": "2026-09-01",
+   "ats": "greenhouse",
+   "families": [
+    "D_edtech_customer"
+   ]
+  }
+ ]
 }
