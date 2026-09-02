@@ -1,16 +1,27 @@
 {
- "generated": "2026-09-01",
- "count": 1,
+ "generated": "2026-09-02",
+ "count": 2,
  "jobs": [
   {
-   "employer": "WPP Media UK Limited",
-   "title": "Account Manager, Clients",
-   "location": "London, United Kingdom",
-   "url": "https://job-boards.greenhouse.io/wppmedia/jobs/5290917008",
-   "posted": "2026-09-01",
-   "ats": "greenhouse",
+   "employer": "Portsmouth Hospitals University NHS Trust",
+   "title": "OneEPR Business Change Analyst",
+   "location": "Portsmouth England gb Portsmouth Hospitals University NHS Trust Corporate Hub, Block 4000, Lakeside North Harbour, Western Road, Cosham, Portsmouth, PO6 3EN PO6 3EN 50.842179 -1.086586 Portsmouth, England, United Kingdom",
+   "url": "https://jobs.smartrecruiters.com/744000145322389",
+   "posted": "2026-08-24",
+   "ats": "smartrecruiters",
    "families": [
-    "D_edtech_customer"
+    "J_process_ops"
+   ]
+  },
+  {
+   "employer": "Portsmouth Hospitals University NHS Trust",
+   "title": "Business Change Facilitator",
+   "location": "Newport England gb St Mary's Hosp (IOW), Parkhurst Road, Newport, Isle of Wight, PO30 5TG PO30 5TG 50.71085 -1.3013 Newport, England, United Kingdom",
+   "url": "https://jobs.smartrecruiters.com/744000145206669",
+   "posted": "2026-08-24",
+   "ats": "smartrecruiters",
+   "families": [
+    "J_process_ops"
    ]
   }
  ]
