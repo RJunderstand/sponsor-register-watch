@@ -1,24 +1,112 @@
 {
- "generated": "2026-09-02",
- "count": 2,
+ "generated": "2026-09-03",
+ "count": 10,
  "jobs": [
   {
-   "employer": "Portsmouth Hospitals University NHS Trust",
-   "title": "OneEPR Business Change Analyst",
-   "location": "Portsmouth England gb Portsmouth Hospitals University NHS Trust Corporate Hub, Block 4000, Lakeside North Harbour, Western Road, Cosham, Portsmouth, PO6 3EN PO6 3EN 50.842179 -1.086586 Portsmouth, England, United Kingdom",
-   "url": "https://jobs.smartrecruiters.com/744000145322389",
-   "posted": "2026-08-24",
+   "employer": "University of the West of England",
+   "title": "Learning Technologist Support",
+   "location": "Bristol gb Bristol, , United Kingdom",
+   "url": "https://jobs.smartrecruiters.com/743999696440620",
+   "posted": "2019-10-02",
    "ats": "smartrecruiters",
    "families": [
-    "J_process_ops"
+    "A_he_learning_tech"
    ]
   },
   {
-   "employer": "Portsmouth Hospitals University NHS Trust",
-   "title": "Business Change Facilitator",
-   "location": "Newport England gb St Mary's Hosp (IOW), Parkhurst Road, Newport, Isle of Wight, PO30 5TG PO30 5TG 50.71085 -1.3013 Newport, England, United Kingdom",
-   "url": "https://jobs.smartrecruiters.com/744000145206669",
-   "posted": "2026-08-24",
+   "employer": "University of the West of England",
+   "title": "Marketing Communications Officer",
+   "location": "Bristol gb Bristol, , United Kingdom",
+   "url": "https://jobs.smartrecruiters.com/743999696440633",
+   "posted": "2019-10-02",
+   "ats": "smartrecruiters",
+   "families": [
+    "C_marketing_recruitment"
+   ]
+  },
+  {
+   "employer": "University of the West of England",
+   "title": "Marketing Campaigns Manager",
+   "location": "Bristol gb Bristol, , United Kingdom",
+   "url": "https://jobs.smartrecruiters.com/743999696440581",
+   "posted": "2019-10-02",
+   "ats": "smartrecruiters",
+   "families": [
+    "C_marketing_recruitment"
+   ]
+  },
+  {
+   "employer": "Veeam Software UK Limited",
+   "title": "Senior Customer Success Engineer",
+   "location": "Remote, United Arab Emirates",
+   "url": "https://job-boards.eu.greenhouse.io/veeamsoftware/jobs/4744256101",
+   "posted": "2026-09-02",
+   "ats": "greenhouse",
+   "families": [
+    "D_edtech_customer"
+   ]
+  },
+  {
+   "employer": "Veeam Software UK Limited",
+   "title": "Sr. Customer Success Engineer, LATAM",
+   "location": "Remote, Costa Rica",
+   "url": "https://job-boards.eu.greenhouse.io/veeamsoftware/jobs/4966995101",
+   "posted": "2026-09-02",
+   "ats": "greenhouse",
+   "families": [
+    "D_edtech_customer"
+   ]
+  },
+  {
+   "employer": "Wunderkind Technologies UK Ltd",
+   "title": "Customer Success Associate",
+   "location": "New York; Remote",
+   "url": "https://www.wunderkind.co/careers/?gh_jid=8170584",
+   "posted": "2026-09-02",
+   "ats": "greenhouse",
+   "families": [
+    "D_edtech_customer"
+   ]
+  },
+  {
+   "employer": "Wunderkind Technologies UK Ltd",
+   "title": "Customer Success Manager",
+   "location": "New York; Remote",
+   "url": "https://www.wunderkind.co/careers/?gh_jid=8170814",
+   "posted": "2026-09-02",
+   "ats": "greenhouse",
+   "families": [
+    "D_edtech_customer"
+   ]
+  },
+  {
+   "employer": "University of the West of England",
+   "title": "Apprenticeship Training Coordinator - Built Environment",
+   "location": "Bristol gb BS16 1QY Bristol, , United Kingdom",
+   "url": "https://jobs.smartrecruiters.com/743999696824606",
+   "posted": "2019-10-08",
+   "ats": "smartrecruiters",
+   "families": [
+    "E_learning_ops"
+   ]
+  },
+  {
+   "employer": "Captify Technologies Ltd",
+   "title": "Graphic Designer",
+   "location": "London, UK",
+   "url": "https://job-boards.greenhouse.io/captify/jobs/8778315002",
+   "posted": "2026-09-02",
+   "ats": "greenhouse",
+   "families": [
+    "G_content_multimedia"
+   ]
+  },
+  {
+   "employer": "University of the West of England",
+   "title": "Senior Business Analyst",
+   "location": "Bristol gb Bristol, , United Kingdom",
+   "url": "https://jobs.smartrecruiters.com/743999696441626",
+   "posted": "2019-10-02",
    "ats": "smartrecruiters",
    "families": [
     "J_process_ops"
