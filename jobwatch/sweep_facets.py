@@ -67,7 +67,8 @@ FACETS = [
 # ever read. That was the exact limitation this script exists to remove.
 # Advance by the number of rows actually parsed, never by a constant.
 PAGE_SIZE = 25
-MAX_PAGES_PER_FACET = 8  # 200 rows a facet; the facets are date-sorted
+MAX_PAGES_PER_FACET = 8      # daily delta run: newest 200 a facet is enough
+MAX_PAGES_BACKLOG = 60       # one-off stock sweep: up to 1,500 a facet
 
 BASE = "https://www.jobs.ac.uk"
 UA = "Mozilla/5.0 (compatible; sponsor-register-watch/1.0; +https://github.com/RJunderstand/sponsor-register-watch)"
@@ -123,6 +124,12 @@ FAMILIES: dict[str, list[str]] = {
         "ai compliance", "ai risk",
     ],
     "I_document_accessibility": ["accessib", "wcag", "inclusive content", "document remediation"],
+    "K_student_support": [
+        "wellbeing", "well-being", "welfare", "adviser", "advisor",
+        "student support", "student experience", "disability", "safeguarding",
+        "mental health", "counselling", "pastoral", "student services",
+        "inclusion officer", "learning support",
+    ],
     "J_process_ops": [
         "process improvement", "business analyst", "service improvement",
         "operations analyst", "continuous improvement", "business change",
@@ -160,8 +167,39 @@ def families_for(title: str) -> list[str]:
     return [fam for fam, words in FAMILIES.items() if any(w in t for w in words)]
 
 
-def parse_salary(raw: str) -> tuple[int | None, int | None, str]:
-    """Return (bottom, top, note). Both None means the band could not be read."""
+FTE_RE = re.compile(r"(\d(?:\.\d+)?)\s*FTE", re.I)
+HOURS_RE = re.compile(r"(\d{1,2}(?:\.\d+)?)\s*hours?\s*(?:per|a)\s*week", re.I)
+FULL_WEEK = 37.0
+
+
+def fte_factor(*texts: str) -> float | None:
+    """Read a part-time fraction out of any of the given strings.
+
+    ADDED 2026-09-04. Gate 2 used to compare the advertised FTE band straight
+    against the floor, so two part-time posts passed that should not have:
+    Brunel Project Officer 16973 was advertised at £41,292-£44,762 but is
+    14 hours a week (about £16k actual), and City St George's Senior WP Officer
+    100373 is 0.8 FTE. Judge on the pro-rated figure, per Gate 2.
+    """
+    for t in texts:
+        if not t:
+            continue
+        m = FTE_RE.search(t)
+        if m:
+            f = float(m.group(1))
+            if 0 < f <= 1:
+                return f
+        m = HOURS_RE.search(t)
+        if m:
+            return min(float(m.group(1)) / FULL_WEEK, 1.0)
+    return None
+
+
+def parse_salary(raw: str, *extra: str) -> tuple[int | None, int | None, str]:
+    """Return (bottom, top, note). Both None means the band could not be read.
+
+    bottom/top are PRO-RATED when a part-time fraction can be read.
+    """
     if not raw:
         return None, None, "SALARY_UNKNOWN"
     txt = raw.replace(",", "")
@@ -170,9 +208,16 @@ def parse_salary(raw: str) -> tuple[int | None, int | None, str]:
         return None, None, "SALARY_UNKNOWN"
     bottom, top = min(nums), max(nums)
     note = ""
-    if re.search(r"\bpro[- ]?rata\b|\bper hour\b|\bhourly\b|\bp/h\b", raw, re.I):
-        note = "CHECK_HOURS"       # Gate 2 trap: the Derby 18.5-hour case
-    if re.search(r"\bpart[- ]?time\b", raw, re.I):
+
+    factor = fte_factor(raw, *extra)
+    if factor is not None and factor < 1:
+        bottom = int(bottom * factor)
+        top = int(top * factor)
+        note = f"PRO_RATED_{factor:.3f}"
+    elif re.search(r"\bpro[- ]?rata\b|\bper hour\b|\bhourly\b|\bp/h\b|\bpart[- ]?time\b",
+                   raw, re.I):
+        # Part-time flagged but the fraction is not on the search page.
+        # Do not trust the band; make the run open the advert.
         note = "CHECK_HOURS"
     return bottom, top, note
 
@@ -272,33 +317,48 @@ def fetch(url: str, session: requests.Session, tries: int = 3) -> str:
 
 
 def sweep_facet(slug: str, session: requests.Session) -> list[dict]:
-    rows, start, total = [], 0, None
-    for page in range(MAX_PAGES_PER_FACET):
+    """Page through one facet.
+
+    FIXED 2026-09-04. Three bugs, all proven against the live site:
+
+    1. jobs.ac.uk startIndex is ONE-BASED. Its own pagination links are
+       startIndex=1 for page 1 and startIndex=26 for page 2. The old code
+       started at 0 and incremented by found_on_page, so the first two
+       requests both returned page 1 and every later offset was off by one.
+       Verified: startIndex=0 and startIndex=25 return an identical 25 rows.
+    2. FOUND_RE never matched, so `total` stayed None, so the "start >= total"
+       exit never fired and there was no sanity check on how much we had read.
+    3. MAX_PAGES_PER_FACET x PAGE_SIZE capped every facet at its newest N
+       adverts. Because the facets are date-sorted, anything posted before the
+       watcher started is permanently unreachable. That is why UGM Alumni
+       Officer 0240-26 (posted 29 July) and Sheffield Student Wellbeing Adviser
+       3046 (posted 18 August) were never surfaced.
+
+    Pass backlog=True (or set SWEEP_BACKLOG=1) to page until exhaustion.
+    """
+    backlog = os.environ.get("SWEEP_BACKLOG") == "1"
+    max_pages = MAX_PAGES_BACKLOG if backlog else MAX_PAGES_PER_FACET
+    rows: list[dict] = []
+    seen_ids_prev: set[str] = set()
+    start = 1                       # one-based, not zero
+    for page in range(max_pages):
         url = (f"{BASE}/search/{slug}?activeFacet=nonAcademicDisciplineFacet"
                f"&sortOrder=1&pageSize={PAGE_SIZE}&startIndex={start}"
                f"&nonAcademicDisciplineFacet%5B0%5D={slug}")
         body = fetch(url, session)
         if not body:
             break
-        if total is None:
-            m = FOUND_RE.search(body)
-            # Must stay None when the count cannot be read. An earlier version
-            # used 0 here, which made "start >= total" true immediately and
-            # stopped every facet after its first page. That is the whole bug
-            # this script was written to avoid.
-            total = int(m.group(1).replace(",", "")) if m else None
-            print(f"{slug}: {total if total is not None else 'count unknown'} jobs found")
-        found_on_page = 0
+
+        page_rows, page_ids = [], set()
         for block in RESULT_RE.finditer(body):
             chunk = block.group(0)
             link = LINK_RE.search(chunk)
             if not link:
                 continue
-            found_on_page += 1
-            title = clean(link.group(2))
-            rows.append({
+            page_ids.add(block.group("advert"))
+            page_rows.append({
                 "advert_id": block.group("advert"),
-                "title": title,
+                "title": clean(link.group(2)),
                 "employer": clean((EMPLOYER_RE.search(chunk) or [None, ""])[1]
                                   if EMPLOYER_RE.search(chunk) else ""),
                 "department": clean((DEPT_RE.search(chunk) or [None, ""])[1]
@@ -312,13 +372,26 @@ def sweep_facet(slug: str, session: requests.Session) -> list[dict]:
                 "url": BASE + link.group(1),
                 "facet": slug,
             })
-        if found_on_page == 0:
+
+        if not page_rows:
             break
-        start += found_on_page          # never a constant; see the PAGE_SIZE note
-        if total is not None and start >= total:
+        # Guard: if a page repeats the previous page exactly, the offset
+        # parameter has stopped working. Stop rather than spin.
+        if page_ids and page_ids == seen_ids_prev:
+            print(f"  {slug}: page {page + 1} repeated page {page}; "
+                  f"stopping (offset parameter may have changed)", file=sys.stderr)
             break
+        seen_ids_prev = page_ids
+        rows.extend(page_rows)
+
+        if len(page_rows) < PAGE_SIZE:
+            break                    # short page means we reached the end
+        start += PAGE_SIZE           # fixed step, matching the site's own links
         time.sleep(2)
-    print(f"  {slug}: collected {len(rows)} of {total}")
+
+    uniq = len({r["advert_id"] for r in rows})
+    print(f"  {slug}: {len(rows)} rows, {uniq} unique"
+          f"{' (BACKLOG MODE)' if backlog else ''}")
     return rows
 
 
@@ -348,14 +421,14 @@ def main() -> int:
 
     kept, stats = [], {"seen_before": 0, "excluded_title": 0, "gate1": 0, "gate2": 0}
     for advert_id, row in by_id.items():
-        if advert_id in seen:
+        if advert_id in seen and os.environ.get("SWEEP_BACKLOG") != "1":
             stats["seen_before"] += 1
             continue
         if EXCLUDE.search(row["title"]):
             stats["excluded_title"] += 1
             continue
 
-        bottom, top, note = parse_salary(row["salary_raw"])
+        bottom, top, note = parse_salary(row["salary_raw"], row.get("title", ""), row.get("location", ""))
         if top is not None and top < NEW_ENTRANT_FLOOR:
             stats["gate2"] += 1
             continue
