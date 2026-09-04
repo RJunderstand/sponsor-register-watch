@@ -45,7 +45,7 @@ jobs:
         run: pip install --quiet requests
 
       - name: Sweep all ten facets and apply Gate 1 and Gate 2
-        run: python jobwatch/sweep_facets.py
+        run: SWEEP_BACKLOG=${{ github.event_name == 'workflow_dispatch' && '1' || '0' }} python jobwatch/sweep_facets.py
 
       - name: Summary
         run: |
