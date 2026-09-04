@@ -40,30 +40,6 @@
   "M-CLOSE": "I would be genuinely glad of the chance to be considered. My portfolio is [here].",
   "_M-CLOSE-note": "Fill the [here] slot with a hyperlinked word. Never print the bare URL. Plain-text-only fields are the documented exception (Profile §17.2)."
  },
- "facts": {
-  "address": "2a Old Birley Street, Manchester, M15 5RG",
-  "current_salary": "£25,000",
-  "notice_period": "1 month",
-  "criminal_convictions": "None",
-  "disability": "None declared; no reasonable adjustments required",
-  "dob": "10 July 2000",
-  "referee1": {
-   "name": "Mimi Tai",
-   "title": "Head of Quality",
-   "org": "UGM Manchester",
-   "email": "mimi.tai@manchester.bolton.ac.uk",
-   "phone": "07435994446",
-   "address": "Greenheys Lane, Manchester M15 6LR"
-  },
-  "referee2": {
-   "name": "Donglin Pei",
-   "title": "Senior Lecturer",
-   "org": "UGM Manchester",
-   "email": "donglin.pei@manchester.bolton.ac.uk",
-   "phone": "07435994446",
-   "address": "Greenheys Lane, Manchester M15 6LR"
-  }
- },
  "gaps": {
   "_rule": "Never paper over these. Name them plainly in the supporting statement.",
   "authoring_tools": "No Articulate Storyline, Rise, Captivate, Elucidat or Vyond experience. Do not claim it.",
@@ -72,5 +48,6 @@
   "commercial": "No book of enterprise accounts, no renewals, no QBRs.",
   "health_safety": "Compliance background is accessibility and data protection, not H&S.",
   "budget": "Runs ordering, stock and spend for the period products station. No formal departmental budget line, no recorded figures. Do not invent amounts."
- }
+ },
+ "_note": "Personal facts (address, DOB, salary, criminal convictions, disability, referees) removed 2026-08-31: this repository was public from 2026-08-24 to 2026-09-04 and is now private; no code in it reads these fields. Keep such data in the private Notion Master Profile only."
 }
