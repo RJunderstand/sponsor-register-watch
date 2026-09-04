@@ -24,9 +24,9 @@
  {
   "employer": "Bottomline Technologies Limited",
   "title": "Customer Success Manager",
-  "location": "zzDNU UK, London",
+  "location": "United Kingdom",
   "url": "https://job-boards.greenhouse.io/bottomlinetechnologies/jobs/8323809002",
-  "posted": "2026-07-29",
+  "posted": "2026-09-03",
   "ats": "greenhouse",
   "families": [
    "D_edtech_customer"
@@ -37,7 +37,7 @@
   "title": "Account Manager (Media)",
   "location": "London, UK",
   "url": "https://job-boards.greenhouse.io/captify/jobs/8687358002",
-  "posted": "2026-09-02",
+  "posted": "2026-09-03",
   "ats": "greenhouse",
   "families": [
    "D_edtech_customer"
@@ -48,7 +48,7 @@
   "title": "Graphic Designer",
   "location": "London, UK",
   "url": "https://job-boards.greenhouse.io/captify/jobs/8778315002",
-  "posted": "2026-09-02",
+  "posted": "2026-09-03",
   "ats": "greenhouse",
   "families": [
    "G_content_multimedia"
@@ -72,17 +72,6 @@
   "url": "https://jobs.ashbyhq.com/claylabs/9d4828b2-8c23-406d-8225-b916ff9174c0",
   "posted": "2025-07-16",
   "ats": "ashby",
-  "families": [
-   "D_edtech_customer"
-  ]
- },
- {
-  "employer": "D2L Europe Limited",
-  "title": "Customer Success Manager",
-  "location": "UK - remote; London, UK",
-  "url": "https://www.d2l.com/careers/jobs/?job_id=8044319&gh_jid=8044319",
-  "posted": "2026-07-20",
-  "ats": "greenhouse",
   "families": [
    "D_edtech_customer"
   ]
@@ -210,17 +199,6 @@
   ]
  },
  {
-  "employer": "Instructure Global Limited",
-  "title": "Learning Consultant",
-  "location": "US-REMOTE",
-  "url": "https://jobs.ashbyhq.com/instructure/294fab1d-6104-4fe6-b6da-8aa78e6da7f1",
-  "posted": "2026-08-27",
-  "ats": "ashby",
-  "families": [
-   "B_corporate_ld"
-  ]
- },
- {
   "employer": "MONIEPOINT TECHNOLOGIES UK LTD",
   "title": "Senior Business Analyst",
   "location": "Remote, Bangalore",
@@ -266,13 +244,13 @@
  },
  {
   "employer": "Multiverse Group Limited",
-  "title": "Technical Instructional Designer (AI Programmes)",
+  "title": "Campaigns & Content Specialist",
   "location": "London",
-  "url": "https://jobs.ashbyhq.com/multiverse/5e2c6d02-a513-451b-a486-3405841a0e40",
-  "posted": "2026-07-21",
+  "url": "https://jobs.ashbyhq.com/multiverse/6b217f4f-13f7-4c67-b0b6-b6d201e921c7",
+  "posted": "2026-09-03",
   "ats": "ashby",
   "families": [
-   "A_he_learning_tech"
+   "C_marketing_recruitment"
   ]
  },
  {
@@ -344,8 +322,8 @@
  {
   "employer": "SambaNova Systems UK Limited",
   "title": "Customer Success Manager",
-  "location": "Remote - US",
-  "url": "https://sambanova.ai/sambanova-available-positions/?gh_jid=6114176004",
+  "location": "London, England, United Kingdom",
+  "url": "https://sambanova.ai/sambanova-available-positions/?gh_jid=6114166004",
   "posted": "2026-08-04",
   "ats": "greenhouse",
   "families": [
@@ -355,8 +333,8 @@
  {
   "employer": "SambaNova Systems UK Limited",
   "title": "Customer Success Manager",
-  "location": "London, England, United Kingdom",
-  "url": "https://sambanova.ai/sambanova-available-positions/?gh_jid=6114166004",
+  "location": "Remote - US",
+  "url": "https://sambanova.ai/sambanova-available-positions/?gh_jid=6114176004",
   "posted": "2026-08-04",
   "ats": "greenhouse",
   "families": [
@@ -368,17 +346,6 @@
   "title": "Enterprise Customer Success Manager - Central",
   "location": "Remote",
   "url": "https://job-boards.greenhouse.io/sigmacomputing/jobs/7906143003",
-  "posted": "2026-08-26",
-  "ats": "greenhouse",
-  "families": [
-   "D_edtech_customer"
-  ]
- },
- {
-  "employer": "Sigma Computing UK Limited",
-  "title": "Enterprise Customer Success Manager - Upper Midwest Region",
-  "location": "Remote",
-  "url": "https://job-boards.greenhouse.io/sigmacomputing/jobs/7787045003",
   "posted": "2026-08-26",
   "ats": "greenhouse",
   "families": [
@@ -501,7 +468,7 @@
   "title": "Senior Customer Success Engineer",
   "location": "Remote, United Arab Emirates",
   "url": "https://job-boards.eu.greenhouse.io/veeamsoftware/jobs/4744256101",
-  "posted": "2026-09-02",
+  "posted": "2026-09-03",
   "ats": "greenhouse",
   "families": [
    "D_edtech_customer"
@@ -535,17 +502,6 @@
   "location": "London, United Kingdom",
   "url": "https://job-boards.greenhouse.io/wppmedia/jobs/5372522008",
   "posted": "2026-09-01",
-  "ats": "greenhouse",
-  "families": [
-   "D_edtech_customer"
-  ]
- },
- {
-  "employer": "WPP Media UK Limited",
-  "title": "Account Manager",
-  "location": "London, United Kingdom",
-  "url": "https://job-boards.greenhouse.io/wppmedia/jobs/5373728008",
-  "posted": "2026-08-14",
   "ats": "greenhouse",
   "families": [
    "D_edtech_customer"
@@ -665,8 +621,8 @@
   "employer": "WPP Media UK Limited",
   "title": "Account Manager, Planning",
   "location": "London, United Kingdom",
-  "url": "https://job-boards.greenhouse.io/wppmedia/jobs/5211330008",
-  "posted": "2026-07-20",
+  "url": "https://job-boards.greenhouse.io/wppmedia/jobs/5380446008",
+  "posted": "2026-08-14",
   "ats": "greenhouse",
   "families": [
    "D_edtech_customer"
@@ -676,8 +632,8 @@
   "employer": "WPP Media UK Limited",
   "title": "Account Manager, Planning",
   "location": "London, United Kingdom",
-  "url": "https://job-boards.greenhouse.io/wppmedia/jobs/5380446008",
-  "posted": "2026-08-14",
+  "url": "https://job-boards.greenhouse.io/wppmedia/jobs/5211330008",
+  "posted": "2026-07-20",
   "ats": "greenhouse",
   "families": [
    "D_edtech_customer"
@@ -775,6 +731,17 @@
   "employer": "WPP Media UK Limited",
   "title": "Account Manager, Social",
   "location": "London, United Kingdom",
+  "url": "https://job-boards.greenhouse.io/wppmedia/jobs/5226306008",
+  "posted": "2026-07-13",
+  "ats": "greenhouse",
+  "families": [
+   "D_edtech_customer"
+  ]
+ },
+ {
+  "employer": "WPP Media UK Limited",
+  "title": "Account Manager, Social",
+  "location": "London, United Kingdom",
   "url": "https://job-boards.greenhouse.io/wppmedia/jobs/5226336008",
   "posted": "2026-07-02",
   "ats": "greenhouse",
@@ -788,17 +755,6 @@
   "location": "Manchester, United Kingdom",
   "url": "https://job-boards.greenhouse.io/wppmedia/jobs/5158963008",
   "posted": "2026-07-02",
-  "ats": "greenhouse",
-  "families": [
-   "D_edtech_customer"
-  ]
- },
- {
-  "employer": "WPP Media UK Limited",
-  "title": "Account Manager, Social",
-  "location": "London, United Kingdom",
-  "url": "https://job-boards.greenhouse.io/wppmedia/jobs/5226306008",
-  "posted": "2026-07-13",
   "ats": "greenhouse",
   "families": [
    "D_edtech_customer"
@@ -851,9 +807,9 @@
  {
   "employer": "WPP Media UK Limited",
   "title": "Paid Social Account Manager",
-  "location": "London, United Kingdom",
-  "url": "https://job-boards.greenhouse.io/wppmedia/jobs/5379091008",
-  "posted": "2026-08-10",
+  "location": "Manchester, United Kingdom",
+  "url": "https://job-boards.greenhouse.io/wppmedia/jobs/5250807008",
+  "posted": "2026-07-02",
   "ats": "greenhouse",
   "families": [
    "D_edtech_customer"
@@ -862,9 +818,9 @@
  {
   "employer": "WPP Media UK Limited",
   "title": "Paid Social Account Manager",
-  "location": "Manchester, United Kingdom",
-  "url": "https://job-boards.greenhouse.io/wppmedia/jobs/5250807008",
-  "posted": "2026-07-02",
+  "location": "London, United Kingdom",
+  "url": "https://job-boards.greenhouse.io/wppmedia/jobs/5379091008",
+  "posted": "2026-08-10",
   "ats": "greenhouse",
   "families": [
    "D_edtech_customer"
