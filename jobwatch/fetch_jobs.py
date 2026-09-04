@@ -57,6 +57,13 @@ FAMILIES: dict[str, list[str]] = {
         "campaigns", "international officer", "international recruitment",
         "china", "partnerships officer", "engagement officer", "admissions",
         "brand", "social media", "digital marketing",
+    
+        "alumni",
+        "development officer",
+        "philanthropy",
+        "supporter relations",
+        "donor",
+        "fundraising",
     ],
     "D_edtech_customer": [
         "customer success", "implementation consultant", "onboarding",
@@ -78,6 +85,10 @@ FAMILIES: dict[str, list[str]] = {
         "content producer", "content designer", "multimedia", "video producer",
         "motion design", "graphic design", "creative producer", "digital content",
         "content creator", "content manager", "editorial",
+    
+        "intranet",
+        "content strategy",
+        "content and experience",
     ],
     "H_ai_governance": [
         "ai governance", "responsible ai", "ai policy", "ai assurance",
@@ -86,6 +97,11 @@ FAMILIES: dict[str, list[str]] = {
     ],
     "I_document_accessibility": [
         "accessib", "wcag", "inclusive content", "document remediation",
+    ],
+    "K_student_support": [
+        "wellbeing", "well-being", "welfare", "student support",
+        "student experience", "disability", "safeguarding", "pastoral",
+        "mental health", "inclusion officer", "learning support",
     ],
     "J_process_ops": [
         "process improvement", "business analyst", "service improvement",
