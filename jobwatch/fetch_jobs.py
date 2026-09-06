@@ -234,7 +234,8 @@ def postings(ats: str, data) -> list[dict]:
 #         <ul class="list-inline ..."><li><i class="fa fa-map-marker"></i>City, Region, Country</li> ...</ul></li>
 JAZZHR_ITEM = re.compile(r'<li class="list-group-item">(?P<body>.*?)</ul>\s*</li>', re.S)
 JAZZHR_LINK = re.compile(r'<a[^>]+href="(?P<url>https?://[^"]+/apply/[^"]+)"[^>]*>(?P<title>.*?)</a>', re.S)
-JAZZHR_LOC = re.compile(r'fa-map-marker"></i>\s*(?P<loc>[^<]+?)\s*</li>', re.S)
+JAZZHR_LOC = re.compile(r'fa-map-marker[^>]*>(?:\s*</i>)?\s*(?P<loc>[^<]+?)\s*</li>', re.S)
+JAZZHR_LI = re.compile(r'<li[^>]*>(?P<li>.*?)</li>', re.S)
 # HireHive: <a href="/slug-ID" class="... hh-job-row ..."> <h3 ...hh-job-row-title><span>Title</span></h3>
 #           <div ...hh-job-row-location> <svg/> City, Country </div> <div ...hh-job-row-experience> <svg/> Full Time </div> </a>
 HIREHIVE_ROW = re.compile(r'<a[^>]+href="(?P<href>/[^"]+)"[^>]*hh-job-row[^>]*>(?P<body>.*?)</a>', re.S)
@@ -266,8 +267,15 @@ def pull_html(session: requests.Session, emp: dict) -> list[dict]:
                 continue
             seen.add(link["url"])
             locm = JAZZHR_LOC.search(body)
+            loc = _text(locm["loc"]) if locm else ""
+            if not loc:  # fall back: first <li> whose text looks like "City, Country"
+                for li in JAZZHR_LI.finditer(body):
+                    t = _text(li["li"])
+                    if "," in t:
+                        loc = t
+                        break
             out.append({"employer": emp["name"], "title": _text(link["title"]),
-                        "location": _text(locm["loc"]) if locm else "", "url": link["url"],
+                        "location": loc, "url": link["url"],
                         "posted": "", "ats": "jazzhr"})
     elif emp["ats"] == "hirehive":
         base = emp["endpoint"].rstrip("/")
