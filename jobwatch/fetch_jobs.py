@@ -25,6 +25,7 @@ from datetime import date
 from pathlib import Path
 
 import requests
+from html import unescape as html_unescape
 
 REGISTRY = Path("ats_registry.json")
 STATE = Path("all_current.json")
@@ -224,20 +225,71 @@ def postings(ats: str, data) -> list[dict]:
     return []
 
 
-def pull(session: requests.Session, emp: dict) -> list[dict]:
+# ---------------------------------------------------------------------------
+# HTML career pages (no JSON API). Added 2026-09-06 for the pathway providers
+# RJ asked for: Study Group (JazzHR) and Kaplan International (HireHive).
+# Both pages are server-rendered, so a regex over the listing page is enough.
+# ---------------------------------------------------------------------------
+JAZZHR_A = re.compile(r'<a[^>]+href="(?P<url>https?://[a-z0-9\-]+\.applytojob\.com/apply/[A-Za-z0-9]+/[^"]*)"[^>]*>(?P<title>.*?)</a>(?P<tail>.{0,600}?)(?=<a[^>]+href="https?://[a-z0-9\-]+\.applytojob\.com/apply/|$)', re.S)
+JAZZHR_LOC = re.compile(r'<li[^>]*>\s*(?P<loc>[^<]{2,80}?)\s*</li>', re.S)
+HIREHIVE_A = re.compile(r'<a[^>]+href="(?P<url>https?://[a-z0-9\-]+\.hirehive\.com/[a-z0-9\-]+-[A-Za-z0-9]{6})"[^>]*>(?P<body>.*?)</a>', re.S)
+HIREHIVE_TXT = re.compile(r"^(?P<title>.+)\s+(?P<loc>[A-Z][\w .'\-]*?,\s*[^,()]+?)\s+(?P<type>Full Time|Part Time|Contract|Permanent|Temporary)$", re.S)
+TAG = re.compile(r'<[^>]+>')
+
+
+def _text(fragment: str) -> str:
+    return re.sub(r'\s+', ' ', html_unescape(TAG.sub(' ', fragment))).strip()
+
+
+def pull_html(session: requests.Session, emp: dict) -> list[dict]:
     try:
         r = session.get(emp["endpoint"], timeout=TIMEOUT, headers=UA)
         if r.status_code != 200:
             return []
-        data = r.json()
+        page = r.text
     except Exception:
         return []
+    out, seen = [], set()
+    if emp["ats"] == "jazzhr":
+        for m in JAZZHR_A.finditer(page):
+            url = m["url"]
+            if url in seen:
+                continue
+            seen.add(url)
+            locm = JAZZHR_LOC.search(m["tail"] or "")
+            out.append({"employer": emp["name"], "title": _text(m["title"]),
+                        "location": _text(locm["loc"]) if locm else "", "url": url,
+                        "posted": "", "ats": "jazzhr"})
+    elif emp["ats"] == "hirehive":
+        for m in HIREHIVE_A.finditer(page):
+            url = m["url"]
+            if url in seen:
+                continue
+            seen.add(url)
+            txt = _text(m["body"])
+            t = HIREHIVE_TXT.match(txt)
+            title, loc = (t["title"], t["loc"]) if t else (txt, "")
+            out.append({"employer": emp["name"], "title": title.strip(),
+                        "location": loc.strip(), "url": url, "posted": "", "ats": "hirehive"})
+    return out
+
+
+def pull(session: requests.Session, emp: dict) -> list[dict]:
+    if emp["ats"] in ("jazzhr", "hirehive"):
+        recs = pull_html(session, emp)
+    else:
+        try:
+            r = session.get(emp["endpoint"], timeout=TIMEOUT, headers=UA)
+            if r.status_code != 200:
+                return []
+            data = r.json()
+        except Exception:
+            return []
+        recs = [norm(emp["ats"], emp["name"], raw)
+                for raw in postings(emp["ats"], data) if isinstance(raw, dict)]
 
     out = []
-    for raw in postings(emp["ats"], data):
-        if not isinstance(raw, dict):
-            continue
-        rec = norm(emp["ats"], emp["name"], raw)
+    for rec in recs:
         if not rec:
             continue
         if EXCLUDE.search(rec["title"]):
@@ -266,6 +318,14 @@ def main() -> int:
 
     reg = json.loads(REGISTRY.read_text(encoding="utf-8"))
     employers = reg.get("employers", [])
+    # Small hand-maintained additions (pathway providers etc.) live in a separate
+    # file so the 280 KB registry never has to be re-uploaded by hand.
+    extra = REGISTRY.with_name("ats_registry_extra.json")
+    if extra.exists():
+        known = {e.get("name") for e in employers}
+        for e in json.loads(extra.read_text(encoding="utf-8")).get("employers", []):
+            if e.get("name") not in known:
+                employers.append(e)
     print(f"pulling {len(employers)} feeds")
 
     session = requests.Session()
