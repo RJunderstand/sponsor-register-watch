@@ -885,6 +885,17 @@
   "employer": "Study Group Limited",
   "title": "Account Manager",
   "location": "",
+  "url": "https://studygroupuk.applytojob.com/apply/HLRhltSdCM/Account-Manager",
+  "posted": "",
+  "ats": "jazzhr",
+  "families": [
+   "D_edtech_customer"
+  ]
+ },
+ {
+  "employer": "Study Group Limited",
+  "title": "Account Manager",
+  "location": "",
   "url": "https://studygroupuk.applytojob.com/apply/xakK38gFsl/Account-Manager",
   "posted": "",
   "ats": "jazzhr",
@@ -927,24 +938,13 @@
  },
  {
   "employer": "Study Group Limited",
-  "title": "Mathematics and Statistics Tutor Bath, Somerset, United Kingdom Learning Delivery Mechanical Engineering Tutor Liverpool, Merseyside, United Kingdom Learning Delivery Partner Sales Manager Brighton, East Sussex, United Kingdom Partner Sales - UKEI and LATAM People Onboarding Specialist",
+  "title": "People Onboarding Specialist",
   "location": "",
-  "url": "https://studygroupuk.applytojob.com/apply/huWSsn2mf3/Mathematics-And-Statistics-Tutor",
+  "url": "https://studygroupuk.applytojob.com/apply/E0vb7wHfjW/People-Onboarding-Specialist",
   "posted": "",
   "ats": "jazzhr",
   "families": [
    "D_edtech_customer"
-  ]
- },
- {
-  "employer": "Study Group Limited",
-  "title": "Progress and Engagement Coach Leeds, West Yorkshire, United Kingdom Campus Student Experience Team Progression and Transition Coordinator",
-  "location": "",
-  "url": "https://studygroupuk.applytojob.com/apply/BF9FAc2iCi/Progress-And-Engagement-Coach",
-  "posted": "",
-  "ats": "jazzhr",
-  "families": [
-   "K_student_support"
   ]
  },
  {
@@ -993,9 +993,31 @@
  },
  {
   "employer": "Study Group Limited",
-  "title": "Student Experience Officer Leeds, West Yorkshire, United Kingdom Campus Student Experience Team Student Recruitment Manager, Bellerbys Global",
+  "title": "Student Experience Officer",
   "location": "",
   "url": "https://studygroupuk.applytojob.com/apply/lS6yly9dwh/Student-Experience-Officer",
+  "posted": "",
+  "ats": "jazzhr",
+  "families": [
+   "K_student_support"
+  ]
+ },
+ {
+  "employer": "Study Group Limited",
+  "title": "Student Recruitment Manager, Bellerbys Global",
+  "location": "",
+  "url": "https://studygroupuk.applytojob.com/apply/RcPgAni53n/Student-Recruitment-Manager-Bellerbys-Global",
+  "posted": "",
+  "ats": "jazzhr",
+  "families": [
+   "C_marketing_recruitment"
+  ]
+ },
+ {
+  "employer": "Study Group Limited",
+  "title": "Student Wellbeing & Engagement Officer",
+  "location": "",
+  "url": "https://studygroupuk.applytojob.com/apply/W6JIzf4w4Y/Student-Wellbeing-Engagement-Officer",
   "posted": "",
   "ats": "jazzhr",
   "families": [
@@ -1005,13 +1027,35 @@
  },
  {
   "employer": "Study Group Limited",
-  "title": "Student Wellbeing & Engagement Officer Leeds, West Yorkshire, United Kingdom Campus Student Experience Team Tourism and Hospitality Tutor",
+  "title": "Wellbeing & Engagement Coordinator",
   "location": "",
-  "url": "https://studygroupuk.applytojob.com/apply/W6JIzf4w4Y/Student-Wellbeing-Engagement-Officer",
+  "url": "https://studygroupuk.applytojob.com/apply/sp5uWlIzYp/Wellbeing-Engagement-Coordinator",
+  "posted": "",
+  "ats": "jazzhr",
+  "families": [
+   "K_student_support"
+  ]
+ },
+ {
+  "employer": "Study Group Limited",
+  "title": "Wellbeing and Engagement Officer (Part-Time)",
+  "location": "",
+  "url": "https://studygroupuk.applytojob.com/apply/C0WlNtvDSx/Wellbeing-And-Engagement-Officer-PartTime",
   "posted": "",
   "ats": "jazzhr",
   "families": [
    "C_marketing_recruitment",
+   "K_student_support"
+  ]
+ },
+ {
+  "employer": "Kaplan International Colleges U.K. Limited",
+  "title": "Live In Wellbeing Coordinator (Part Time)",
+  "location": "Brighton, United Kingdom",
+  "url": "https://kaplan-international.hirehive.com/live-in-wellbeing-coordinator-brighton-scKXfg",
+  "posted": "",
+  "ats": "hirehive",
+  "families": [
    "K_student_support"
   ]
  }
