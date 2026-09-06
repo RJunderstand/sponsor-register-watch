@@ -1,0 +1,24 @@
+{
+ "employers": [
+  {
+   "name": "Study Group Limited",
+   "ats": "jazzhr",
+   "slug": "studygroupuk",
+   "endpoint": "https://studygroupuk.applytojob.com/apply",
+   "confirmed_as": "Study Group",
+   "guessed": false,
+   "checked": "2026-09-06",
+   "note": "pathway provider; register: Study Group Limited, Brighton, Worker A, Skilled Worker"
+  },
+  {
+   "name": "Kaplan International Colleges U.K. Limited",
+   "ats": "hirehive",
+   "slug": "kaplan-international",
+   "endpoint": "https://kaplan-international.hirehive.com/",
+   "confirmed_as": "Kaplan International",
+   "guessed": false,
+   "checked": "2026-09-06",
+   "note": "pathway provider (Kaplan Pathways); register: Kaplan International Colleges U.K. Limited, London, Worker A, Skilled Worker"
+  }
+ ]
+}
