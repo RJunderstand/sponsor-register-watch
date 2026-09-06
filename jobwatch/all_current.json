@@ -223,8 +223,8 @@
  {
   "employer": "MONIEPOINT TECHNOLOGIES UK LTD",
   "title": "Senior Business Analyst",
-  "location": "Remote, Bangalore",
-  "url": "https://job-boards.eu.greenhouse.io/moniepoint/jobs/4912941101",
+  "location": "Remote, London, United Kingdom",
+  "url": "https://job-boards.eu.greenhouse.io/moniepoint/jobs/4912592101",
   "posted": "2026-08-19",
   "ats": "greenhouse",
   "families": [
@@ -234,8 +234,8 @@
  {
   "employer": "MONIEPOINT TECHNOLOGIES UK LTD",
   "title": "Senior Business Analyst",
-  "location": "Remote, London, United Kingdom",
-  "url": "https://job-boards.eu.greenhouse.io/moniepoint/jobs/4912592101",
+  "location": "Remote, Bangalore",
+  "url": "https://job-boards.eu.greenhouse.io/moniepoint/jobs/4912941101",
   "posted": "2026-08-19",
   "ats": "greenhouse",
   "families": [
@@ -333,8 +333,8 @@
  {
   "employer": "SambaNova Systems UK Limited",
   "title": "Customer Success Manager",
-  "location": "London, England, United Kingdom",
-  "url": "https://sambanova.ai/sambanova-available-positions/?gh_jid=6114166004",
+  "location": "Remote - US",
+  "url": "https://sambanova.ai/sambanova-available-positions/?gh_jid=6114176004",
   "posted": "2026-09-05",
   "ats": "greenhouse",
   "families": [
@@ -344,8 +344,8 @@
  {
   "employer": "SambaNova Systems UK Limited",
   "title": "Customer Success Manager",
-  "location": "Remote - US",
-  "url": "https://sambanova.ai/sambanova-available-positions/?gh_jid=6114176004",
+  "location": "London, England, United Kingdom",
+  "url": "https://sambanova.ai/sambanova-available-positions/?gh_jid=6114166004",
   "posted": "2026-09-05",
   "ats": "greenhouse",
   "families": [
@@ -500,8 +500,8 @@
   "employer": "WPP Media UK Limited",
   "title": "Account Manager",
   "location": "London, United Kingdom",
-  "url": "https://job-boards.greenhouse.io/wppmedia/jobs/5314985008",
-  "posted": "2026-07-15",
+  "url": "https://job-boards.greenhouse.io/wppmedia/jobs/5372522008",
+  "posted": "2026-09-01",
   "ats": "greenhouse",
   "families": [
    "D_edtech_customer"
@@ -511,8 +511,8 @@
   "employer": "WPP Media UK Limited",
   "title": "Account Manager",
   "location": "London, United Kingdom",
-  "url": "https://job-boards.greenhouse.io/wppmedia/jobs/5372522008",
-  "posted": "2026-09-01",
+  "url": "https://job-boards.greenhouse.io/wppmedia/jobs/5314985008",
+  "posted": "2026-07-15",
   "ats": "greenhouse",
   "families": [
    "D_edtech_customer"
@@ -731,6 +731,17 @@
   "employer": "WPP Media UK Limited",
   "title": "Account Manager, Social",
   "location": "London, United Kingdom",
+  "url": "https://job-boards.greenhouse.io/wppmedia/jobs/5226336008",
+  "posted": "2026-07-02",
+  "ats": "greenhouse",
+  "families": [
+   "D_edtech_customer"
+  ]
+ },
+ {
+  "employer": "WPP Media UK Limited",
+  "title": "Account Manager, Social",
+  "location": "London, United Kingdom",
   "url": "https://job-boards.greenhouse.io/wppmedia/jobs/5226306008",
   "posted": "2026-07-13",
   "ats": "greenhouse",
@@ -743,17 +754,6 @@
   "title": "Account Manager, Social",
   "location": "Manchester, United Kingdom",
   "url": "https://job-boards.greenhouse.io/wppmedia/jobs/5158963008",
-  "posted": "2026-07-02",
-  "ats": "greenhouse",
-  "families": [
-   "D_edtech_customer"
-  ]
- },
- {
-  "employer": "WPP Media UK Limited",
-  "title": "Account Manager, Social",
-  "location": "London, United Kingdom",
-  "url": "https://job-boards.greenhouse.io/wppmedia/jobs/5226336008",
   "posted": "2026-07-02",
   "ats": "greenhouse",
   "families": [
@@ -884,29 +884,7 @@
  {
   "employer": "Study Group Limited",
   "title": "Account Manager",
-  "location": "",
-  "url": "https://studygroupuk.applytojob.com/apply/HLRhltSdCM/Account-Manager",
-  "posted": "",
-  "ats": "jazzhr",
-  "families": [
-   "D_edtech_customer"
-  ]
- },
- {
-  "employer": "Study Group Limited",
-  "title": "Account Manager",
-  "location": "",
-  "url": "https://studygroupuk.applytojob.com/apply/xakK38gFsl/Account-Manager",
-  "posted": "",
-  "ats": "jazzhr",
-  "families": [
-   "D_edtech_customer"
-  ]
- },
- {
-  "employer": "Study Group Limited",
-  "title": "Account Manager",
-  "location": "",
+  "location": "Remote",
   "url": "https://studygroupuk.applytojob.com/apply/YRTj6H2mE9/Account-Manager",
   "posted": "",
   "ats": "jazzhr",
@@ -916,74 +894,8 @@
  },
  {
   "employer": "Study Group Limited",
-  "title": "Digital Content & Growth Manager",
-  "location": "",
-  "url": "https://studygroupuk.applytojob.com/apply/hLr2dPkqVr/Digital-Content-Growth-Manager",
-  "posted": "",
-  "ats": "jazzhr",
-  "families": [
-   "G_content_multimedia"
-  ]
- },
- {
-  "employer": "Study Group Limited",
-  "title": "Digital Content & Growth Manager",
-  "location": "",
-  "url": "https://studygroupuk.applytojob.com/apply/9Czir17nGf/Digital-Content-Growth-Manager",
-  "posted": "",
-  "ats": "jazzhr",
-  "families": [
-   "G_content_multimedia"
-  ]
- },
- {
-  "employer": "Study Group Limited",
-  "title": "People Onboarding Specialist",
-  "location": "",
-  "url": "https://studygroupuk.applytojob.com/apply/E0vb7wHfjW/People-Onboarding-Specialist",
-  "posted": "",
-  "ats": "jazzhr",
-  "families": [
-   "D_edtech_customer"
-  ]
- },
- {
-  "employer": "Study Group Limited",
-  "title": "Senior Account Manager",
-  "location": "",
-  "url": "https://studygroupuk.applytojob.com/apply/muQ5Kbhb53/Senior-Account-Manager",
-  "posted": "",
-  "ats": "jazzhr",
-  "families": [
-   "D_edtech_customer"
-  ]
- },
- {
-  "employer": "Study Group Limited",
-  "title": "Senior Account Manager",
-  "location": "",
-  "url": "https://studygroupuk.applytojob.com/apply/w7iJLwE1bP/Senior-Account-Manager",
-  "posted": "",
-  "ats": "jazzhr",
-  "families": [
-   "D_edtech_customer"
-  ]
- },
- {
-  "employer": "Study Group Limited",
-  "title": "Social Media Intern",
-  "location": "",
-  "url": "https://studygroupuk.applytojob.com/apply/XaD59wHvyl/Social-Media-Intern",
-  "posted": "",
-  "ats": "jazzhr",
-  "families": [
-   "C_marketing_recruitment"
-  ]
- },
- {
-  "employer": "Study Group Limited",
   "title": "Student Experience Coordinator - Operations",
-  "location": "",
+  "location": "Huddersfield, West Yorkshire, United Kingdom",
   "url": "https://studygroupuk.applytojob.com/apply/6iLGsiE52a/Student-Experience-Coordinator-Operations",
   "posted": "",
   "ats": "jazzhr",
@@ -994,7 +906,7 @@
  {
   "employer": "Study Group Limited",
   "title": "Student Experience Officer",
-  "location": "",
+  "location": "Leeds, West Yorkshire, United Kingdom",
   "url": "https://studygroupuk.applytojob.com/apply/lS6yly9dwh/Student-Experience-Officer",
   "posted": "",
   "ats": "jazzhr",
@@ -1004,19 +916,8 @@
  },
  {
   "employer": "Study Group Limited",
-  "title": "Student Recruitment Manager, Bellerbys Global",
-  "location": "",
-  "url": "https://studygroupuk.applytojob.com/apply/RcPgAni53n/Student-Recruitment-Manager-Bellerbys-Global",
-  "posted": "",
-  "ats": "jazzhr",
-  "families": [
-   "C_marketing_recruitment"
-  ]
- },
- {
-  "employer": "Study Group Limited",
   "title": "Student Wellbeing & Engagement Officer",
-  "location": "",
+  "location": "Leeds, West Yorkshire, United Kingdom",
   "url": "https://studygroupuk.applytojob.com/apply/W6JIzf4w4Y/Student-Wellbeing-Engagement-Officer",
   "posted": "",
   "ats": "jazzhr",
@@ -1028,7 +929,7 @@
  {
   "employer": "Study Group Limited",
   "title": "Wellbeing & Engagement Coordinator",
-  "location": "",
+  "location": "Kingston Upon Thames, Surrey, United Kingdom",
   "url": "https://studygroupuk.applytojob.com/apply/sp5uWlIzYp/Wellbeing-Engagement-Coordinator",
   "posted": "",
   "ats": "jazzhr",
@@ -1039,7 +940,7 @@
  {
   "employer": "Study Group Limited",
   "title": "Wellbeing and Engagement Officer (Part-Time)",
-  "location": "",
+  "location": "Brighton, East Sussex, United Kingdom",
   "url": "https://studygroupuk.applytojob.com/apply/C0WlNtvDSx/Wellbeing-And-Engagement-Officer-PartTime",
   "posted": "",
   "ats": "jazzhr",
