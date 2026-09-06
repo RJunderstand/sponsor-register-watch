@@ -19,6 +19,7 @@ Rules (from RJ 2026-09-05/06):
   R15c  part-time / < 30 h / fixed term < 12 months in title -> OUT.
   R15d  Oxford/Cambridge grade <= 5 with a non-officer title -> FLAG.
   R15e  postings whose location names a non-UK country -> OUT.
+  R15f  ATS feed rows with a `posted` date older than 60 days -> OUT (stale; UWE 2019 posts).
 
 Usage:
   python3 prefilter.py <repo>/jobwatch/facets_today.json <repo>/jobwatch/new_today.json prefilter_today.json
@@ -28,9 +29,11 @@ from __future__ import annotations
 import json
 import re
 import sys
+from datetime import date, timedelta
 from pathlib import Path
 
 FLOOR = 33_400
+STALE_DAYS = 60
 
 ADMIN_TITLE = re.compile(
     r"\b(administrator|administrative|admin assistant|admin officer|clerk|clerical|receptionist|secretary|"
@@ -64,6 +67,14 @@ def decide(row: dict) -> tuple[str, str]:
 
     if NOT_UK.search(loc) or NOT_UK.search(title):
         return "OUT", "R15e non-UK location"
+
+    posted = (row.get("posted") or "")[:10]
+    if re.fullmatch(r"\d{4}-\d{2}-\d{2}", posted):
+        try:
+            if date.fromisoformat(posted) < date.today() - timedelta(days=STALE_DAYS):
+                return "OUT", f"R15f stale posting ({posted})"
+        except ValueError:
+            pass
 
     top = row.get("salary_top")
     if top is None:
