@@ -230,15 +230,23 @@ def postings(ats: str, data) -> list[dict]:
 # RJ asked for: Study Group (JazzHR) and Kaplan International (HireHive).
 # Both pages are server-rendered, so a regex over the listing page is enough.
 # ---------------------------------------------------------------------------
-JAZZHR_A = re.compile(r'<a[^>]+href="(?P<url>https?://[a-z0-9\-]+\.applytojob\.com/apply/[A-Za-z0-9]+/[^"]*)"[^>]*>(?P<title>.*?)</a>(?P<tail>.{0,600}?)(?=<a[^>]+href="https?://[a-z0-9\-]+\.applytojob\.com/apply/|$)', re.S)
-JAZZHR_LOC = re.compile(r'<li[^>]*>\s*(?P<loc>[^<]{2,80}?)\s*</li>', re.S)
-HIREHIVE_A = re.compile(r'<a[^>]+href="(?P<url>https?://[a-z0-9\-]+\.hirehive\.com/[a-z0-9\-]+-[A-Za-z0-9]{6})"[^>]*>(?P<body>.*?)</a>', re.S)
-HIREHIVE_TXT = re.compile(r"^(?P<title>.+)\s+(?P<loc>[A-Z][\w .'\-]*?,\s*[^,()]+?)\s+(?P<type>Full Time|Part Time|Contract|Permanent|Temporary)$", re.S)
+# JazzHR: <li class="list-group-item"> <h3><a href="https://x.applytojob.com/apply/ID/Slug">Title</a></h3>
+#         <ul class="list-inline ..."><li><i class="fa fa-map-marker"></i>City, Region, Country</li> ...</ul></li>
+JAZZHR_ITEM = re.compile(r'<li class="list-group-item">(?P<body>.*?)</ul>\s*</li>', re.S)
+JAZZHR_LINK = re.compile(r'<a[^>]+href="(?P<url>https?://[^"]+/apply/[^"]+)"[^>]*>(?P<title>.*?)</a>', re.S)
+JAZZHR_LOC = re.compile(r'fa-map-marker"></i>\s*(?P<loc>[^<]+?)\s*</li>', re.S)
+# HireHive: <a href="/slug-ID" class="... hh-job-row ..."> <h3 ...hh-job-row-title><span>Title</span></h3>
+#           <div ...hh-job-row-location> <svg/> City, Country </div> <div ...hh-job-row-experience> <svg/> Full Time </div> </a>
+HIREHIVE_ROW = re.compile(r'<a[^>]+href="(?P<href>/[^"]+)"[^>]*hh-job-row[^>]*>(?P<body>.*?)</a>', re.S)
+HIREHIVE_TITLE = re.compile(r'hh-job-row-title[^>]*>(?P<t>.*?)</h3>', re.S)
+HIREHIVE_LOC = re.compile(r'hh-job-row-location[^>]*>(?P<l>.*?)</div>', re.S)
+HIREHIVE_TYPE = re.compile(r'hh-job-row-experience[^>]*>(?P<x>.*?)</div>', re.S)
 TAG = re.compile(r'<[^>]+>')
+SVG = re.compile(r'<svg.*?</svg>', re.S)
 
 
 def _text(fragment: str) -> str:
-    return re.sub(r'\s+', ' ', html_unescape(TAG.sub(' ', fragment))).strip()
+    return re.sub(r'\s+', ' ', html_unescape(TAG.sub(' ', SVG.sub(' ', fragment or '')))).strip()
 
 
 def pull_html(session: requests.Session, emp: dict) -> list[dict]:
@@ -251,26 +259,32 @@ def pull_html(session: requests.Session, emp: dict) -> list[dict]:
         return []
     out, seen = [], set()
     if emp["ats"] == "jazzhr":
-        for m in JAZZHR_A.finditer(page):
-            url = m["url"]
-            if url in seen:
+        for item in JAZZHR_ITEM.finditer(page):
+            body = item["body"]
+            link = JAZZHR_LINK.search(body)
+            if not link or link["url"] in seen:
                 continue
-            seen.add(url)
-            locm = JAZZHR_LOC.search(m["tail"] or "")
-            out.append({"employer": emp["name"], "title": _text(m["title"]),
-                        "location": _text(locm["loc"]) if locm else "", "url": url,
+            seen.add(link["url"])
+            locm = JAZZHR_LOC.search(body)
+            out.append({"employer": emp["name"], "title": _text(link["title"]),
+                        "location": _text(locm["loc"]) if locm else "", "url": link["url"],
                         "posted": "", "ats": "jazzhr"})
     elif emp["ats"] == "hirehive":
-        for m in HIREHIVE_A.finditer(page):
-            url = m["url"]
+        base = emp["endpoint"].rstrip("/")
+        for row in HIREHIVE_ROW.finditer(page):
+            url = base + row["href"]
             if url in seen:
                 continue
             seen.add(url)
-            txt = _text(m["body"])
-            t = HIREHIVE_TXT.match(txt)
-            title, loc = (t["title"], t["loc"]) if t else (txt, "")
-            out.append({"employer": emp["name"], "title": title.strip(),
-                        "location": loc.strip(), "url": url, "posted": "", "ats": "hirehive"})
+            body = row["body"]
+            t = HIREHIVE_TITLE.search(body); l = HIREHIVE_LOC.search(body); x = HIREHIVE_TYPE.search(body)
+            title = _text(t["t"]) if t else ""
+            if not title:
+                continue
+            loc = _text(l["l"]) if l else ""
+            kind = _text(x["x"]) if x else ""
+            out.append({"employer": emp["name"], "title": title + (f" ({kind})" if kind and kind != "Full Time" else ""),
+                        "location": loc, "url": url, "posted": "", "ats": "hirehive"})
     return out
 
 
