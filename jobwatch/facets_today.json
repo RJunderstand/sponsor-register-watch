@@ -1,6 +1,6 @@
 {
- "generated": "2026-09-06T09:27:24Z",
- "run_date": "2026-09-06",
+ "generated": "2026-09-07T10:19:50Z",
+ "run_date": "2026-09-07",
  "floor": 33400,
  "facets_swept": [
   "pr-marketing-sales-and-communication",
@@ -16,13 +16,131 @@
  ],
  "counts": {
   "raw": 212,
-  "unique": 160,
-  "kept": 0,
-  "seen_before": 102,
+  "unique": 161,
+  "kept": 5,
+  "seen_before": 97,
   "excluded_title": 34,
-  "gate1": 3,
-  "gate2": 21
+  "gate1": 5,
+  "gate2": 20
  },
  "note": "Gate 1 and Gate 2 applied mechanically. Gate 3 and Gate 4 need the JD.",
- "jobs": []
+ "jobs": [
+  {
+   "advert_id": "1087073",
+   "title": "Employer Engagement Adviser",
+   "employer": "London School of Economics and Political Science",
+   "department": "LSE Careers",
+   "location": "London",
+   "salary_raw": "£43,277 to £51,714\n                                    per annum inclusive with potential to progress to £55,497 pa inclusive of London allowance",
+   "closes": "20 Sep",
+   "url": "https://www.jobs.ac.uk/job/DSV784/employer-engagement-adviser",
+   "facet": "pr-marketing-sales-and-communication",
+   "families": [
+    "K_student_support"
+   ],
+   "salary_bottom": 43277,
+   "salary_top": 55497,
+   "salary_note": "",
+   "gate2": "达标",
+   "register_match": {
+    "matched_name": "The London School of Economics and Political Science",
+    "rating": "Worker (A rating)",
+    "route": "Skilled Worker",
+    "skilled_worker": true
+   },
+   "gate3_gate4": "unassessed"
+  },
+  {
+   "advert_id": "1087056",
+   "title": "Senior IT & AV Engineer",
+   "employer": "University of Cambridge",
+   "department": "St Catharine's College",
+   "location": "Cambridge",
+   "salary_raw": "£36,000 to £40,000\n                                    pa, depending on skills and experience",
+   "closes": "11 Sep",
+   "url": "https://www.jobs.ac.uk/job/DSV758/senior-it-and-av-engineer",
+   "facet": "it-services",
+   "families": [],
+   "salary_bottom": 36000,
+   "salary_top": 40000,
+   "salary_note": "",
+   "gate2": "达标",
+   "register_match": {
+    "matched_name": "The University of Cambridge",
+    "rating": "Worker (A rating)",
+    "route": "Skilled Worker",
+    "skilled_worker": true
+   },
+   "gate3_gate4": "unassessed"
+  },
+  {
+   "advert_id": "1087079",
+   "title": "Collections Manager, Western Art",
+   "employer": "University of Oxford",
+   "department": "Ashmolean Museum",
+   "location": "Oxford",
+   "salary_raw": "£35,681 to £39,424\n                                    per annum. Grade 6",
+   "closes": "16 Sep",
+   "url": "https://www.jobs.ac.uk/job/DSV794/collections-manager-western-art",
+   "facet": "library-services-data-and-information-management",
+   "families": [],
+   "salary_bottom": 35681,
+   "salary_top": 39424,
+   "salary_note": "",
+   "gate2": "达标",
+   "register_match": {
+    "matched_name": "University of Oxford",
+    "rating": "Worker (A rating)",
+    "route": "Skilled Worker",
+    "skilled_worker": true
+   },
+   "gate3_gate4": "unassessed"
+  },
+  {
+   "advert_id": "1087080",
+   "title": "Project Coordinator",
+   "employer": "Royal College of Art",
+   "department": "Research & Innovation - Consultancy & Commercial Services",
+   "location": "London",
+   "salary_raw": "£44,840 to £48,416",
+   "closes": "20 Sep",
+   "url": "https://www.jobs.ac.uk/job/DSV796/project-coordinator",
+   "facet": "pr-marketing-sales-and-communication",
+   "families": [],
+   "salary_bottom": 44840,
+   "salary_top": 48416,
+   "salary_note": "",
+   "gate2": "达标",
+   "register_match": {
+    "matched_name": "Royal College of Art",
+    "rating": "Worker (A rating)",
+    "route": "Skilled Worker",
+    "skilled_worker": true
+   },
+   "gate3_gate4": "unassessed"
+  },
+  {
+   "advert_id": "1087052",
+   "title": "Transformation Change Manager",
+   "employer": "Newcastle University",
+   "department": "",
+   "location": "Newcastle",
+   "salary_raw": "£47,389 to £50,253\n                                    with progression to £56,535 per annum",
+   "closes": "21 Sep",
+   "url": "https://www.jobs.ac.uk/job/DSV747/transformation-change-manager",
+   "facet": "project-management-and-consulting",
+   "families": [],
+   "salary_bottom": 47389,
+   "salary_top": 56535,
+   "salary_note": "",
+   "gate2": "达标",
+   "register_match": {
+    "matched_name": "Newcastle University",
+    "rating": "Worker (A rating)",
+    "route": "Skilled Worker",
+    "skilled_worker": true
+   },
+   "gate3_gate4": "unassessed"
+  }
+ ]
 }
