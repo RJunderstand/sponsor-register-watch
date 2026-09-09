@@ -1,49 +1,50 @@
 {
- "generated": "2026-09-08",
+ "generated": "2026-09-09",
  "count": 4,
  "jobs": [
   {
-   "employer": "WPP Media UK Limited",
-   "title": "Account Manager, Solutions Planning",
-   "location": "London, United Kingdom",
-   "url": "https://job-boards.greenhouse.io/wppmedia/jobs/5406681008",
-   "posted": "2026-09-07",
-   "ats": "greenhouse",
+   "employer": "Multiverse Group Limited",
+   "title": "Campaigns & Content Specialist",
+   "location": "London",
+   "url": "https://jobs.ashbyhq.com/multiverse/6b217f4f-13f7-4c67-b0b6-b6d201e921c7",
+   "posted": "2026-09-09",
+   "ats": "ashby",
+   "families": [
+    "C_marketing_recruitment"
+   ]
+  },
+  {
+   "employer": "Study Group Limited",
+   "title": "Student Wellbeing & Engagement Officer",
+   "location": "Sheffield, South Yorkshire, United Kingdom",
+   "url": "https://studygroupuk.applytojob.com/apply/vw67Xw6Cjd/Student-Wellbeing-Engagement-Officer",
+   "posted": "",
+   "ats": "jazzhr",
+   "families": [
+    "C_marketing_recruitment",
+    "K_student_support"
+   ]
+  },
+  {
+   "employer": "Docebo UK Limited",
+   "title": "Technical Account Manager",
+   "location": "London, UK",
+   "url": "https://jobs.ashbyhq.com/docebo/e765bf7a-ac13-4108-aeef-0961dfa4d130",
+   "posted": "2026-09-08",
+   "ats": "ashby",
    "families": [
     "D_edtech_customer"
    ]
   },
   {
-   "employer": "Portsmouth Hospitals University NHS Trust",
-   "title": "OneEPR Business Change Analyst",
-   "location": "Portsmouth England gb Portsmouth Hospitals University NHS Trust Corporate Hub, Block 4000, Lakeside North Harbour, Western Road, Cosham, Portsmouth, PO6 3EN PO6 3EN 50.842179 -1.086586 Portsmouth, England, United Kingdom",
-   "url": "https://jobs.smartrecruiters.com/744000147958535",
-   "posted": "2026-09-07",
-   "ats": "smartrecruiters",
+   "employer": "Proton Technologies Ltd",
+   "title": "Motion Designer",
+   "location": "Paris; London",
+   "url": "https://job-boards.eu.greenhouse.io/proton/jobs/4932397101",
+   "posted": "2026-09-09",
+   "ats": "greenhouse",
    "families": [
-    "J_process_ops"
-   ]
-  },
-  {
-   "employer": "Portsmouth Hospitals University NHS Trust",
-   "title": "Business Change Facilitator",
-   "location": "Newport England gb St Mary's Hosp (IOW), Parkhurst Road, Newport, Isle of Wight, PO30 5TG PO30 5TG 50.71085 -1.3013 Newport, England, United Kingdom",
-   "url": "https://jobs.smartrecruiters.com/744000147953717",
-   "posted": "2026-09-07",
-   "ats": "smartrecruiters",
-   "families": [
-    "J_process_ops"
-   ]
-  },
-  {
-   "employer": "Study Group Limited",
-   "title": "Senior Wellbeing & Engagement Coordinator",
-   "location": "Kingston Upon Thames, Surrey, United Kingdom",
-   "url": "https://studygroupuk.applytojob.com/apply/sp5uWlIzYp/Senior-Wellbeing-Engagement-Coordinator",
-   "posted": "",
-   "ats": "jazzhr",
-   "families": [
-    "K_student_support"
+    "G_content_multimedia"
    ]
   }
  ]
