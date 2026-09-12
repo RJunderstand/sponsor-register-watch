@@ -44,6 +44,17 @@
   ]
  },
  {
+  "employer": "Bottomline Technologies Limited",
+  "title": "Customer Success Manager, Risk Solutions",
+  "location": "UK, Theale (Reading)",
+  "url": "https://job-boards.greenhouse.io/bottomlinetechnologies/jobs/8648539002",
+  "posted": "2026-09-11",
+  "ats": "greenhouse",
+  "families": [
+   "D_edtech_customer"
+  ]
+ },
+ {
   "employer": "Captify Technologies Ltd",
   "title": "Account Manager (Media)",
   "location": "London, UK",
@@ -185,6 +196,17 @@
   "ats": "lever",
   "families": [
    "C_marketing_recruitment"
+  ]
+ },
+ {
+  "employer": "HONOR TECHNOLOGIES (UK) CO., LTD",
+  "title": "Learning and Development Lead",
+  "location": "Remote Position",
+  "url": "https://boards.greenhouse.io/honor/jobs/8802274002?gh_jid=8802274002",
+  "posted": "2026-09-11",
+  "ats": "greenhouse",
+  "families": [
+   "B_corporate_ld"
   ]
  },
  {
@@ -479,7 +501,7 @@
   "title": "Lead Customer Success Engineer - Data & AI Security",
   "location": "London, United Kingdom",
   "url": "https://job-boards.eu.greenhouse.io/veeamsoftware/jobs/4918896101",
-  "posted": "2026-09-09",
+  "posted": "2026-09-11",
   "ats": "greenhouse",
   "families": [
    "D_edtech_customer"
@@ -498,10 +520,21 @@
  },
  {
   "employer": "Veeam Software UK Limited",
+  "title": "Senior Customer Success Engineer",
+  "location": "Remote, United Kingdom",
+  "url": "https://job-boards.eu.greenhouse.io/veeamsoftware/jobs/4974680101",
+  "posted": "2026-09-11",
+  "ats": "greenhouse",
+  "families": [
+   "D_edtech_customer"
+  ]
+ },
+ {
+  "employer": "Veeam Software UK Limited",
   "title": "Sr. Customer Success Engineer, LATAM",
   "location": "Remote, Costa Rica",
   "url": "https://job-boards.eu.greenhouse.io/veeamsoftware/jobs/4966995101",
-  "posted": "2026-09-09",
+  "posted": "2026-09-11",
   "ats": "greenhouse",
   "families": [
    "D_edtech_customer"
@@ -699,7 +732,7 @@
   "employer": "WPP Media UK Limited",
   "title": "Account Manager, Programmatic",
   "location": "London, United Kingdom",
-  "url": "https://job-boards.greenhouse.io/wppmedia/jobs/5290060008",
+  "url": "https://job-boards.greenhouse.io/wppmedia/jobs/5187822008",
   "posted": "2026-09-09",
   "ats": "greenhouse",
   "families": [
@@ -710,7 +743,7 @@
   "employer": "WPP Media UK Limited",
   "title": "Account Manager, Programmatic",
   "location": "London, United Kingdom",
-  "url": "https://job-boards.greenhouse.io/wppmedia/jobs/5187822008",
+  "url": "https://job-boards.greenhouse.io/wppmedia/jobs/5290060008",
   "posted": "2026-09-09",
   "ats": "greenhouse",
   "families": [
@@ -731,8 +764,8 @@
  {
   "employer": "WPP Media UK Limited",
   "title": "Account Manager, Search",
-  "location": "Manchester, United Kingdom",
-  "url": "https://job-boards.greenhouse.io/wppmedia/jobs/5190550008",
+  "location": "London, United Kingdom",
+  "url": "https://job-boards.greenhouse.io/wppmedia/jobs/5372725008",
   "posted": "2026-09-09",
   "ats": "greenhouse",
   "families": [
@@ -742,8 +775,8 @@
  {
   "employer": "WPP Media UK Limited",
   "title": "Account Manager, Search",
-  "location": "London, United Kingdom",
-  "url": "https://job-boards.greenhouse.io/wppmedia/jobs/5372725008",
+  "location": "Manchester, United Kingdom",
+  "url": "https://job-boards.greenhouse.io/wppmedia/jobs/5190550008",
   "posted": "2026-09-09",
   "ats": "greenhouse",
   "families": [
@@ -775,8 +808,8 @@
  {
   "employer": "WPP Media UK Limited",
   "title": "Account Manager, Social",
-  "location": "London, United Kingdom",
-  "url": "https://job-boards.greenhouse.io/wppmedia/jobs/5226306008",
+  "location": "Manchester, United Kingdom",
+  "url": "https://job-boards.greenhouse.io/wppmedia/jobs/5158963008",
   "posted": "2026-09-09",
   "ats": "greenhouse",
   "families": [
@@ -786,8 +819,8 @@
  {
   "employer": "WPP Media UK Limited",
   "title": "Account Manager, Social",
-  "location": "Manchester, United Kingdom",
-  "url": "https://job-boards.greenhouse.io/wppmedia/jobs/5158963008",
+  "location": "London, United Kingdom",
+  "url": "https://job-boards.greenhouse.io/wppmedia/jobs/5226306008",
   "posted": "2026-09-09",
   "ats": "greenhouse",
   "families": [
@@ -993,6 +1026,17 @@
   "families": [
    "C_marketing_recruitment",
    "K_student_support"
+  ]
+ },
+ {
+  "employer": "Kaplan International Colleges U.K. Limited",
+  "title": "Social Media Manager",
+  "location": "London, United Kingdom",
+  "url": "https://kaplan-international.hirehive.com/social-media-manager-london-TyBsxN",
+  "posted": "",
+  "ats": "hirehive",
+  "families": [
+   "C_marketing_recruitment"
   ]
  }
 ]

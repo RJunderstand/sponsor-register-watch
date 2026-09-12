@@ -1,5 +1,50 @@
 {
- "generated": "2026-09-11",
- "count": 0,
- "jobs": []
+ "generated": "2026-09-12",
+ "count": 4,
+ "jobs": [
+  {
+   "employer": "HONOR TECHNOLOGIES (UK) CO., LTD",
+   "title": "Learning and Development Lead",
+   "location": "Remote Position",
+   "url": "https://boards.greenhouse.io/honor/jobs/8802274002?gh_jid=8802274002",
+   "posted": "2026-09-11",
+   "ats": "greenhouse",
+   "families": [
+    "B_corporate_ld"
+   ]
+  },
+  {
+   "employer": "Kaplan International Colleges U.K. Limited",
+   "title": "Social Media Manager",
+   "location": "London, United Kingdom",
+   "url": "https://kaplan-international.hirehive.com/social-media-manager-london-TyBsxN",
+   "posted": "",
+   "ats": "hirehive",
+   "families": [
+    "C_marketing_recruitment"
+   ]
+  },
+  {
+   "employer": "Bottomline Technologies Limited",
+   "title": "Customer Success Manager, Risk Solutions",
+   "location": "UK, Theale (Reading)",
+   "url": "https://job-boards.greenhouse.io/bottomlinetechnologies/jobs/8648539002",
+   "posted": "2026-09-11",
+   "ats": "greenhouse",
+   "families": [
+    "D_edtech_customer"
+   ]
+  },
+  {
+   "employer": "Veeam Software UK Limited",
+   "title": "Senior Customer Success Engineer",
+   "location": "Remote, United Kingdom",
+   "url": "https://job-boards.eu.greenhouse.io/veeamsoftware/jobs/4974680101",
+   "posted": "2026-09-11",
+   "ats": "greenhouse",
+   "families": [
+    "D_edtech_customer"
+   ]
+  }
+ ]
 }
