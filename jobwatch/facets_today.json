@@ -1,6 +1,6 @@
 {
- "generated": "2026-09-13T10:18:26Z",
- "run_date": "2026-09-13",
+ "generated": "2026-09-14T10:40:00Z",
+ "run_date": "2026-09-14",
  "floor": 33400,
  "facets_swept": [
   "pr-marketing-sales-and-communication",
@@ -15,14 +15,63 @@
   "other"
  ],
  "counts": {
-  "raw": 208,
-  "unique": 167,
-  "kept": 0,
-  "seen_before": 110,
-  "excluded_title": 29,
-  "gate1": 4,
-  "gate2": 24
+  "raw": 204,
+  "unique": 161,
+  "kept": 2,
+  "seen_before": 101,
+  "excluded_title": 30,
+  "gate1": 3,
+  "gate2": 25
  },
  "note": "Gate 1 and Gate 2 applied mechanically. Gate 3 and Gate 4 need the JD.",
- "jobs": []
+ "jobs": [
+  {
+   "advert_id": "1087718",
+   "title": "Admissions Assessor and Administrator",
+   "employer": "London School of Economics and Political Science",
+   "department": "Undergraduate Admissions, Recruitment and Admissions",
+   "location": "London",
+   "salary_raw": "£32,890 to £36,052\n                                    pa inclusive with potential to progress to £38,422 pa inclusive of London allowance",
+   "closes": "25 Sep",
+   "url": "https://www.jobs.ac.uk/job/DSX663/admissions-assessor-and-administrator",
+   "facet": "student-services",
+   "families": [
+    "C_marketing_recruitment"
+   ],
+   "salary_bottom": 32890,
+   "salary_top": 38422,
+   "salary_note": "",
+   "gate2": "需谈薪至门槛以上",
+   "register_match": {
+    "matched_name": "The London School of Economics and Political Science",
+    "rating": "Worker (A rating)",
+    "route": "Skilled Worker",
+    "skilled_worker": true
+   },
+   "gate3_gate4": "unassessed"
+  },
+  {
+   "advert_id": "1087734",
+   "title": "Careers & Employability Consultant (Access, Participation & Progression)",
+   "employer": "University of Chichester",
+   "department": "",
+   "location": "Chichester",
+   "salary_raw": "£38,784 to £41,064\n                                    per annum, pro-rata, £27,148 to £28,744 per annum",
+   "closes": "01 Oct",
+   "url": "https://www.jobs.ac.uk/job/DSX694/careers-and-employability-consultant-access-participation-and-progression",
+   "facet": "pr-marketing-sales-and-communication",
+   "families": [],
+   "salary_bottom": 27148,
+   "salary_top": 41064,
+   "salary_note": "CHECK_HOURS",
+   "gate2": "需谈薪至门槛以上",
+   "register_match": {
+    "matched_name": "Chichester College Group",
+    "rating": "Worker (A rating)",
+    "route": "Skilled Worker",
+    "skilled_worker": true
+   },
+   "gate3_gate4": "unassessed"
+  }
+ ]
 }
