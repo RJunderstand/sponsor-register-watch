@@ -1,16 +1,49 @@
 {
- "generated": "2026-09-14",
- "count": 1,
+ "generated": "2026-09-15",
+ "count": 4,
  "jobs": [
   {
-   "employer": "Red Bull Media House UK Ltd (RBMHUK)",
-   "title": "VCARB F1 Team - Midweight Brand Designer",
-   "location": "Milton Keynes England gb 52.0406224 -0.7594171 Milton Keynes, England, United Kingdom",
-   "url": "https://jobs.smartrecruiters.com/744000149267148",
+   "employer": "WPP Media UK Limited",
+   "title": "Account Manager, Planning",
+   "location": "Manchester, United Kingdom",
+   "url": "https://job-boards.greenhouse.io/wppmedia/jobs/5409143008",
    "posted": "2026-09-14",
-   "ats": "smartrecruiters",
+   "ats": "greenhouse",
    "families": [
-    "C_marketing_recruitment"
+    "D_edtech_customer"
+   ]
+  },
+  {
+   "employer": "WPP Media UK Limited",
+   "title": "Creative Producer & Videographer (Influencer Campaign Production)",
+   "location": "London, United Kingdom",
+   "url": "https://job-boards.greenhouse.io/wppmedia/jobs/5413640008",
+   "posted": "2026-09-15",
+   "ats": "greenhouse",
+   "families": [
+    "G_content_multimedia"
+   ]
+  },
+  {
+   "employer": "Intellego Education Services Limited",
+   "title": "TEST - Deputy Head Pastoral (Rome based)",
+   "location": "Rome Brighton College Rome",
+   "url": "https://intellego-education.pinpointhq.com/en/postings/dcce3ec8-6267-4c1e-8608-3406c0815ac5",
+   "posted": "",
+   "ats": "pinpoint",
+   "families": [
+    "K_student_support"
+   ]
+  },
+  {
+   "employer": "Kaplan International Colleges U.K. Limited",
+   "title": "Student Support Adviser - Maternity Cover",
+   "location": "London, United Kingdom",
+   "url": "https://kaplan-international.hirehive.com/student-support-adviser-maternity-cover-london-hBam6K",
+   "posted": "",
+   "ats": "hirehive",
+   "families": [
+    "K_student_support"
    ]
   }
  ]

@@ -1108,6 +1108,15 @@
    "checked": "2026-08-27"
   },
   {
+   "name": "Orchestra Technologies Limited",
+   "ats": "greenhouse",
+   "slug": "orchestra",
+   "endpoint": "https://boards-api.greenhouse.io/v1/boards/orchestra/jobs",
+   "confirmed_as": "Orchestra",
+   "guessed": true,
+   "checked": "2026-09-15"
+  },
+  {
    "name": "Orion Innovation Solutions UK Limited",
    "ats": "greenhouse",
    "slug": "orioninnovation",
@@ -1769,6 +1778,15 @@
    "confirmed_as": "",
    "guessed": false,
    "checked": "2026-09-03"
+  },
+  {
+   "name": "Vision Pro Software Limited",
+   "ats": "smartrecruiters",
+   "slug": "visionpro",
+   "endpoint": "https://api.smartrecruiters.com/v1/companies/visionpro/postings",
+   "confirmed_as": "",
+   "guessed": false,
+   "checked": "2026-09-15"
   },
   {
    "name": "VIX TECHNOLOGY UK LIMITED",
@@ -6758,7 +6776,26 @@
   "Big Student House Ltd": "2026-09-08",
   "CHINESE-ENGLISH LEGAL EDUCATION LIMITED": "2026-09-08",
   "EBN Academy": "2026-09-08",
-  "THE REGENERATIVE MEDICINE ACADEMY LIMITED": "2026-09-08"
+  "THE REGENERATIVE MEDICINE ACADEMY LIMITED": "2026-09-08",
+  "Aphex Software Limited": "2026-09-15",
+  "BMLL Technologies Limited": "2026-09-15",
+  "Eggroll Labs Limited": "2026-09-15",
+  "Euraser UK Ltd T/A NAAMA Studios": "2026-09-15",
+  "FourFour Digital Management Limited": "2026-09-15",
+  "H3O Digital Ltd": "2026-09-15",
+  "HAPA CLOUD LIMITED": "2026-09-15",
+  "ITCH Media": "2026-09-15",
+  "Low Observable Technology Ltd": "2026-09-15",
+  "PhovIR Technologies Ltd": "2026-09-15",
+  "Space Systems Ltd": "2026-09-15",
+  "SQUID LABS LTD": "2026-09-15",
+  "United Fintech Limited": "2026-09-15",
+  "Volante Technologies LLC.": "2026-09-15",
+  "GUIDED EDUCATION HUB LTD": "2026-09-15",
+  "HILLTOP ACADEMY LTD": "2026-09-15",
+  "Peapods Early Learning Centre": "2026-09-15",
+  "ETC International College": "2026-09-15",
+  "Inter-Ed UK Ltd t/a The City College": "2026-09-15"
  },
  "rules_version": 3
 }
