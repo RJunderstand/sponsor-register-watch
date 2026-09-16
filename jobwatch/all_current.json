@@ -199,17 +199,6 @@
   ]
  },
  {
-  "employer": "HONOR TECHNOLOGIES (UK) CO., LTD",
-  "title": "Learning and Development Lead",
-  "location": "Remote Position",
-  "url": "https://boards.greenhouse.io/honor/jobs/8802274002?gh_jid=8802274002",
-  "posted": "2026-09-14",
-  "ats": "greenhouse",
-  "families": [
-   "B_corporate_ld"
-  ]
- },
- {
   "employer": "Instructure Global Limited",
   "title": "Sr. Customer Success Manager",
   "location": "US-REMOTE",
@@ -243,10 +232,32 @@
   ]
  },
  {
+  "employer": "Intellego Education Services Limited",
+  "title": "Deputy Head Pastoral (Rome based)",
+  "location": "Rome Brighton College Rome",
+  "url": "https://intellego-education.pinpointhq.com/en/postings/15d2d388-1a3f-4fc0-89e8-ec44dd1bd83d",
+  "posted": "",
+  "ats": "pinpoint",
+  "families": [
+   "K_student_support"
+  ]
+ },
+ {
   "employer": "Liverpool College Independent School Trust",
   "title": "Bank Learning Support Practitioner",
   "location": "Liverpool Liverpool",
   "url": "https://liv-coll.pinpointhq.com/en/postings/55d7b0b3-e50e-4f21-ac41-5c8756986e11",
+  "posted": "",
+  "ats": "pinpoint",
+  "families": [
+   "K_student_support"
+  ]
+ },
+ {
+  "employer": "Liverpool College Independent School Trust",
+  "title": "Learning Support Practitioner",
+  "location": "Liverpool Liverpool",
+  "url": "https://liv-coll.pinpointhq.com/en/postings/72c9d9c5-c286-4ba4-b2ec-54555fc516f3",
   "posted": "",
   "ats": "pinpoint",
   "families": [
@@ -321,6 +332,17 @@
  },
  {
   "employer": "Portsmouth Hospitals University NHS Trust",
+  "title": "Safeguarding Practitioner - Child",
+  "location": "Newport England gb St Mary's Hosp (IOW), Parkhurst Road, Newport, Isle of Wight, PO30 5TG PO30 5TG 50.71085 -1.3013 Newport, England, United Kingdom",
+  "url": "https://jobs.smartrecruiters.com/744000149633399",
+  "posted": "2026-09-15",
+  "ats": "smartrecruiters",
+  "families": [
+   "K_student_support"
+  ]
+ },
+ {
+  "employer": "Portsmouth Hospitals University NHS Trust",
   "title": "OneEPR Business Change Analyst",
   "location": "Portsmouth England gb Portsmouth Hospitals University NHS Trust Corporate Hub, Block 4000, Lakeside North Harbour, Western Road, Cosham, Portsmouth, PO6 3EN PO6 3EN 50.842179 -1.086586 Portsmouth, England, United Kingdom",
   "url": "https://jobs.smartrecruiters.com/744000147958535",
@@ -339,17 +361,6 @@
   "ats": "smartrecruiters",
   "families": [
    "J_process_ops"
-  ]
- },
- {
-  "employer": "Portsmouth Hospitals University NHS Trust",
-  "title": "Safeguarding Practitioner - Child",
-  "location": "Newport England gb St Mary's Hosp (IOW), Parkhurst Road, Newport, Isle of Wight, PO30 5TG PO30 5TG 50.71085 -1.3013 Newport, England, United Kingdom",
-  "url": "https://jobs.smartrecruiters.com/744000147869790",
-  "posted": "2026-09-07",
-  "ats": "smartrecruiters",
-  "families": [
-   "K_student_support"
   ]
  },
  {
@@ -443,7 +454,7 @@
  {
   "employer": "Skin Analytics",
   "title": "AI Enablement Engineer",
-  "location": "London",
+  "location": "London office based",
   "url": "https://jobs.ashbyhq.com/skin-analytics/c3597a36-674a-4a83-9dce-d1d48f958733",
   "posted": "2026-08-13",
   "ats": "ashby",
@@ -653,17 +664,6 @@
  },
  {
   "employer": "WPP Media UK Limited",
-  "title": "Account Manager, Digital",
-  "location": "Manchester, United Kingdom",
-  "url": "https://job-boards.greenhouse.io/wppmedia/jobs/5374923008",
-  "posted": "2026-09-09",
-  "ats": "greenhouse",
-  "families": [
-   "D_edtech_customer"
-  ]
- },
- {
-  "employer": "WPP Media UK Limited",
   "title": "Account Manager, Digital & Biddable Media",
   "location": "London, United Kingdom",
   "url": "https://job-boards.greenhouse.io/wppmedia/jobs/5224276008",
@@ -698,9 +698,9 @@
  {
   "employer": "WPP Media UK Limited",
   "title": "Account Manager, Planning",
-  "location": "Manchester, United Kingdom",
-  "url": "https://job-boards.greenhouse.io/wppmedia/jobs/5409143008",
-  "posted": "2026-09-14",
+  "location": "London, United Kingdom",
+  "url": "https://job-boards.greenhouse.io/wppmedia/jobs/5211330008",
+  "posted": "2026-09-09",
   "ats": "greenhouse",
   "families": [
    "D_edtech_customer"
@@ -720,9 +720,9 @@
  {
   "employer": "WPP Media UK Limited",
   "title": "Account Manager, Planning",
-  "location": "London, United Kingdom",
-  "url": "https://job-boards.greenhouse.io/wppmedia/jobs/5211330008",
-  "posted": "2026-09-09",
+  "location": "Manchester, United Kingdom",
+  "url": "https://job-boards.greenhouse.io/wppmedia/jobs/5409143008",
+  "posted": "2026-09-14",
   "ats": "greenhouse",
   "families": [
    "D_edtech_customer"
@@ -733,17 +733,6 @@
   "title": "Account Manager, Planning",
   "location": "London, United Kingdom",
   "url": "https://job-boards.greenhouse.io/wppmedia/jobs/5239982008",
-  "posted": "2026-09-09",
-  "ats": "greenhouse",
-  "families": [
-   "D_edtech_customer"
-  ]
- },
- {
-  "employer": "WPP Media UK Limited",
-  "title": "Account Manager, Programmatic",
-  "location": "London, United Kingdom",
-  "url": "https://job-boards.greenhouse.io/wppmedia/jobs/5187822008",
   "posted": "2026-09-09",
   "ats": "greenhouse",
   "families": [
@@ -765,7 +754,7 @@
   "employer": "WPP Media UK Limited",
   "title": "Account Manager, Programmatic",
   "location": "London, United Kingdom",
-  "url": "https://job-boards.greenhouse.io/wppmedia/jobs/5190465008",
+  "url": "https://job-boards.greenhouse.io/wppmedia/jobs/5187822008",
   "posted": "2026-09-09",
   "ats": "greenhouse",
   "families": [
@@ -774,9 +763,9 @@
  },
  {
   "employer": "WPP Media UK Limited",
-  "title": "Account Manager, Search",
-  "location": "Manchester, United Kingdom",
-  "url": "https://job-boards.greenhouse.io/wppmedia/jobs/5190550008",
+  "title": "Account Manager, Programmatic",
+  "location": "London, United Kingdom",
+  "url": "https://job-boards.greenhouse.io/wppmedia/jobs/5190465008",
   "posted": "2026-09-09",
   "ats": "greenhouse",
   "families": [
@@ -788,6 +777,17 @@
   "title": "Account Manager, Search",
   "location": "London, United Kingdom",
   "url": "https://job-boards.greenhouse.io/wppmedia/jobs/5372725008",
+  "posted": "2026-09-09",
+  "ats": "greenhouse",
+  "families": [
+   "D_edtech_customer"
+  ]
+ },
+ {
+  "employer": "WPP Media UK Limited",
+  "title": "Account Manager, Search",
+  "location": "Manchester, United Kingdom",
+  "url": "https://job-boards.greenhouse.io/wppmedia/jobs/5190550008",
   "posted": "2026-09-09",
   "ats": "greenhouse",
   "families": [
@@ -822,6 +822,17 @@
   "location": "London, United Kingdom",
   "url": "https://job-boards.greenhouse.io/wppmedia/jobs/5226306008",
   "posted": "2026-09-09",
+  "ats": "greenhouse",
+  "families": [
+   "D_edtech_customer"
+  ]
+ },
+ {
+  "employer": "WPP Media UK Limited",
+  "title": "Account Manager, Social",
+  "location": "London, United Kingdom",
+  "url": "https://job-boards.greenhouse.io/wppmedia/jobs/5235475008",
+  "posted": "2026-09-15",
   "ats": "greenhouse",
   "families": [
    "D_edtech_customer"
@@ -927,17 +938,6 @@
   ]
  },
  {
-  "employer": "Wunderkind Technologies UK Ltd",
-  "title": "Senior Customer Success Manager, Publishers",
-  "location": "New York; Remote",
-  "url": "https://www.wunderkind.co/careers/?gh_jid=7823895",
-  "posted": "2026-07-28",
-  "ats": "greenhouse",
-  "families": [
-   "D_edtech_customer"
-  ]
- },
- {
   "employer": "Study Group Limited",
   "title": "Account Manager",
   "location": "Remote",
@@ -972,20 +972,9 @@
  },
  {
   "employer": "Study Group Limited",
-  "title": "Student Experience Officer",
-  "location": "Leeds, West Yorkshire, United Kingdom",
-  "url": "https://studygroupuk.applytojob.com/apply/lS6yly9dwh/Student-Experience-Officer",
-  "posted": "",
-  "ats": "jazzhr",
-  "families": [
-   "K_student_support"
-  ]
- },
- {
-  "employer": "Study Group Limited",
   "title": "Student Wellbeing & Engagement Officer",
-  "location": "Leeds, West Yorkshire, United Kingdom",
-  "url": "https://studygroupuk.applytojob.com/apply/W6JIzf4w4Y/Student-Wellbeing-Engagement-Officer",
+  "location": "Sheffield, South Yorkshire, United Kingdom",
+  "url": "https://studygroupuk.applytojob.com/apply/vw67Xw6Cjd/Student-Wellbeing-Engagement-Officer",
   "posted": "",
   "ats": "jazzhr",
   "families": [
@@ -996,8 +985,8 @@
  {
   "employer": "Study Group Limited",
   "title": "Student Wellbeing & Engagement Officer",
-  "location": "Sheffield, South Yorkshire, United Kingdom",
-  "url": "https://studygroupuk.applytojob.com/apply/vw67Xw6Cjd/Student-Wellbeing-Engagement-Officer",
+  "location": "Leeds, West Yorkshire, United Kingdom",
+  "url": "https://studygroupuk.applytojob.com/apply/W6JIzf4w4Y/Student-Wellbeing-Engagement-Officer",
   "posted": "",
   "ats": "jazzhr",
   "families": [
