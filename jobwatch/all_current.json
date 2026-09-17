@@ -56,17 +56,6 @@
  },
  {
   "employer": "Captify Technologies Ltd",
-  "title": "Account Manager (Media)",
-  "location": "London, UK",
-  "url": "https://job-boards.greenhouse.io/captify/jobs/8687358002",
-  "posted": "2026-09-03",
-  "ats": "greenhouse",
-  "families": [
-   "D_edtech_customer"
-  ]
- },
- {
-  "employer": "Captify Technologies Ltd",
   "title": "Graphic Designer",
   "location": "London, UK",
   "url": "https://job-boards.greenhouse.io/captify/jobs/8778315002",
@@ -199,6 +188,17 @@
   ]
  },
  {
+  "employer": "HONOR TECHNOLOGIES (UK) CO., LTD",
+  "title": "Learning and Development Lead",
+  "location": "Remote Position",
+  "url": "https://boards.greenhouse.io/honor/jobs/8802274002?gh_jid=8802274002",
+  "posted": "2026-09-14",
+  "ats": "greenhouse",
+  "families": [
+   "B_corporate_ld"
+  ]
+ },
+ {
   "employer": "Instructure Global Limited",
   "title": "Sr. Customer Success Manager",
   "location": "US-REMOTE",
@@ -236,6 +236,17 @@
   "title": "Deputy Head Pastoral (Rome based)",
   "location": "Rome Brighton College Rome",
   "url": "https://intellego-education.pinpointhq.com/en/postings/15d2d388-1a3f-4fc0-89e8-ec44dd1bd83d",
+  "posted": "",
+  "ats": "pinpoint",
+  "families": [
+   "K_student_support"
+  ]
+ },
+ {
+  "employer": "Intellego Education Services Limited",
+  "title": "Deputy Head Pastoral (Rome based) - to go live",
+  "location": "Rome Brighton College Rome",
+  "url": "https://intellego-education.pinpointhq.com/en/postings/448bf543-aa93-4a0e-8873-85638933d38b",
   "posted": "",
   "ats": "pinpoint",
   "families": [
@@ -408,21 +419,10 @@
   ]
  },
  {
-  "employer": "Red Bull Media House UK Ltd (RBMHUK)",
-  "title": "VCARB F1 Team - Midweight Brand Designer",
-  "location": "Milton Keynes England gb 52.0406224 -0.7594171 Milton Keynes, England, United Kingdom",
-  "url": "https://jobs.smartrecruiters.com/744000149267148",
-  "posted": "2026-09-14",
-  "ats": "smartrecruiters",
-  "families": [
-   "C_marketing_recruitment"
-  ]
- },
- {
   "employer": "SambaNova Systems UK Limited",
   "title": "Customer Success Manager",
-  "location": "London, England, United Kingdom",
-  "url": "https://sambanova.ai/sambanova-available-positions/?gh_jid=6114166004",
+  "location": "Remote - US",
+  "url": "https://sambanova.ai/sambanova-available-positions/?gh_jid=6114176004",
   "posted": "2026-09-06",
   "ats": "greenhouse",
   "families": [
@@ -432,8 +432,8 @@
  {
   "employer": "SambaNova Systems UK Limited",
   "title": "Customer Success Manager",
-  "location": "Remote - US",
-  "url": "https://sambanova.ai/sambanova-available-positions/?gh_jid=6114176004",
+  "location": "London, England, United Kingdom",
+  "url": "https://sambanova.ai/sambanova-available-positions/?gh_jid=6114166004",
   "posted": "2026-09-06",
   "ats": "greenhouse",
   "families": [
@@ -531,9 +531,9 @@
  },
  {
   "employer": "Veeam Software UK Limited",
-  "title": "Lead Customer Success Engineer - Data & AI Security",
-  "location": "London, United Kingdom",
-  "url": "https://job-boards.eu.greenhouse.io/veeamsoftware/jobs/4918896101",
+  "title": "Senior Customer Success Engineer",
+  "location": "Remote, United Kingdom",
+  "url": "https://job-boards.eu.greenhouse.io/veeamsoftware/jobs/4974680101",
   "posted": "2026-09-15",
   "ats": "greenhouse",
   "families": [
@@ -545,17 +545,6 @@
   "title": "Senior Customer Success Engineer",
   "location": "Remote, United Arab Emirates",
   "url": "https://job-boards.eu.greenhouse.io/veeamsoftware/jobs/4744256101",
-  "posted": "2026-09-15",
-  "ats": "greenhouse",
-  "families": [
-   "D_edtech_customer"
-  ]
- },
- {
-  "employer": "Veeam Software UK Limited",
-  "title": "Senior Customer Success Engineer",
-  "location": "Remote, United Kingdom",
-  "url": "https://job-boards.eu.greenhouse.io/veeamsoftware/jobs/4974680101",
   "posted": "2026-09-15",
   "ats": "greenhouse",
   "families": [
@@ -709,9 +698,9 @@
  {
   "employer": "WPP Media UK Limited",
   "title": "Account Manager, Planning",
-  "location": "London, United Kingdom",
-  "url": "https://job-boards.greenhouse.io/wppmedia/jobs/5380446008",
-  "posted": "2026-09-09",
+  "location": "Manchester, United Kingdom",
+  "url": "https://job-boards.greenhouse.io/wppmedia/jobs/5409143008",
+  "posted": "2026-09-14",
   "ats": "greenhouse",
   "families": [
    "D_edtech_customer"
@@ -720,9 +709,9 @@
  {
   "employer": "WPP Media UK Limited",
   "title": "Account Manager, Planning",
-  "location": "Manchester, United Kingdom",
-  "url": "https://job-boards.greenhouse.io/wppmedia/jobs/5409143008",
-  "posted": "2026-09-14",
+  "location": "London, United Kingdom",
+  "url": "https://job-boards.greenhouse.io/wppmedia/jobs/5380446008",
+  "posted": "2026-09-09",
   "ats": "greenhouse",
   "families": [
    "D_edtech_customer"
@@ -820,8 +809,8 @@
   "employer": "WPP Media UK Limited",
   "title": "Account Manager, Social",
   "location": "London, United Kingdom",
-  "url": "https://job-boards.greenhouse.io/wppmedia/jobs/5226306008",
-  "posted": "2026-09-09",
+  "url": "https://job-boards.greenhouse.io/wppmedia/jobs/5235475008",
+  "posted": "2026-09-15",
   "ats": "greenhouse",
   "families": [
    "D_edtech_customer"
@@ -831,8 +820,8 @@
   "employer": "WPP Media UK Limited",
   "title": "Account Manager, Social",
   "location": "London, United Kingdom",
-  "url": "https://job-boards.greenhouse.io/wppmedia/jobs/5235475008",
-  "posted": "2026-09-15",
+  "url": "https://job-boards.greenhouse.io/wppmedia/jobs/5226306008",
+  "posted": "2026-09-09",
   "ats": "greenhouse",
   "families": [
    "D_edtech_customer"
@@ -887,17 +876,6 @@
   "title": "Paid Social Account Manager",
   "location": "London, United Kingdom",
   "url": "https://job-boards.greenhouse.io/wppmedia/jobs/5379091008",
-  "posted": "2026-09-09",
-  "ats": "greenhouse",
-  "families": [
-   "D_edtech_customer"
-  ]
- },
- {
-  "employer": "WPP Media UK Limited",
-  "title": "Search Account Manager",
-  "location": "Manchester, United Kingdom",
-  "url": "https://job-boards.greenhouse.io/wppmedia/jobs/5250802008",
   "posted": "2026-09-09",
   "ats": "greenhouse",
   "families": [
@@ -973,8 +951,8 @@
  {
   "employer": "Study Group Limited",
   "title": "Student Wellbeing & Engagement Officer",
-  "location": "Sheffield, South Yorkshire, United Kingdom",
-  "url": "https://studygroupuk.applytojob.com/apply/vw67Xw6Cjd/Student-Wellbeing-Engagement-Officer",
+  "location": "Leeds, West Yorkshire, United Kingdom",
+  "url": "https://studygroupuk.applytojob.com/apply/W6JIzf4w4Y/Student-Wellbeing-Engagement-Officer",
   "posted": "",
   "ats": "jazzhr",
   "families": [
@@ -985,8 +963,8 @@
  {
   "employer": "Study Group Limited",
   "title": "Student Wellbeing & Engagement Officer",
-  "location": "Leeds, West Yorkshire, United Kingdom",
-  "url": "https://studygroupuk.applytojob.com/apply/W6JIzf4w4Y/Student-Wellbeing-Engagement-Officer",
+  "location": "Sheffield, South Yorkshire, United Kingdom",
+  "url": "https://studygroupuk.applytojob.com/apply/vw67Xw6Cjd/Student-Wellbeing-Engagement-Officer",
   "posted": "",
   "ats": "jazzhr",
   "families": [
