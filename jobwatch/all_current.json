@@ -1,16 +1,5 @@
 [
  {
-  "employer": "Bath College",
-  "title": "Pre-16 Learning Support and Partnership Lead",
-  "location": "Radstock Radstock, England",
-  "url": "https://bathcollege.pinpointhq.com/en/postings/f5ac9a93-fca9-4773-b0a6-2895a060b87e",
-  "posted": "",
-  "ats": "pinpoint",
-  "families": [
-   "K_student_support"
-  ]
- },
- {
   "employer": "Black Kite Studios Ltd",
   "title": "PR & Content Manager",
   "location": "London England gb Featherstone Street EC1Y 51.5246108 -0.0884741 London, England, United Kingdom",
@@ -192,7 +181,7 @@
   "title": "Learning and Development Lead",
   "location": "Remote Position",
   "url": "https://boards.greenhouse.io/honor/jobs/8802274002?gh_jid=8802274002",
-  "posted": "2026-09-14",
+  "posted": "2026-09-17",
   "ats": "greenhouse",
   "families": [
    "B_corporate_ld"
@@ -222,20 +211,9 @@
  },
  {
   "employer": "Intellego Education Services Limited",
-  "title": "TEST - Deputy Head Pastoral (Rome based)",
-  "location": "Rome Brighton College Rome",
-  "url": "https://intellego-education.pinpointhq.com/en/postings/dcce3ec8-6267-4c1e-8608-3406c0815ac5",
-  "posted": "",
-  "ats": "pinpoint",
-  "families": [
-   "K_student_support"
-  ]
- },
- {
-  "employer": "Intellego Education Services Limited",
   "title": "Deputy Head Pastoral (Rome based)",
   "location": "Rome Brighton College Rome",
-  "url": "https://intellego-education.pinpointhq.com/en/postings/15d2d388-1a3f-4fc0-89e8-ec44dd1bd83d",
+  "url": "https://intellego-education.pinpointhq.com/en/postings/448bf543-aa93-4a0e-8873-85638933d38b",
   "posted": "",
   "ats": "pinpoint",
   "families": [
@@ -244,9 +222,9 @@
  },
  {
   "employer": "Intellego Education Services Limited",
-  "title": "Deputy Head Pastoral (Rome based) - to go live",
-  "location": "Rome Brighton College Rome",
-  "url": "https://intellego-education.pinpointhq.com/en/postings/448bf543-aa93-4a0e-8873-85638933d38b",
+  "title": "Deputy Head Pastoral (Madrid based)",
+  "location": "Madrid Brighton College Madrid",
+  "url": "https://intellego-education.pinpointhq.com/en/postings/4cf3742f-11a8-4e0b-81b5-2947859febfa",
   "posted": "",
   "ats": "pinpoint",
   "families": [
@@ -421,8 +399,8 @@
  {
   "employer": "SambaNova Systems UK Limited",
   "title": "Customer Success Manager",
-  "location": "Remote - US",
-  "url": "https://sambanova.ai/sambanova-available-positions/?gh_jid=6114176004",
+  "location": "London, England, United Kingdom",
+  "url": "https://sambanova.ai/sambanova-available-positions/?gh_jid=6114166004",
   "posted": "2026-09-06",
   "ats": "greenhouse",
   "families": [
@@ -432,8 +410,8 @@
  {
   "employer": "SambaNova Systems UK Limited",
   "title": "Customer Success Manager",
-  "location": "London, England, United Kingdom",
-  "url": "https://sambanova.ai/sambanova-available-positions/?gh_jid=6114166004",
+  "location": "Remote - US",
+  "url": "https://sambanova.ai/sambanova-available-positions/?gh_jid=6114176004",
   "posted": "2026-09-06",
   "ats": "greenhouse",
   "families": [
@@ -532,8 +510,8 @@
  {
   "employer": "Veeam Software UK Limited",
   "title": "Senior Customer Success Engineer",
-  "location": "Remote, United Kingdom",
-  "url": "https://job-boards.eu.greenhouse.io/veeamsoftware/jobs/4974680101",
+  "location": "Remote, United Arab Emirates",
+  "url": "https://job-boards.eu.greenhouse.io/veeamsoftware/jobs/4744256101",
   "posted": "2026-09-15",
   "ats": "greenhouse",
   "families": [
@@ -543,9 +521,9 @@
  {
   "employer": "Veeam Software UK Limited",
   "title": "Senior Customer Success Engineer",
-  "location": "Remote, United Arab Emirates",
-  "url": "https://job-boards.eu.greenhouse.io/veeamsoftware/jobs/4744256101",
-  "posted": "2026-09-15",
+  "location": "Remote, United Kingdom",
+  "url": "https://job-boards.eu.greenhouse.io/veeamsoftware/jobs/4974680101",
+  "posted": "2026-09-17",
   "ats": "greenhouse",
   "families": [
    "D_edtech_customer"
@@ -687,17 +665,6 @@
  {
   "employer": "WPP Media UK Limited",
   "title": "Account Manager, Planning",
-  "location": "London, United Kingdom",
-  "url": "https://job-boards.greenhouse.io/wppmedia/jobs/5211330008",
-  "posted": "2026-09-09",
-  "ats": "greenhouse",
-  "families": [
-   "D_edtech_customer"
-  ]
- },
- {
-  "employer": "WPP Media UK Limited",
-  "title": "Account Manager, Planning",
   "location": "Manchester, United Kingdom",
   "url": "https://job-boards.greenhouse.io/wppmedia/jobs/5409143008",
   "posted": "2026-09-14",
@@ -721,7 +688,7 @@
   "employer": "WPP Media UK Limited",
   "title": "Account Manager, Planning",
   "location": "London, United Kingdom",
-  "url": "https://job-boards.greenhouse.io/wppmedia/jobs/5239982008",
+  "url": "https://job-boards.greenhouse.io/wppmedia/jobs/5211330008",
   "posted": "2026-09-09",
   "ats": "greenhouse",
   "families": [
@@ -730,9 +697,9 @@
  },
  {
   "employer": "WPP Media UK Limited",
-  "title": "Account Manager, Programmatic",
+  "title": "Account Manager, Planning",
   "location": "London, United Kingdom",
-  "url": "https://job-boards.greenhouse.io/wppmedia/jobs/5290060008",
+  "url": "https://job-boards.greenhouse.io/wppmedia/jobs/5239982008",
   "posted": "2026-09-09",
   "ats": "greenhouse",
   "families": [
@@ -754,7 +721,7 @@
   "employer": "WPP Media UK Limited",
   "title": "Account Manager, Programmatic",
   "location": "London, United Kingdom",
-  "url": "https://job-boards.greenhouse.io/wppmedia/jobs/5190465008",
+  "url": "https://job-boards.greenhouse.io/wppmedia/jobs/5290060008",
   "posted": "2026-09-09",
   "ats": "greenhouse",
   "families": [
@@ -763,9 +730,20 @@
  },
  {
   "employer": "WPP Media UK Limited",
-  "title": "Account Manager, Search",
+  "title": "Account Manager, Programmatic",
   "location": "London, United Kingdom",
-  "url": "https://job-boards.greenhouse.io/wppmedia/jobs/5372725008",
+  "url": "https://job-boards.greenhouse.io/wppmedia/jobs/5424419008",
+  "posted": "2026-09-18",
+  "ats": "greenhouse",
+  "families": [
+   "D_edtech_customer"
+  ]
+ },
+ {
+  "employer": "WPP Media UK Limited",
+  "title": "Account Manager, Programmatic",
+  "location": "London, United Kingdom",
+  "url": "https://job-boards.greenhouse.io/wppmedia/jobs/5190465008",
   "posted": "2026-09-09",
   "ats": "greenhouse",
   "families": [
@@ -777,6 +755,17 @@
   "title": "Account Manager, Search",
   "location": "Manchester, United Kingdom",
   "url": "https://job-boards.greenhouse.io/wppmedia/jobs/5190550008",
+  "posted": "2026-09-09",
+  "ats": "greenhouse",
+  "families": [
+   "D_edtech_customer"
+  ]
+ },
+ {
+  "employer": "WPP Media UK Limited",
+  "title": "Account Manager, Search",
+  "location": "London, United Kingdom",
+  "url": "https://job-boards.greenhouse.io/wppmedia/jobs/5372725008",
   "posted": "2026-09-09",
   "ats": "greenhouse",
   "families": [
@@ -829,17 +818,6 @@
  },
  {
   "employer": "WPP Media UK Limited",
-  "title": "Account Manager, Solutions Planning",
-  "location": "London, United Kingdom",
-  "url": "https://job-boards.greenhouse.io/wppmedia/jobs/5406681008",
-  "posted": "2026-09-09",
-  "ats": "greenhouse",
-  "families": [
-   "D_edtech_customer"
-  ]
- },
- {
-  "employer": "WPP Media UK Limited",
   "title": "AV Account Manager",
   "location": "London, United Kingdom",
   "url": "https://job-boards.greenhouse.io/wppmedia/jobs/5251014008",
@@ -865,7 +843,7 @@
   "title": "Creative Producer & Videographer (Influencer Campaign Production)",
   "location": "London, United Kingdom",
   "url": "https://job-boards.greenhouse.io/wppmedia/jobs/5413640008",
-  "posted": "2026-09-15",
+  "posted": "2026-09-17",
   "ats": "greenhouse",
   "families": [
    "G_content_multimedia"
@@ -877,6 +855,17 @@
   "location": "London, United Kingdom",
   "url": "https://job-boards.greenhouse.io/wppmedia/jobs/5379091008",
   "posted": "2026-09-09",
+  "ats": "greenhouse",
+  "families": [
+   "D_edtech_customer"
+  ]
+ },
+ {
+  "employer": "WPP Media UK Limited",
+  "title": "Programmatic Account Manager",
+  "location": "London, United Kingdom",
+  "url": "https://job-boards.greenhouse.io/wppmedia/jobs/5282044008",
+  "posted": "2026-09-17",
   "ats": "greenhouse",
   "families": [
    "D_edtech_customer"
@@ -941,7 +930,7 @@
   "employer": "Study Group Limited",
   "title": "Student Experience Coordinator - Operations",
   "location": "Huddersfield, West Yorkshire, United Kingdom",
-  "url": "https://studygroupuk.applytojob.com/apply/6iLGsiE52a/Student-Experience-Coordinator-Operations",
+  "url": "https://studygroupuk.applytojob.com/apply/rxJf6v6MW8/Student-Experience-Coordinator-Operations",
   "posted": "",
   "ats": "jazzhr",
   "families": [
@@ -951,8 +940,8 @@
  {
   "employer": "Study Group Limited",
   "title": "Student Wellbeing & Engagement Officer",
-  "location": "Leeds, West Yorkshire, United Kingdom",
-  "url": "https://studygroupuk.applytojob.com/apply/W6JIzf4w4Y/Student-Wellbeing-Engagement-Officer",
+  "location": "Sheffield, South Yorkshire, United Kingdom",
+  "url": "https://studygroupuk.applytojob.com/apply/vw67Xw6Cjd/Student-Wellbeing-Engagement-Officer",
   "posted": "",
   "ats": "jazzhr",
   "families": [
@@ -963,8 +952,8 @@
  {
   "employer": "Study Group Limited",
   "title": "Student Wellbeing & Engagement Officer",
-  "location": "Sheffield, South Yorkshire, United Kingdom",
-  "url": "https://studygroupuk.applytojob.com/apply/vw67Xw6Cjd/Student-Wellbeing-Engagement-Officer",
+  "location": "Leeds, West Yorkshire, United Kingdom",
+  "url": "https://studygroupuk.applytojob.com/apply/W6JIzf4w4Y/Student-Wellbeing-Engagement-Officer",
   "posted": "",
   "ats": "jazzhr",
   "families": [
