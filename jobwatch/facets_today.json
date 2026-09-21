@@ -1,6 +1,6 @@
 {
- "generated": "2026-09-20T09:50:29Z",
- "run_date": "2026-09-20",
+ "generated": "2026-09-21T10:45:09Z",
+ "run_date": "2026-09-21",
  "floor": 33400,
  "facets_swept": [
   "pr-marketing-sales-and-communication",
@@ -15,14 +15,199 @@
   "other"
  ],
  "counts": {
-  "raw": 208,
-  "unique": 163,
-  "kept": 0,
-  "seen_before": 103,
-  "excluded_title": 28,
+  "raw": 206,
+  "unique": 159,
+  "kept": 8,
+  "seen_before": 92,
+  "excluded_title": 27,
   "gate1": 7,
   "gate2": 25
  },
  "note": "Gate 1 and Gate 2 applied mechanically. Gate 3 and Gate 4 need the JD.",
- "jobs": []
+ "jobs": [
+  {
+   "advert_id": "1088421",
+   "title": "Archivist (Part Time, Fixed Term)",
+   "employer": "University of Cambridge",
+   "department": "Museum of Archaeology and Anthropology",
+   "location": "Cambridge",
+   "salary_raw": "£31,236 to £35,608\n                                    pro rata",
+   "closes": "02 Oct",
+   "url": "https://www.jobs.ac.uk/job/DSZ737/archivist-part-time-fixed-term",
+   "facet": "library-services-data-and-information-management",
+   "families": [],
+   "salary_bottom": 31236,
+   "salary_top": 35608,
+   "salary_note": "CHECK_HOURS",
+   "gate2": "需谈薪至门槛以上",
+   "register_match": {
+    "matched_name": "The University of Cambridge",
+    "rating": "Worker (A rating)",
+    "route": "Skilled Worker",
+    "skilled_worker": true
+   },
+   "gate3_gate4": "unassessed"
+  },
+  {
+   "advert_id": "1088429",
+   "title": "Information Compliance Manager",
+   "employer": "Swansea University",
+   "department": "Digital Services",
+   "location": "Swansea",
+   "salary_raw": "£47,389 to £56,535\n                                    per annum",
+   "closes": "04 Oct",
+   "url": "https://www.jobs.ac.uk/job/DSZ759/information-compliance-manager",
+   "facet": "library-services-data-and-information-management",
+   "families": [],
+   "salary_bottom": 47389,
+   "salary_top": 56535,
+   "salary_note": "",
+   "gate2": "达标",
+   "register_match": {
+    "matched_name": "Swansea University",
+    "rating": "Worker (A rating)",
+    "route": "Skilled Worker",
+    "skilled_worker": true
+   },
+   "gate3_gate4": "unassessed"
+  },
+  {
+   "advert_id": "1087867",
+   "title": "Senior Research Operations Officer (Maternity Cover)",
+   "employer": "King's College London",
+   "department": "Engineering",
+   "location": "London, Hybrid",
+   "salary_raw": "£39,076 to £43,909\n                                    per annum inclusive of London Weighting",
+   "closes": "04 Oct",
+   "url": "https://www.jobs.ac.uk/job/DSY079/senior-research-operations-officer-maternity-cover",
+   "facet": "administrative",
+   "families": [],
+   "salary_bottom": 39076,
+   "salary_top": 43909,
+   "salary_note": "",
+   "gate2": "达标",
+   "register_match": {
+    "matched_name": "King's College London",
+    "rating": "Worker (A rating)",
+    "route": "Skilled Worker",
+    "skilled_worker": true
+   },
+   "gate3_gate4": "unassessed"
+  },
+  {
+   "advert_id": "1088384",
+   "title": "Deputy Post Award Manager (2 Years Fixed Term)",
+   "employer": "University of Cambridge",
+   "department": "Cambridge Research Office",
+   "location": "Cambridge",
+   "salary_raw": "£35,608 to £46,049\n                                    per annum",
+   "closes": "11 Oct",
+   "url": "https://www.jobs.ac.uk/job/DSZ369/deputy-post-award-manager-2-years-fixed-term",
+   "facet": "administrative",
+   "families": [],
+   "salary_bottom": 35608,
+   "salary_top": 46049,
+   "salary_note": "",
+   "gate2": "达标",
+   "register_match": {
+    "matched_name": "The University of Cambridge",
+    "rating": "Worker (A rating)",
+    "route": "Skilled Worker",
+    "skilled_worker": true
+   },
+   "gate3_gate4": "unassessed"
+  },
+  {
+   "advert_id": "1088427",
+   "title": "Research Computing Storage Administrator",
+   "employer": "University of Oxford",
+   "department": "Digital & Information Services - IT Services",
+   "location": "Oxford, Hybrid",
+   "salary_raw": "£39,424 to £47,779\n                                    Grade 7",
+   "closes": "12 Oct",
+   "url": "https://www.jobs.ac.uk/job/DSZ751/research-computing-storage-administrator",
+   "facet": "it-services",
+   "families": [],
+   "salary_bottom": 39424,
+   "salary_top": 47779,
+   "salary_note": "",
+   "gate2": "达标",
+   "register_match": {
+    "matched_name": "University of Oxford",
+    "rating": "Worker (A rating)",
+    "route": "Skilled Worker",
+    "skilled_worker": true
+   },
+   "gate3_gate4": "unassessed"
+  },
+  {
+   "advert_id": "1088423",
+   "title": "Senior Research Systems Administrator",
+   "employer": "University of Oxford",
+   "department": "Digital & Information Services - IT Services",
+   "location": "Oxford, Hybrid",
+   "salary_raw": "£49,119 to £58,265\n                                    Grade 8",
+   "closes": "12 Oct",
+   "url": "https://www.jobs.ac.uk/job/DSZ746/senior-research-systems-administrator",
+   "facet": "it-services",
+   "families": [],
+   "salary_bottom": 49119,
+   "salary_top": 58265,
+   "salary_note": "",
+   "gate2": "达标",
+   "register_match": {
+    "matched_name": "University of Oxford",
+    "rating": "Worker (A rating)",
+    "route": "Skilled Worker",
+    "skilled_worker": true
+   },
+   "gate3_gate4": "unassessed"
+  },
+  {
+   "advert_id": "1088438",
+   "title": "Clinical Trial Project Manager",
+   "employer": "University of Oxford",
+   "department": "Department of Paediatrics, Centre for Clinical Vaccinology and Tropical Medicine, Churchill Hospital",
+   "location": "Oxford",
+   "salary_raw": "£39,424 to £47,779\n                                    per annum (with a discretionary range to £51,983 per annum). Grade 7",
+   "closes": "14 Oct",
+   "url": "https://www.jobs.ac.uk/job/DSZ771/clinical-trial-project-manager",
+   "facet": "project-management-and-consulting",
+   "families": [],
+   "salary_bottom": 39424,
+   "salary_top": 51983,
+   "salary_note": "",
+   "gate2": "达标",
+   "register_match": {
+    "matched_name": "University of Oxford",
+    "rating": "Worker (A rating)",
+    "route": "Skilled Worker",
+    "skilled_worker": true
+   },
+   "gate3_gate4": "unassessed"
+  },
+  {
+   "advert_id": "1088439",
+   "title": "AI Engineer",
+   "employer": "Queen's University Belfast",
+   "department": "IT",
+   "location": "Belfast",
+   "salary_raw": "£42,972 to £51,270\n                                    per annum",
+   "closes": "19 Oct",
+   "url": "https://www.jobs.ac.uk/job/DSZ772/ai-engineer",
+   "facet": "it-services",
+   "families": [],
+   "salary_bottom": 42972,
+   "salary_top": 51270,
+   "salary_note": "",
+   "gate2": "达标",
+   "register_match": {
+    "matched_name": "Queen's University Belfast",
+    "rating": "Worker (A rating)",
+    "route": "Skilled Worker",
+    "skilled_worker": true
+   },
+   "gate3_gate4": "unassessed"
+  }
+ ]
 }
