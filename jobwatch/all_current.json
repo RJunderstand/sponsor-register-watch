@@ -353,17 +353,6 @@
   ]
  },
  {
-  "employer": "Portsmouth Hospitals University NHS Trust",
-  "title": "Corporate Governance Officer",
-  "location": "Portsmouth England gb Queen Alexandra Hosp, Southwick Hill Road, Cosham, Portsmouth, PO6 3LY PO6 3LY 50.84977 -1.07054 Portsmouth, England, United Kingdom",
-  "url": "https://jobs.smartrecruiters.com/744000147862059",
-  "posted": "2026-09-07",
-  "ats": "smartrecruiters",
-  "families": [
-   "F_quality_compliance"
-  ]
- },
- {
   "employer": "Proton Technologies Ltd",
   "title": "Motion Designer",
   "location": "Paris; London",
@@ -510,17 +499,6 @@
  {
   "employer": "Veeam Software UK Limited",
   "title": "Senior Customer Success Engineer",
-  "location": "Remote, United Arab Emirates",
-  "url": "https://job-boards.eu.greenhouse.io/veeamsoftware/jobs/4744256101",
-  "posted": "2026-09-15",
-  "ats": "greenhouse",
-  "families": [
-   "D_edtech_customer"
-  ]
- },
- {
-  "employer": "Veeam Software UK Limited",
-  "title": "Senior Customer Success Engineer",
   "location": "Remote, United Kingdom",
   "url": "https://job-boards.eu.greenhouse.io/veeamsoftware/jobs/4974680101",
   "posted": "2026-09-17",
@@ -531,10 +509,21 @@
  },
  {
   "employer": "Veeam Software UK Limited",
+  "title": "Senior Customer Success Engineer",
+  "location": "Remote, United Arab Emirates",
+  "url": "https://job-boards.eu.greenhouse.io/veeamsoftware/jobs/4744256101",
+  "posted": "2026-09-15",
+  "ats": "greenhouse",
+  "families": [
+   "D_edtech_customer"
+  ]
+ },
+ {
+  "employer": "Veeam Software UK Limited",
   "title": "Sr. Customer Success Engineer, LATAM",
   "location": "Remote, Costa Rica",
   "url": "https://job-boards.eu.greenhouse.io/veeamsoftware/jobs/4966995101",
-  "posted": "2026-09-15",
+  "posted": "2026-09-21",
   "ats": "greenhouse",
   "families": [
    "D_edtech_customer"
@@ -666,7 +655,7 @@
   "employer": "WPP Media UK Limited",
   "title": "Account Manager, Planning",
   "location": "London, United Kingdom",
-  "url": "https://job-boards.greenhouse.io/wppmedia/jobs/5380446008",
+  "url": "https://job-boards.greenhouse.io/wppmedia/jobs/5211330008",
   "posted": "2026-09-09",
   "ats": "greenhouse",
   "families": [
@@ -688,7 +677,7 @@
   "employer": "WPP Media UK Limited",
   "title": "Account Manager, Planning",
   "location": "London, United Kingdom",
-  "url": "https://job-boards.greenhouse.io/wppmedia/jobs/5211330008",
+  "url": "https://job-boards.greenhouse.io/wppmedia/jobs/5380446008",
   "posted": "2026-09-09",
   "ats": "greenhouse",
   "families": [
@@ -742,8 +731,8 @@
  {
   "employer": "WPP Media UK Limited",
   "title": "Account Manager, Search",
-  "location": "Manchester, United Kingdom",
-  "url": "https://job-boards.greenhouse.io/wppmedia/jobs/5190550008",
+  "location": "London, United Kingdom",
+  "url": "https://job-boards.greenhouse.io/wppmedia/jobs/5372725008",
   "posted": "2026-09-09",
   "ats": "greenhouse",
   "families": [
@@ -753,8 +742,8 @@
  {
   "employer": "WPP Media UK Limited",
   "title": "Account Manager, Search",
-  "location": "London, United Kingdom",
-  "url": "https://job-boards.greenhouse.io/wppmedia/jobs/5372725008",
+  "location": "Manchester, United Kingdom",
+  "url": "https://job-boards.greenhouse.io/wppmedia/jobs/5190550008",
   "posted": "2026-09-09",
   "ats": "greenhouse",
   "families": [
@@ -787,8 +776,8 @@
   "employer": "WPP Media UK Limited",
   "title": "Account Manager, Social",
   "location": "London, United Kingdom",
-  "url": "https://job-boards.greenhouse.io/wppmedia/jobs/5235475008",
-  "posted": "2026-09-15",
+  "url": "https://job-boards.greenhouse.io/wppmedia/jobs/5226306008",
+  "posted": "2026-09-09",
   "ats": "greenhouse",
   "families": [
    "D_edtech_customer"
@@ -798,8 +787,8 @@
   "employer": "WPP Media UK Limited",
   "title": "Account Manager, Social",
   "location": "London, United Kingdom",
-  "url": "https://job-boards.greenhouse.io/wppmedia/jobs/5226306008",
-  "posted": "2026-09-09",
+  "url": "https://job-boards.greenhouse.io/wppmedia/jobs/5235475008",
+  "posted": "2026-09-15",
   "ats": "greenhouse",
   "families": [
    "D_edtech_customer"
@@ -897,7 +886,7 @@
   "employer": "Study Group Limited",
   "title": "Account Manager",
   "location": "Remote",
-  "url": "https://studygroupuk.applytojob.com/apply/YRTj6H2mE9/Account-Manager",
+  "url": "https://studygroupuk.applytojob.com/apply/HXBRKINs5a/Account-Manager",
   "posted": "",
   "ats": "jazzhr",
   "families": [
