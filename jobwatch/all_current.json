@@ -12,17 +12,6 @@
  },
  {
   "employer": "Bottomline Technologies Limited",
-  "title": "Customer Success Associate",
-  "location": "UK, Theale (Reading)",
-  "url": "https://job-boards.greenhouse.io/bottomlinetechnologies/jobs/8699373002",
-  "posted": "2026-08-25",
-  "ats": "greenhouse",
-  "families": [
-   "D_edtech_customer"
-  ]
- },
- {
-  "employer": "Bottomline Technologies Limited",
   "title": "Customer Success Manager",
   "location": "United Kingdom",
   "url": "https://job-boards.greenhouse.io/bottomlinetechnologies/jobs/8323809002",
@@ -266,6 +255,17 @@
  },
  {
   "employer": "MONIEPOINT TECHNOLOGIES UK LTD",
+  "title": "Quality Assurance Analyst (Senior Associate)",
+  "location": "Remote, Bangalore",
+  "url": "https://job-boards.eu.greenhouse.io/moniepoint/jobs/4941088101",
+  "posted": "2026-09-24",
+  "ats": "greenhouse",
+  "families": [
+   "F_quality_compliance"
+  ]
+ },
+ {
+  "employer": "MONIEPOINT TECHNOLOGIES UK LTD",
   "title": "Senior Business Analyst",
   "location": "Remote, London, United Kingdom",
   "url": "https://job-boards.eu.greenhouse.io/moniepoint/jobs/4912592101",
@@ -287,17 +287,6 @@
   ]
  },
  {
-  "employer": "MONIEPOINT TECHNOLOGIES UK LTD",
-  "title": "Senior Quality Assurance Engineer",
-  "location": "Remote, Bangalore",
-  "url": "https://job-boards.eu.greenhouse.io/moniepoint/jobs/4941088101",
-  "posted": "2026-09-22",
-  "ats": "greenhouse",
-  "families": [
-   "F_quality_compliance"
-  ]
- },
- {
   "employer": "Multiverse Group Limited",
   "title": "Campaigns & Content Specialist",
   "location": "London",
@@ -306,6 +295,17 @@
   "ats": "ashby",
   "families": [
    "C_marketing_recruitment"
+  ]
+ },
+ {
+  "employer": "NICE Systems UK Limited",
+  "title": "Lead Customer Success Manager",
+  "location": "United Kingdom - London",
+  "url": "https://boards.eu.greenhouse.io/nice/jobs/4976767101?gh_jid=4976767101",
+  "posted": "2026-09-24",
+  "ats": "greenhouse",
+  "families": [
+   "D_edtech_customer"
   ]
  },
  {
@@ -402,6 +402,17 @@
   "location": "Remote - US",
   "url": "https://sambanova.ai/sambanova-available-positions/?gh_jid=6114176004",
   "posted": "2026-09-06",
+  "ats": "greenhouse",
+  "families": [
+   "D_edtech_customer"
+  ]
+ },
+ {
+  "employer": "Sigma Computing UK Limited",
+  "title": "Commercial Customer Success Manager - EMEA",
+  "location": "London, UK",
+  "url": "https://job-boards.greenhouse.io/sigmacomputing/jobs/7990102003",
+  "posted": "2026-09-23",
   "ats": "greenhouse",
   "families": [
    "D_edtech_customer"
@@ -554,17 +565,6 @@
  },
  {
   "employer": "WPP Media UK Limited",
-  "title": "Account Manager, Client Leadership",
-  "location": "London, United Kingdom",
-  "url": "https://job-boards.greenhouse.io/wppmedia/jobs/5372639008",
-  "posted": "2026-09-21",
-  "ats": "greenhouse",
-  "families": [
-   "D_edtech_customer"
-  ]
- },
- {
-  "employer": "WPP Media UK Limited",
   "title": "Account Manager, Client Leadership, Global Client Solutions",
   "location": "London, United Kingdom",
   "url": "https://job-boards.greenhouse.io/wppmedia/jobs/5387229008",
@@ -644,7 +644,7 @@
   "employer": "WPP Media UK Limited",
   "title": "Account Manager, Planning",
   "location": "London, United Kingdom",
-  "url": "https://job-boards.greenhouse.io/wppmedia/jobs/5380446008",
+  "url": "https://job-boards.greenhouse.io/wppmedia/jobs/5211330008",
   "posted": "2026-09-21",
   "ats": "greenhouse",
   "families": [
@@ -666,7 +666,7 @@
   "employer": "WPP Media UK Limited",
   "title": "Account Manager, Planning",
   "location": "London, United Kingdom",
-  "url": "https://job-boards.greenhouse.io/wppmedia/jobs/5211330008",
+  "url": "https://job-boards.greenhouse.io/wppmedia/jobs/5380446008",
   "posted": "2026-09-21",
   "ats": "greenhouse",
   "families": [
@@ -796,17 +796,6 @@
  },
  {
   "employer": "WPP Media UK Limited",
-  "title": "Creative Producer & Videographer (Influencer Campaign Production)",
-  "location": "London, United Kingdom",
-  "url": "https://job-boards.greenhouse.io/wppmedia/jobs/5413640008",
-  "posted": "2026-09-21",
-  "ats": "greenhouse",
-  "families": [
-   "G_content_multimedia"
-  ]
- },
- {
-  "employer": "WPP Media UK Limited",
   "title": "Paid Social Account Manager",
   "location": "London, United Kingdom",
   "url": "https://job-boards.greenhouse.io/wppmedia/jobs/5379091008",
@@ -896,8 +885,8 @@
  {
   "employer": "Study Group Limited",
   "title": "Student Wellbeing & Engagement Officer",
-  "location": "Sheffield, South Yorkshire, United Kingdom",
-  "url": "https://studygroupuk.applytojob.com/apply/vw67Xw6Cjd/Student-Wellbeing-Engagement-Officer",
+  "location": "Leeds, West Yorkshire, United Kingdom",
+  "url": "https://studygroupuk.applytojob.com/apply/shMpp04xPH/Student-Wellbeing-Engagement-Officer",
   "posted": "",
   "ats": "jazzhr",
   "families": [
@@ -908,8 +897,8 @@
  {
   "employer": "Study Group Limited",
   "title": "Student Wellbeing & Engagement Officer",
-  "location": "Leeds, West Yorkshire, United Kingdom",
-  "url": "https://studygroupuk.applytojob.com/apply/shMpp04xPH/Student-Wellbeing-Engagement-Officer",
+  "location": "Sheffield, South Yorkshire, United Kingdom",
+  "url": "https://studygroupuk.applytojob.com/apply/vw67Xw6Cjd/Student-Wellbeing-Engagement-Officer",
   "posted": "",
   "ats": "jazzhr",
   "families": [
