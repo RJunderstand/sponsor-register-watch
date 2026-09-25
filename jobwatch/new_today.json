@@ -1,12 +1,12 @@
 {
- "generated": "2026-09-24",
- "count": 3,
+ "generated": "2026-09-25",
+ "count": 2,
  "jobs": [
   {
-   "employer": "NICE Systems UK Limited",
-   "title": "Lead Customer Success Manager",
-   "location": "United Kingdom - London",
-   "url": "https://boards.eu.greenhouse.io/nice/jobs/4976767101?gh_jid=4976767101",
+   "employer": "Veeam Software UK Limited",
+   "title": "Technical Account Manager",
+   "location": "Remote, United Kingdom",
+   "url": "https://job-boards.eu.greenhouse.io/veeamsoftware/jobs/4986104101",
    "posted": "2026-09-24",
    "ats": "greenhouse",
    "families": [
@@ -14,25 +14,14 @@
    ]
   },
   {
-   "employer": "Sigma Computing UK Limited",
-   "title": "Commercial Customer Success Manager - EMEA",
-   "location": "London, UK",
-   "url": "https://job-boards.greenhouse.io/sigmacomputing/jobs/7990102003",
-   "posted": "2026-09-23",
-   "ats": "greenhouse",
-   "families": [
-    "D_edtech_customer"
-   ]
-  },
-  {
-   "employer": "MONIEPOINT TECHNOLOGIES UK LTD",
-   "title": "Quality Assurance Analyst (Senior Associate)",
-   "location": "Remote, Bangalore",
-   "url": "https://job-boards.eu.greenhouse.io/moniepoint/jobs/4941088101",
+   "employer": "WPP Media UK Limited",
+   "title": "SVP, Product Enablement, Open",
+   "location": "London, United Kingdom",
+   "url": "https://job-boards.greenhouse.io/wppmedia/jobs/5413998008",
    "posted": "2026-09-24",
    "ats": "greenhouse",
    "families": [
-    "F_quality_compliance"
+    "D_edtech_customer"
    ]
   }
  ]

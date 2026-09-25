@@ -255,17 +255,6 @@
  },
  {
   "employer": "MONIEPOINT TECHNOLOGIES UK LTD",
-  "title": "Quality Assurance Analyst (Senior Associate)",
-  "location": "Remote, Bangalore",
-  "url": "https://job-boards.eu.greenhouse.io/moniepoint/jobs/4941088101",
-  "posted": "2026-09-24",
-  "ats": "greenhouse",
-  "families": [
-   "F_quality_compliance"
-  ]
- },
- {
-  "employer": "MONIEPOINT TECHNOLOGIES UK LTD",
   "title": "Senior Business Analyst",
   "location": "Remote, London, United Kingdom",
   "url": "https://job-boards.eu.greenhouse.io/moniepoint/jobs/4912592101",
@@ -313,7 +302,7 @@
   "title": "Lead Partner Success Implementation Engineer",
   "location": "United Kingdom - London",
   "url": "https://boards.eu.greenhouse.io/nice/jobs/4851456101?gh_jid=4851456101",
-  "posted": "2026-08-28",
+  "posted": "2026-09-24",
   "ats": "greenhouse",
   "families": [
    "D_edtech_customer"
@@ -388,8 +377,8 @@
  {
   "employer": "SambaNova Systems UK Limited",
   "title": "Customer Success Manager",
-  "location": "London, England, United Kingdom",
-  "url": "https://sambanova.ai/sambanova-available-positions/?gh_jid=6114166004",
+  "location": "Remote - US",
+  "url": "https://sambanova.ai/sambanova-available-positions/?gh_jid=6114176004",
   "posted": "2026-09-06",
   "ats": "greenhouse",
   "families": [
@@ -399,8 +388,8 @@
  {
   "employer": "SambaNova Systems UK Limited",
   "title": "Customer Success Manager",
-  "location": "Remote - US",
-  "url": "https://sambanova.ai/sambanova-available-positions/?gh_jid=6114176004",
+  "location": "London, England, United Kingdom",
+  "url": "https://sambanova.ai/sambanova-available-positions/?gh_jid=6114166004",
   "posted": "2026-09-06",
   "ats": "greenhouse",
   "families": [
@@ -499,9 +488,9 @@
  {
   "employer": "Veeam Software UK Limited",
   "title": "Senior Customer Success Engineer",
-  "location": "Remote, United Arab Emirates",
-  "url": "https://job-boards.eu.greenhouse.io/veeamsoftware/jobs/4744256101",
-  "posted": "2026-09-15",
+  "location": "Remote, United Kingdom",
+  "url": "https://job-boards.eu.greenhouse.io/veeamsoftware/jobs/4974680101",
+  "posted": "2026-09-17",
   "ats": "greenhouse",
   "families": [
    "D_edtech_customer"
@@ -510,9 +499,9 @@
  {
   "employer": "Veeam Software UK Limited",
   "title": "Senior Customer Success Engineer",
-  "location": "Remote, United Kingdom",
-  "url": "https://job-boards.eu.greenhouse.io/veeamsoftware/jobs/4974680101",
-  "posted": "2026-09-17",
+  "location": "Remote, United Arab Emirates",
+  "url": "https://job-boards.eu.greenhouse.io/veeamsoftware/jobs/4744256101",
+  "posted": "2026-09-15",
   "ats": "greenhouse",
   "families": [
    "D_edtech_customer"
@@ -524,6 +513,17 @@
   "location": "Remote, Costa Rica",
   "url": "https://job-boards.eu.greenhouse.io/veeamsoftware/jobs/4966995101",
   "posted": "2026-09-21",
+  "ats": "greenhouse",
+  "families": [
+   "D_edtech_customer"
+  ]
+ },
+ {
+  "employer": "Veeam Software UK Limited",
+  "title": "Technical Account Manager",
+  "location": "Remote, United Kingdom",
+  "url": "https://job-boards.eu.greenhouse.io/veeamsoftware/jobs/4986104101",
+  "posted": "2026-09-24",
   "ats": "greenhouse",
   "families": [
    "D_edtech_customer"
@@ -644,7 +644,7 @@
   "employer": "WPP Media UK Limited",
   "title": "Account Manager, Planning",
   "location": "London, United Kingdom",
-  "url": "https://job-boards.greenhouse.io/wppmedia/jobs/5211330008",
+  "url": "https://job-boards.greenhouse.io/wppmedia/jobs/5380446008",
   "posted": "2026-09-21",
   "ats": "greenhouse",
   "families": [
@@ -656,17 +656,6 @@
   "title": "Account Manager, Planning",
   "location": "Manchester, United Kingdom",
   "url": "https://job-boards.greenhouse.io/wppmedia/jobs/5409143008",
-  "posted": "2026-09-21",
-  "ats": "greenhouse",
-  "families": [
-   "D_edtech_customer"
-  ]
- },
- {
-  "employer": "WPP Media UK Limited",
-  "title": "Account Manager, Planning",
-  "location": "London, United Kingdom",
-  "url": "https://job-boards.greenhouse.io/wppmedia/jobs/5380446008",
   "posted": "2026-09-21",
   "ats": "greenhouse",
   "families": [
@@ -754,7 +743,7 @@
   "employer": "WPP Media UK Limited",
   "title": "Account Manager, Social",
   "location": "London, United Kingdom",
-  "url": "https://job-boards.greenhouse.io/wppmedia/jobs/5235475008",
+  "url": "https://job-boards.greenhouse.io/wppmedia/jobs/5226306008",
   "posted": "2026-09-21",
   "ats": "greenhouse",
   "families": [
@@ -765,7 +754,7 @@
   "employer": "WPP Media UK Limited",
   "title": "Account Manager, Social",
   "location": "London, United Kingdom",
-  "url": "https://job-boards.greenhouse.io/wppmedia/jobs/5226306008",
+  "url": "https://job-boards.greenhouse.io/wppmedia/jobs/5235475008",
   "posted": "2026-09-21",
   "ats": "greenhouse",
   "families": [
@@ -833,6 +822,17 @@
   "location": "London, United Kingdom",
   "url": "https://job-boards.greenhouse.io/wppmedia/jobs/5372767008",
   "posted": "2026-09-21",
+  "ats": "greenhouse",
+  "families": [
+   "D_edtech_customer"
+  ]
+ },
+ {
+  "employer": "WPP Media UK Limited",
+  "title": "SVP, Product Enablement, Open",
+  "location": "London, United Kingdom",
+  "url": "https://job-boards.greenhouse.io/wppmedia/jobs/5413998008",
+  "posted": "2026-09-24",
   "ats": "greenhouse",
   "families": [
    "D_edtech_customer"
