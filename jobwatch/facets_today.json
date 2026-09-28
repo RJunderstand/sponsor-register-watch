@@ -1,6 +1,6 @@
 {
- "generated": "2026-09-27T10:34:05Z",
- "run_date": "2026-09-27",
+ "generated": "2026-09-28T11:42:34Z",
+ "run_date": "2026-09-28",
  "floor": 33400,
  "facets_swept": [
   "pr-marketing-sales-and-communication",
@@ -15,14 +15,322 @@
   "other"
  ],
  "counts": {
-  "raw": 207,
-  "unique": 169,
-  "kept": 0,
-  "seen_before": 108,
-  "excluded_title": 27,
-  "gate1": 5,
-  "gate2": 29
+  "raw": 204,
+  "unique": 163,
+  "kept": 13,
+  "seen_before": 90,
+  "excluded_title": 28,
+  "gate1": 6,
+  "gate2": 26
  },
  "note": "Gate 1 and Gate 2 applied mechanically. Gate 3 and Gate 4 need the JD.",
- "jobs": []
+ "jobs": [
+  {
+   "advert_id": "1089138",
+   "title": "Global Mobility and Engagement Officer - Turing Scheme",
+   "employer": "Oxford Brookes University",
+   "department": "",
+   "location": "Oxford",
+   "salary_raw": "£32,080\n                                    rising to £34,610",
+   "closes": "11 Oct",
+   "url": "https://www.jobs.ac.uk/job/DTB738/global-mobility-and-engagement-officer-turing-scheme",
+   "facet": "pr-marketing-sales-and-communication",
+   "families": [
+    "C_marketing_recruitment"
+   ],
+   "salary_bottom": 32080,
+   "salary_top": 34610,
+   "salary_note": "",
+   "gate2": "需谈薪至门槛以上",
+   "register_match": {
+    "matched_name": "Oxford Brookes University",
+    "rating": "Worker (A rating)",
+    "route": "Skilled Worker",
+    "skilled_worker": true
+   },
+   "gate3_gate4": "unassessed"
+  },
+  {
+   "advert_id": "1089111",
+   "title": "Compliance Adviser",
+   "employer": "University of Essex",
+   "department": "People & Culture - Resourcing",
+   "location": "Colchester, Hybrid",
+   "salary_raw": "£38,784 to £46,049\n                                    per annum, pro rata.",
+   "closes": "11 Oct",
+   "url": "https://www.jobs.ac.uk/job/DTB464/compliance-adviser",
+   "facet": "legal-compliance-and-policy",
+   "families": [
+    "K_student_support"
+   ],
+   "salary_bottom": 38784,
+   "salary_top": 46049,
+   "salary_note": "CHECK_HOURS",
+   "gate2": "达标",
+   "register_match": {
+    "matched_name": "Essex Services Group Ltd",
+    "rating": "Worker (A rating)",
+    "route": "Skilled Worker",
+    "skilled_worker": true
+   },
+   "gate3_gate4": "unassessed"
+  },
+  {
+   "advert_id": "1089126",
+   "title": "Student Recruitment & Outreach Manager",
+   "employer": "Newcastle University",
+   "department": "Faculty of Science, Agriculture and Engineering (SAgE)",
+   "location": "Newcastle upon Tyne",
+   "salary_raw": "£36,636 to £38,784\n                                    per annum with progression to £46,049 per annum.",
+   "closes": "12 Oct",
+   "url": "https://www.jobs.ac.uk/job/DTB712/student-recruitment-and-outreach-manager",
+   "facet": "pr-marketing-sales-and-communication",
+   "families": [
+    "C_marketing_recruitment"
+   ],
+   "salary_bottom": 36636,
+   "salary_top": 46049,
+   "salary_note": "",
+   "gate2": "达标",
+   "register_match": {
+    "matched_name": "Newcastle University",
+    "rating": "Worker (A rating)",
+    "route": "Skilled Worker",
+    "skilled_worker": true
+   },
+   "gate3_gate4": "unassessed"
+  },
+  {
+   "advert_id": "1089168",
+   "title": "Policy Officer - Faculty Cases Team",
+   "employer": "University of Exeter",
+   "department": "Office of Senior Vice-President and Registrar and Secretary",
+   "location": "Exeter",
+   "salary_raw": "From £33,951\n                                    (Starting salary will be from £33,951 on Grade E, depending on experience.)",
+   "closes": "18 Oct",
+   "url": "https://www.jobs.ac.uk/job/DTB789/policy-officer-faculty-cases-team",
+   "facet": "student-services",
+   "families": [
+    "F_quality_compliance"
+   ],
+   "salary_bottom": 33951,
+   "salary_top": 33951,
+   "salary_note": "",
+   "gate2": "达标",
+   "register_match": {
+    "matched_name": "University of Exeter",
+    "rating": "Worker (A rating)",
+    "route": "Skilled Worker",
+    "skilled_worker": true
+   },
+   "gate3_gate4": "unassessed"
+  },
+  {
+   "advert_id": "1089154",
+   "title": "Research Academy Administrative Officer",
+   "employer": "Loughborough University",
+   "department": "Organisational Development",
+   "location": "Loughborough University, Loughborough, Hybrid",
+   "salary_raw": "£29,588 to £34,610\n                                    per annum. Subject to annual pay award. Administrative Services grade 5.",
+   "closes": "09 Oct",
+   "url": "https://www.jobs.ac.uk/job/DTB762/research-academy-administrative-officer",
+   "facet": "administrative",
+   "families": [],
+   "salary_bottom": 29588,
+   "salary_top": 34610,
+   "salary_note": "",
+   "gate2": "需谈薪至门槛以上",
+   "register_match": {
+    "matched_name": "Loughborough College Group",
+    "rating": "Worker (A rating)",
+    "route": "Skilled Worker",
+    "skilled_worker": true
+   },
+   "gate3_gate4": "unassessed"
+  },
+  {
+   "advert_id": "1089174",
+   "title": "Senior Project & Programme Manager",
+   "employer": "The University of Edinburgh",
+   "department": "Information Services Group / Project Services / Applications Directorate",
+   "location": "Edinburgh, Hybrid",
+   "salary_raw": "UE08: £50,253 – £61,759 (pro rata if part-time)",
+   "closes": "09 Oct",
+   "url": "https://www.jobs.ac.uk/job/DTB797/senior-project-and-programme-manager",
+   "facet": "project-management-and-consulting",
+   "families": [],
+   "salary_bottom": 50253,
+   "salary_top": 61759,
+   "salary_note": "CHECK_HOURS",
+   "gate2": "达标",
+   "register_match": {
+    "matched_name": "University of Edinburgh",
+    "rating": "Worker (A rating)",
+    "route": "Skilled Worker",
+    "skilled_worker": true
+   },
+   "gate3_gate4": "unassessed"
+  },
+  {
+   "advert_id": "1089135",
+   "title": "Student Cases Manager (Complaints and Final Reviews)",
+   "employer": "Swansea University",
+   "department": "Education Services",
+   "location": "Swansea",
+   "salary_raw": "£39,906 to £46,049\n                                    per annum",
+   "closes": "11 Oct",
+   "url": "https://www.jobs.ac.uk/job/DTB729/student-cases-manager-complaints-and-final-reviews",
+   "facet": "student-services",
+   "families": [],
+   "salary_bottom": 39906,
+   "salary_top": 46049,
+   "salary_note": "",
+   "gate2": "达标",
+   "register_match": {
+    "matched_name": "Swansea University",
+    "rating": "Worker (A rating)",
+    "route": "Skilled Worker",
+    "skilled_worker": true
+   },
+   "gate3_gate4": "unassessed"
+  },
+  {
+   "advert_id": "1089102",
+   "title": "Data Analyst",
+   "employer": "University of Sheffield",
+   "department": "Strategic Planning and Change",
+   "location": "Sheffield, Hybrid",
+   "salary_raw": "£32,080 to £36,636\n                                    per annum. Potential to progress to £39,906 per annum through sustained exceptional contribution.",
+   "closes": "11 Oct",
+   "url": "https://www.jobs.ac.uk/job/DTB447/data-analyst",
+   "facet": "it-services",
+   "families": [],
+   "salary_bottom": 32080,
+   "salary_top": 39906,
+   "salary_note": "",
+   "gate2": "需谈薪至门槛以上",
+   "register_match": {
+    "matched_name": "The University of Sheffield",
+    "rating": "Worker (A rating)",
+    "route": "Skilled Worker",
+    "skilled_worker": true
+   },
+   "gate3_gate4": "unassessed"
+  },
+  {
+   "advert_id": "1089149",
+   "title": "Programme Delivery Coordinator (1 year contract)",
+   "employer": "King's College London",
+   "department": "Summer Programmes",
+   "location": "London",
+   "salary_raw": "£34,713 to £35,503\n                                    per annum including London Weighting Allowance",
+   "closes": "11 Oct",
+   "url": "https://www.jobs.ac.uk/job/DTB755/programme-delivery-coordinator-1-year-contract",
+   "facet": "administrative",
+   "families": [],
+   "salary_bottom": 34713,
+   "salary_top": 35503,
+   "salary_note": "",
+   "gate2": "达标",
+   "register_match": {
+    "matched_name": "King's College London",
+    "rating": "Worker (A rating)",
+    "route": "Skilled Worker",
+    "skilled_worker": true
+   },
+   "gate3_gate4": "unassessed"
+  },
+  {
+   "advert_id": "1089105",
+   "title": "Student Number Planning Manager Fixed term (18 months)",
+   "employer": "Birmingham City University",
+   "department": "Planning and Performance Department",
+   "location": "Birmingham",
+   "salary_raw": "£52,462 to £60,842\n                                    per annum",
+   "closes": "12 Oct",
+   "url": "https://www.jobs.ac.uk/job/DTB454/student-number-planning-manager-fixed-term-18-months",
+   "facet": "student-services",
+   "families": [],
+   "salary_bottom": 52462,
+   "salary_top": 60842,
+   "salary_note": "",
+   "gate2": "达标",
+   "register_match": {
+    "matched_name": "Birmingham City University",
+    "rating": "Worker (A rating)",
+    "route": "Skilled Worker",
+    "skilled_worker": true
+   },
+   "gate3_gate4": "unassessed"
+  },
+  {
+   "advert_id": "1089143",
+   "title": "Specialist Tutor (TTO, Part-Time)",
+   "employer": "Bournemouth University",
+   "department": "Additional Learning Support",
+   "location": "Bournemouth",
+   "salary_raw": "£34,610 to £39,906\n                                    per annum (pro rata) with progression opportunities to £43,482",
+   "closes": "18 Oct",
+   "url": "https://www.jobs.ac.uk/job/DTB747/specialist-tutor-tto-part-time",
+   "facet": "student-services",
+   "families": [],
+   "salary_bottom": 34610,
+   "salary_top": 43482,
+   "salary_note": "CHECK_HOURS",
+   "gate2": "达标",
+   "register_match": {
+    "matched_name": "Bournemouth University",
+    "rating": "Worker (A rating)",
+    "route": "Skilled Worker",
+    "skilled_worker": true
+   },
+   "gate3_gate4": "unassessed"
+  },
+  {
+   "advert_id": "1089133",
+   "title": "Senior Planning & Data Analyst",
+   "employer": "City St George’s, University of London",
+   "department": "SPU - Strategic Planning and Performance Unit",
+   "location": "London, Hybrid",
+   "salary_raw": "£43,482 to £44,746",
+   "closes": "18 Oct",
+   "url": "https://www.jobs.ac.uk/job/DTB725/senior-planning-and-data-analyst",
+   "facet": "library-services-data-and-information-management",
+   "families": [],
+   "salary_bottom": 43482,
+   "salary_top": 44746,
+   "salary_note": "",
+   "gate2": "达标",
+   "register_match": {
+    "matched_name": "City St George's",
+    "rating": "Worker (A rating)",
+    "route": "Skilled Worker",
+    "skilled_worker": true
+   },
+   "gate3_gate4": "unassessed"
+  },
+  {
+   "advert_id": "1089142",
+   "title": "Mechanical Design Engineer",
+   "employer": "University of Cambridge",
+   "department": "Department of Physics",
+   "location": "Cambridge",
+   "salary_raw": "£33,951 to £39,906",
+   "closes": "25 Oct",
+   "url": "https://www.jobs.ac.uk/job/DTB744/mechanical-design-engineer",
+   "facet": "project-management-and-consulting",
+   "families": [],
+   "salary_bottom": 33951,
+   "salary_top": 39906,
+   "salary_note": "",
+   "gate2": "达标",
+   "register_match": {
+    "matched_name": "The University of Cambridge",
+    "rating": "Worker (A rating)",
+    "route": "Skilled Worker",
+    "skilled_worker": true
+   },
+   "gate3_gate4": "unassessed"
+  }
+ ]
 }
