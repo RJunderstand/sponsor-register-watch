@@ -1,5 +1,50 @@
 {
- "generated": "2026-09-28",
- "count": 0,
- "jobs": []
+ "generated": "2026-09-29",
+ "count": 4,
+ "jobs": [
+  {
+   "employer": "DATATONIC LTD",
+   "title": "Senior Account Manager",
+   "location": "London",
+   "url": "https://jobs.ashbyhq.com/datatonic/257f9f6d-7379-4dd4-ad0d-b0117dcdd4f0",
+   "posted": "2026-09-28",
+   "ats": "ashby",
+   "families": [
+    "D_edtech_customer"
+   ]
+  },
+  {
+   "employer": "JUUL Labs UK Ltd",
+   "title": "Key Account Manager, East Coast (VA/MA)",
+   "location": "Remote-Massachusetts; Remote-Virginia",
+   "url": "https://job-boards.greenhouse.io/juullabs/jobs/8234106",
+   "posted": "2026-09-28",
+   "ats": "greenhouse",
+   "families": [
+    "D_edtech_customer"
+   ]
+  },
+  {
+   "employer": "Telefonica Tech UK Data & AI Limited",
+   "title": "IT Account Manager",
+   "location": "London England gb 51.5072178 -0.1275862 London, England, United Kingdom",
+   "url": "https://jobs.smartrecruiters.com/744000152361999",
+   "posted": "2026-09-29",
+   "ats": "smartrecruiters",
+   "families": [
+    "D_edtech_customer"
+   ]
+  },
+  {
+   "employer": "Liverpool College Independent School Trust",
+   "title": "Student Counsellor & Mental Health Support Practitioner",
+   "location": "Liverpool Liverpool",
+   "url": "https://liv-coll.pinpointhq.com/en/postings/9d3be1fa-b841-4fc5-9589-deffea0ff5b5",
+   "posted": "",
+   "ats": "pinpoint",
+   "families": [
+    "K_student_support"
+   ]
+  }
+ ]
 }

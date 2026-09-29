@@ -77,6 +77,17 @@
   ]
  },
  {
+  "employer": "DATATONIC LTD",
+  "title": "Senior Account Manager",
+  "location": "London",
+  "url": "https://jobs.ashbyhq.com/datatonic/257f9f6d-7379-4dd4-ad0d-b0117dcdd4f0",
+  "posted": "2026-09-28",
+  "ats": "ashby",
+  "families": [
+   "D_edtech_customer"
+  ]
+ },
+ {
   "employer": "Docebo UK Limited",
   "title": "Technical Account Manager",
   "location": "London, UK",
@@ -221,6 +232,17 @@
   ]
  },
  {
+  "employer": "JUUL Labs UK Ltd",
+  "title": "Key Account Manager, East Coast (VA/MA)",
+  "location": "Remote-Massachusetts; Remote-Virginia",
+  "url": "https://job-boards.greenhouse.io/juullabs/jobs/8234106",
+  "posted": "2026-09-28",
+  "ats": "greenhouse",
+  "families": [
+   "D_edtech_customer"
+  ]
+ },
+ {
   "employer": "Liverpool College Independent School Trust",
   "title": "Bank Learning Support Practitioner",
   "location": "Liverpool Liverpool",
@@ -247,6 +269,17 @@
   "title": "Learning Support Practitioner",
   "location": "Liverpool Liverpool",
   "url": "https://liv-coll.pinpointhq.com/en/postings/72c9d9c5-c286-4ba4-b2ec-54555fc516f3",
+  "posted": "",
+  "ats": "pinpoint",
+  "families": [
+   "K_student_support"
+  ]
+ },
+ {
+  "employer": "Liverpool College Independent School Trust",
+  "title": "Student Counsellor & Mental Health Support Practitioner",
+  "location": "Liverpool Liverpool",
+  "url": "https://liv-coll.pinpointhq.com/en/postings/9d3be1fa-b841-4fc5-9589-deffea0ff5b5",
   "posted": "",
   "ats": "pinpoint",
   "families": [
@@ -355,8 +388,8 @@
  {
   "employer": "SambaNova Systems UK Limited",
   "title": "Customer Success Manager",
-  "location": "Remote - US",
-  "url": "https://sambanova.ai/sambanova-available-positions/?gh_jid=6114176004",
+  "location": "London, England, United Kingdom",
+  "url": "https://sambanova.ai/sambanova-available-positions/?gh_jid=6114166004",
   "posted": "2026-09-06",
   "ats": "greenhouse",
   "families": [
@@ -366,8 +399,8 @@
  {
   "employer": "SambaNova Systems UK Limited",
   "title": "Customer Success Manager",
-  "location": "London, England, United Kingdom",
-  "url": "https://sambanova.ai/sambanova-available-positions/?gh_jid=6114166004",
+  "location": "Remote - US",
+  "url": "https://sambanova.ai/sambanova-available-positions/?gh_jid=6114176004",
   "posted": "2026-09-06",
   "ats": "greenhouse",
   "families": [
@@ -379,7 +412,7 @@
   "title": "Commercial Customer Success Manager - EMEA",
   "location": "London, UK",
   "url": "https://job-boards.greenhouse.io/sigmacomputing/jobs/7990102003",
-  "posted": "2026-09-23",
+  "posted": "2026-09-28",
   "ats": "greenhouse",
   "families": [
    "D_edtech_customer"
@@ -406,6 +439,17 @@
   "families": [
    "D_edtech_customer",
    "H_ai_governance"
+  ]
+ },
+ {
+  "employer": "Telefonica Tech UK Data & AI Limited",
+  "title": "IT Account Manager",
+  "location": "London England gb 51.5072178 -0.1275862 London, England, United Kingdom",
+  "url": "https://jobs.smartrecruiters.com/744000152361999",
+  "posted": "2026-09-29",
+  "ats": "smartrecruiters",
+  "families": [
+   "D_edtech_customer"
   ]
  },
  {
@@ -466,17 +510,6 @@
  {
   "employer": "Veeam Software UK Limited",
   "title": "Senior Customer Success Engineer",
-  "location": "Remote, United Kingdom",
-  "url": "https://job-boards.eu.greenhouse.io/veeamsoftware/jobs/4974680101",
-  "posted": "2026-09-17",
-  "ats": "greenhouse",
-  "families": [
-   "D_edtech_customer"
-  ]
- },
- {
-  "employer": "Veeam Software UK Limited",
-  "title": "Senior Customer Success Engineer",
   "location": "Remote, United Arab Emirates",
   "url": "https://job-boards.eu.greenhouse.io/veeamsoftware/jobs/4744256101",
   "posted": "2026-09-15",
@@ -487,10 +520,10 @@
  },
  {
   "employer": "Veeam Software UK Limited",
-  "title": "Sr. Customer Success Engineer, LATAM",
-  "location": "Remote, Costa Rica",
-  "url": "https://job-boards.eu.greenhouse.io/veeamsoftware/jobs/4966995101",
-  "posted": "2026-09-21",
+  "title": "Senior Customer Success Engineer",
+  "location": "Remote, United Kingdom",
+  "url": "https://job-boards.eu.greenhouse.io/veeamsoftware/jobs/4974680101",
+  "posted": "2026-09-17",
   "ats": "greenhouse",
   "families": [
    "D_edtech_customer"
@@ -611,6 +644,17 @@
   "employer": "WPP Media UK Limited",
   "title": "Account Manager, Planning",
   "location": "London, United Kingdom",
+  "url": "https://job-boards.greenhouse.io/wppmedia/jobs/5211330008",
+  "posted": "2026-09-28",
+  "ats": "greenhouse",
+  "families": [
+   "D_edtech_customer"
+  ]
+ },
+ {
+  "employer": "WPP Media UK Limited",
+  "title": "Account Manager, Planning",
+  "location": "London, United Kingdom",
   "url": "https://job-boards.greenhouse.io/wppmedia/jobs/5380446008",
   "posted": "2026-09-21",
   "ats": "greenhouse",
@@ -689,17 +733,6 @@
   "title": "Account Manager, SEO",
   "location": "London, United Kingdom",
   "url": "https://job-boards.greenhouse.io/wppmedia/jobs/5301517008",
-  "posted": "2026-09-21",
-  "ats": "greenhouse",
-  "families": [
-   "D_edtech_customer"
-  ]
- },
- {
-  "employer": "WPP Media UK Limited",
-  "title": "Account manager, Social",
-  "location": "London, United Kingdom",
-  "url": "https://job-boards.greenhouse.io/wppmedia/jobs/5235469008",
   "posted": "2026-09-21",
   "ats": "greenhouse",
   "families": [
@@ -863,8 +896,8 @@
  {
   "employer": "Study Group Limited",
   "title": "Student Wellbeing & Engagement Officer",
-  "location": "Leeds, West Yorkshire, United Kingdom",
-  "url": "https://studygroupuk.applytojob.com/apply/shMpp04xPH/Student-Wellbeing-Engagement-Officer",
+  "location": "Sheffield, South Yorkshire, United Kingdom",
+  "url": "https://studygroupuk.applytojob.com/apply/vw67Xw6Cjd/Student-Wellbeing-Engagement-Officer",
   "posted": "",
   "ats": "jazzhr",
   "families": [
@@ -875,8 +908,8 @@
  {
   "employer": "Study Group Limited",
   "title": "Student Wellbeing & Engagement Officer",
-  "location": "Sheffield, South Yorkshire, United Kingdom",
-  "url": "https://studygroupuk.applytojob.com/apply/vw67Xw6Cjd/Student-Wellbeing-Engagement-Officer",
+  "location": "Leeds, West Yorkshire, United Kingdom",
+  "url": "https://studygroupuk.applytojob.com/apply/shMpp04xPH/Student-Wellbeing-Engagement-Officer",
   "posted": "",
   "ats": "jazzhr",
   "families": [
