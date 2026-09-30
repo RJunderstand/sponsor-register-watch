@@ -1,24 +1,57 @@
 {
- "generated": "2026-09-29",
- "count": 4,
+ "generated": "2026-09-30",
+ "count": 9,
  "jobs": [
   {
-   "employer": "DATATONIC LTD",
-   "title": "Senior Account Manager",
-   "location": "London",
-   "url": "https://jobs.ashbyhq.com/datatonic/257f9f6d-7379-4dd4-ad0d-b0117dcdd4f0",
-   "posted": "2026-09-28",
-   "ats": "ashby",
+   "employer": "Oxford International Education & Travel Ltd",
+   "title": "Marketing Executive",
+   "location": "UK United Kingdom",
+   "url": "https://joinus.oxfordinternational.com/en/postings/e77850ea-e4fe-4310-b6d7-fedb7783de86",
+   "posted": "",
+   "ats": "pinpoint",
+   "families": [
+    "C_marketing_recruitment"
+   ]
+  },
+  {
+   "employer": "Oxford International School",
+   "title": "Marketing Executive",
+   "location": "UK United Kingdom",
+   "url": "https://joinus.oxfordinternational.com/en/postings/e77850ea-e4fe-4310-b6d7-fedb7783de86",
+   "posted": "",
+   "ats": "pinpoint",
+   "families": [
+    "C_marketing_recruitment"
+   ]
+  },
+  {
+   "employer": "Oxford International Study Abroad Programme Ltd",
+   "title": "Marketing Executive",
+   "location": "UK United Kingdom",
+   "url": "https://joinus.oxfordinternational.com/en/postings/e77850ea-e4fe-4310-b6d7-fedb7783de86",
+   "posted": "",
+   "ats": "pinpoint",
+   "families": [
+    "C_marketing_recruitment"
+   ]
+  },
+  {
+   "employer": "Elemis",
+   "title": "Account Manager",
+   "location": "London John Lewis, Westfield Stratford",
+   "url": "https://careers.elemis.com/en/postings/b1eb0f45-5b02-4f65-b3dc-f156bf432b18",
+   "posted": "",
+   "ats": "pinpoint",
    "families": [
     "D_edtech_customer"
    ]
   },
   {
-   "employer": "JUUL Labs UK Ltd",
-   "title": "Key Account Manager, East Coast (VA/MA)",
-   "location": "Remote-Massachusetts; Remote-Virginia",
-   "url": "https://job-boards.greenhouse.io/juullabs/jobs/8234106",
-   "posted": "2026-09-28",
+   "employer": "Sigma Computing UK Limited",
+   "title": "Senior Partner Account Manager - EMEA",
+   "location": "London, England, United Kingdom",
+   "url": "https://job-boards.greenhouse.io/sigmacomputing/jobs/7814249003",
+   "posted": "2026-09-29",
    "ats": "greenhouse",
    "families": [
     "D_edtech_customer"
@@ -26,20 +59,42 @@
   },
   {
    "employer": "Telefonica Tech UK Data & AI Limited",
-   "title": "IT Account Manager",
+   "title": "Account Manager, Enterprise",
    "location": "London England gb 51.5072178 -0.1275862 London, England, United Kingdom",
-   "url": "https://jobs.smartrecruiters.com/744000152361999",
-   "posted": "2026-09-29",
+   "url": "https://jobs.smartrecruiters.com/744000152631875",
+   "posted": "2026-09-30",
    "ats": "smartrecruiters",
    "families": [
     "D_edtech_customer"
    ]
   },
   {
-   "employer": "Liverpool College Independent School Trust",
-   "title": "Student Counsellor & Mental Health Support Practitioner",
-   "location": "Liverpool Liverpool",
-   "url": "https://liv-coll.pinpointhq.com/en/postings/9d3be1fa-b841-4fc5-9589-deffea0ff5b5",
+   "employer": "Trading Technologies  UK Limited",
+   "title": "Strategic Account Manager",
+   "location": "London London",
+   "url": "https://tradingtechnologies.pinpointhq.com/en/postings/d2d4aea0-01c0-4e5e-a79c-8a0aafee46da",
+   "posted": "",
+   "ats": "pinpoint",
+   "families": [
+    "D_edtech_customer"
+   ]
+  },
+  {
+   "employer": "Wunderkind Technologies UK Ltd",
+   "title": "Customer Success Manager, U.K.",
+   "location": "London, United Kingdom; Remote",
+   "url": "https://www.wunderkind.co/careers/?gh_jid=8236762",
+   "posted": "2026-09-29",
+   "ats": "greenhouse",
+   "families": [
+    "D_edtech_customer"
+   ]
+  },
+  {
+   "employer": "Barnet and Southgate College",
+   "title": "Careers, Enrichment & Pastoral Apprentice",
+   "location": "London Southgate Campus",
+   "url": "https://barnetsouthgate.pinpointhq.com/en/postings/f74758a6-2acf-43a1-a3a6-8dec94a77b27",
    "posted": "",
    "ats": "pinpoint",
    "families": [

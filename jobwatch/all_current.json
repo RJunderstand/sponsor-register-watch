@@ -1,5 +1,16 @@
 [
  {
+  "employer": "Barnet and Southgate College",
+  "title": "Careers, Enrichment & Pastoral Apprentice",
+  "location": "London Southgate Campus",
+  "url": "https://barnetsouthgate.pinpointhq.com/en/postings/f74758a6-2acf-43a1-a3a6-8dec94a77b27",
+  "posted": "",
+  "ats": "pinpoint",
+  "families": [
+   "K_student_support"
+  ]
+ },
+ {
   "employer": "Black Kite Studios Ltd",
   "title": "PR & Content Manager",
   "location": "London England gb Featherstone Street EC1Y 51.5246108 -0.0884741 London, England, United Kingdom",
@@ -133,6 +144,17 @@
   ]
  },
  {
+  "employer": "Elemis",
+  "title": "Account Manager",
+  "location": "London John Lewis, Westfield Stratford",
+  "url": "https://careers.elemis.com/en/postings/b1eb0f45-5b02-4f65-b3dc-f156bf432b18",
+  "posted": "",
+  "ats": "pinpoint",
+  "families": [
+   "D_edtech_customer"
+  ]
+ },
+ {
   "employer": "Eleven Labs Ltd",
   "title": "AI Creative Producer",
   "location": "United Kingdom",
@@ -141,17 +163,6 @@
   "ats": "ashby",
   "families": [
    "G_content_multimedia"
-  ]
- },
- {
-  "employer": "Eleven Labs Ltd",
-  "title": "Brand Design",
-  "location": "London",
-  "url": "https://jobs.ashbyhq.com/elevenlabs/d5fb656f-a8ac-457a-ab26-07304791e097",
-  "posted": "2025-11-19",
-  "ats": "ashby",
-  "families": [
-   "C_marketing_recruitment"
   ]
  },
  {
@@ -236,7 +247,7 @@
   "title": "Key Account Manager, East Coast (VA/MA)",
   "location": "Remote-Massachusetts; Remote-Virginia",
   "url": "https://job-boards.greenhouse.io/juullabs/jobs/8234106",
-  "posted": "2026-09-28",
+  "posted": "2026-09-29",
   "ats": "greenhouse",
   "families": [
    "D_edtech_customer"
@@ -353,6 +364,39 @@
   ]
  },
  {
+  "employer": "Oxford International Education & Travel Ltd",
+  "title": "Marketing Executive",
+  "location": "UK United Kingdom",
+  "url": "https://joinus.oxfordinternational.com/en/postings/e77850ea-e4fe-4310-b6d7-fedb7783de86",
+  "posted": "",
+  "ats": "pinpoint",
+  "families": [
+   "C_marketing_recruitment"
+  ]
+ },
+ {
+  "employer": "Oxford International School",
+  "title": "Marketing Executive",
+  "location": "UK United Kingdom",
+  "url": "https://joinus.oxfordinternational.com/en/postings/e77850ea-e4fe-4310-b6d7-fedb7783de86",
+  "posted": "",
+  "ats": "pinpoint",
+  "families": [
+   "C_marketing_recruitment"
+  ]
+ },
+ {
+  "employer": "Oxford International Study Abroad Programme Ltd",
+  "title": "Marketing Executive",
+  "location": "UK United Kingdom",
+  "url": "https://joinus.oxfordinternational.com/en/postings/e77850ea-e4fe-4310-b6d7-fedb7783de86",
+  "posted": "",
+  "ats": "pinpoint",
+  "families": [
+   "C_marketing_recruitment"
+  ]
+ },
+ {
   "employer": "Proton Technologies Ltd",
   "title": "Motion Designer",
   "location": "Paris; London",
@@ -379,7 +423,7 @@
   "title": "Senior Technical Business Analyst",
   "location": "London",
   "url": "https://job-boards.greenhouse.io/quberesearchandtechnologies/jobs/8201764002",
-  "posted": "2026-05-08",
+  "posted": "2026-09-29",
   "ats": "greenhouse",
   "families": [
    "J_process_ops"
@@ -430,6 +474,17 @@
   ]
  },
  {
+  "employer": "Sigma Computing UK Limited",
+  "title": "Senior Partner Account Manager - EMEA",
+  "location": "London, England, United Kingdom",
+  "url": "https://job-boards.greenhouse.io/sigmacomputing/jobs/7814249003",
+  "posted": "2026-09-29",
+  "ats": "greenhouse",
+  "families": [
+   "D_edtech_customer"
+  ]
+ },
+ {
   "employer": "Skin Analytics",
   "title": "AI Enablement Engineer",
   "location": "London office based",
@@ -443,11 +498,22 @@
  },
  {
   "employer": "Telefonica Tech UK Data & AI Limited",
-  "title": "IT Account Manager",
+  "title": "Account Manager, Enterprise",
   "location": "London England gb 51.5072178 -0.1275862 London, England, United Kingdom",
-  "url": "https://jobs.smartrecruiters.com/744000152361999",
-  "posted": "2026-09-29",
+  "url": "https://jobs.smartrecruiters.com/744000152631875",
+  "posted": "2026-09-30",
   "ats": "smartrecruiters",
+  "families": [
+   "D_edtech_customer"
+  ]
+ },
+ {
+  "employer": "Trading Technologies  UK Limited",
+  "title": "Strategic Account Manager",
+  "location": "London London",
+  "url": "https://tradingtechnologies.pinpointhq.com/en/postings/d2d4aea0-01c0-4e5e-a79c-8a0aafee46da",
+  "posted": "",
+  "ats": "pinpoint",
   "families": [
    "D_edtech_customer"
   ]
@@ -643,9 +709,9 @@
  {
   "employer": "WPP Media UK Limited",
   "title": "Account Manager, Planning",
-  "location": "London, United Kingdom",
-  "url": "https://job-boards.greenhouse.io/wppmedia/jobs/5211330008",
-  "posted": "2026-09-28",
+  "location": "Manchester, United Kingdom",
+  "url": "https://job-boards.greenhouse.io/wppmedia/jobs/5409143008",
+  "posted": "2026-09-21",
   "ats": "greenhouse",
   "families": [
    "D_edtech_customer"
@@ -665,9 +731,9 @@
  {
   "employer": "WPP Media UK Limited",
   "title": "Account Manager, Planning",
-  "location": "Manchester, United Kingdom",
-  "url": "https://job-boards.greenhouse.io/wppmedia/jobs/5409143008",
-  "posted": "2026-09-21",
+  "location": "London, United Kingdom",
+  "url": "https://job-boards.greenhouse.io/wppmedia/jobs/5211330008",
+  "posted": "2026-09-28",
   "ats": "greenhouse",
   "families": [
    "D_edtech_customer"
@@ -688,7 +754,7 @@
   "employer": "WPP Media UK Limited",
   "title": "Account Manager, Programmatic",
   "location": "London, United Kingdom",
-  "url": "https://job-boards.greenhouse.io/wppmedia/jobs/5187822008",
+  "url": "https://job-boards.greenhouse.io/wppmedia/jobs/5424419008",
   "posted": "2026-09-21",
   "ats": "greenhouse",
   "families": [
@@ -699,7 +765,7 @@
   "employer": "WPP Media UK Limited",
   "title": "Account Manager, Programmatic",
   "location": "London, United Kingdom",
-  "url": "https://job-boards.greenhouse.io/wppmedia/jobs/5424419008",
+  "url": "https://job-boards.greenhouse.io/wppmedia/jobs/5187822008",
   "posted": "2026-09-21",
   "ats": "greenhouse",
   "families": [
@@ -861,6 +927,17 @@
   ]
  },
  {
+  "employer": "Wunderkind Technologies UK Ltd",
+  "title": "Customer Success Manager, U.K.",
+  "location": "London, United Kingdom; Remote",
+  "url": "https://www.wunderkind.co/careers/?gh_jid=8236762",
+  "posted": "2026-09-29",
+  "ats": "greenhouse",
+  "families": [
+   "D_edtech_customer"
+  ]
+ },
+ {
   "employer": "Study Group Limited",
   "title": "Account Manager",
   "location": "Remote",
@@ -898,18 +975,6 @@
   "title": "Student Wellbeing & Engagement Officer",
   "location": "Sheffield, South Yorkshire, United Kingdom",
   "url": "https://studygroupuk.applytojob.com/apply/vw67Xw6Cjd/Student-Wellbeing-Engagement-Officer",
-  "posted": "",
-  "ats": "jazzhr",
-  "families": [
-   "C_marketing_recruitment",
-   "K_student_support"
-  ]
- },
- {
-  "employer": "Study Group Limited",
-  "title": "Student Wellbeing & Engagement Officer",
-  "location": "Leeds, West Yorkshire, United Kingdom",
-  "url": "https://studygroupuk.applytojob.com/apply/shMpp04xPH/Student-Wellbeing-Engagement-Officer",
   "posted": "",
   "ats": "jazzhr",
   "families": [
