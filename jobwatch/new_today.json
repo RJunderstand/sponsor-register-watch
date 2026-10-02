@@ -1,38 +1,49 @@
 {
- "generated": "2026-10-01",
- "count": 3,
+ "generated": "2026-10-02",
+ "count": 4,
  "jobs": [
   {
-   "employer": "Instructure Global Limited",
-   "title": "Learning Consultant",
-   "location": "US-REMOTE",
-   "url": "https://jobs.ashbyhq.com/instructure/5eb384eb-7734-4932-8a06-356e3f4c56ec",
-   "posted": "2026-09-30",
-   "ats": "ashby",
-   "families": [
-    "B_corporate_ld"
-   ]
-  },
-  {
-   "employer": "Veeam Software UK Limited",
-   "title": "Senior Customer Success Engineer (Arabic speaker)",
-   "location": "Remote, United Arab Emirates",
-   "url": "https://job-boards.eu.greenhouse.io/veeamsoftware/jobs/4744256101",
-   "posted": "2026-09-30",
-   "ats": "greenhouse",
+   "employer": "Elemis",
+   "title": "Account Manager",
+   "location": "London John Lewis, Brent Cross Shopping Centre",
+   "url": "https://careers.elemis.com/en/postings/e29c81e9-d00d-4dc3-a697-9e636e4194c0",
+   "posted": "",
+   "ats": "pinpoint",
    "families": [
     "D_edtech_customer"
    ]
   },
   {
-   "employer": "Veeam Software UK Limited",
-   "title": "Technical Account Manager",
-   "location": "Remote, Türkiye",
-   "url": "https://job-boards.eu.greenhouse.io/veeamsoftware/jobs/4744014101",
+   "employer": "WPP Media UK Limited",
+   "title": "SVP, Product Enablement - Open, UK",
+   "location": "London, United Kingdom",
+   "url": "https://job-boards.greenhouse.io/wppmedia/jobs/5413998008",
    "posted": "2026-10-01",
    "ats": "greenhouse",
    "families": [
     "D_edtech_customer"
+   ]
+  },
+  {
+   "employer": "Intellego Education Services Limited",
+   "title": "Deputy Head Pastoral (Rome)",
+   "location": "Rome Brighton College Rome",
+   "url": "https://intellego-education.pinpointhq.com/en/postings/448bf543-aa93-4a0e-8873-85638933d38b",
+   "posted": "",
+   "ats": "pinpoint",
+   "families": [
+    "K_student_support"
+   ]
+  },
+  {
+   "employer": "Intellego Education Services Limited",
+   "title": "Deputy Head Pastoral (Madrid)",
+   "location": "Madrid Brighton College Madrid",
+   "url": "https://intellego-education.pinpointhq.com/en/postings/4cf3742f-11a8-4e0b-81b5-2947859febfa",
+   "posted": "",
+   "ats": "pinpoint",
+   "families": [
+    "K_student_support"
    ]
   }
  ]
