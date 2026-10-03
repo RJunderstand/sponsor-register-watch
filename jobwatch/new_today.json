@@ -1,49 +1,27 @@
 {
- "generated": "2026-10-02",
- "count": 4,
+ "generated": "2026-10-03",
+ "count": 2,
  "jobs": [
   {
-   "employer": "Elemis",
-   "title": "Account Manager",
-   "location": "London John Lewis, Brent Cross Shopping Centre",
-   "url": "https://careers.elemis.com/en/postings/e29c81e9-d00d-4dc3-a697-9e636e4194c0",
-   "posted": "",
-   "ats": "pinpoint",
-   "families": [
-    "D_edtech_customer"
-   ]
-  },
-  {
-   "employer": "WPP Media UK Limited",
-   "title": "SVP, Product Enablement - Open, UK",
-   "location": "London, United Kingdom",
-   "url": "https://job-boards.greenhouse.io/wppmedia/jobs/5413998008",
-   "posted": "2026-10-01",
+   "employer": "D2L Europe Limited",
+   "title": "Technical Account Manager - Dutch Speaking",
+   "location": "UK",
+   "url": "https://www.d2l.com/careers/jobs/?job_id=8249781&gh_jid=8249781",
+   "posted": "2026-10-02",
    "ats": "greenhouse",
    "families": [
     "D_edtech_customer"
    ]
   },
   {
-   "employer": "Intellego Education Services Limited",
-   "title": "Deputy Head Pastoral (Rome)",
-   "location": "Rome Brighton College Rome",
-   "url": "https://intellego-education.pinpointhq.com/en/postings/448bf543-aa93-4a0e-8873-85638933d38b",
-   "posted": "",
-   "ats": "pinpoint",
+   "employer": "Sigma Computing UK Limited",
+   "title": "Customer Success Architect",
+   "location": "Remote",
+   "url": "https://job-boards.greenhouse.io/sigmacomputing/jobs/7598665003",
+   "posted": "2026-10-02",
+   "ats": "greenhouse",
    "families": [
-    "K_student_support"
-   ]
-  },
-  {
-   "employer": "Intellego Education Services Limited",
-   "title": "Deputy Head Pastoral (Madrid)",
-   "location": "Madrid Brighton College Madrid",
-   "url": "https://intellego-education.pinpointhq.com/en/postings/4cf3742f-11a8-4e0b-81b5-2947859febfa",
-   "posted": "",
-   "ats": "pinpoint",
-   "families": [
-    "K_student_support"
+    "D_edtech_customer"
    ]
   }
  ]
