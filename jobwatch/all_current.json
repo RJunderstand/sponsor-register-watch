@@ -45,17 +45,6 @@
  },
  {
   "employer": "Captify Technologies Ltd",
-  "title": "Graphic Designer",
-  "location": "London, UK",
-  "url": "https://job-boards.greenhouse.io/captify/jobs/8778315002",
-  "posted": "2026-09-03",
-  "ats": "greenhouse",
-  "families": [
-   "G_content_multimedia"
-  ]
- },
- {
-  "employer": "Captify Technologies Ltd",
   "title": "Senior Account Manager (Media)",
   "location": "London, UK",
   "url": "https://job-boards.greenhouse.io/captify/jobs/8691668002",
@@ -118,29 +107,6 @@
   "ats": "ashby",
   "families": [
    "D_edtech_customer"
-  ]
- },
- {
-  "employer": "Elemis",
-  "title": "Senior National Account Manager",
-  "location": "London Head Office, London",
-  "url": "https://careers.elemis.com/en/postings/ea0824ab-6aaa-4831-aff7-e2f2616a309a",
-  "posted": "",
-  "ats": "pinpoint",
-  "families": [
-   "D_edtech_customer"
-  ]
- },
- {
-  "employer": "Elemis",
-  "title": "Global Learning Content Designer",
-  "location": "London Head Office, London",
-  "url": "https://careers.elemis.com/en/postings/acf05fc5-5e60-40de-a3ed-2b1e224df6bc",
-  "posted": "",
-  "ats": "pinpoint",
-  "families": [
-   "B_corporate_ld",
-   "G_content_multimedia"
   ]
  },
  {
@@ -600,7 +566,7 @@
   "title": "Technical Account Manager",
   "location": "Remote, Türkiye",
   "url": "https://job-boards.eu.greenhouse.io/veeamsoftware/jobs/4744014101",
-  "posted": "2026-10-02",
+  "posted": "2026-10-05",
   "ats": "greenhouse",
   "families": [
    "D_edtech_customer"
@@ -630,31 +596,9 @@
  },
  {
   "employer": "WPP Media UK Limited",
-  "title": "Account Manager, Client Leadership, Global Client Solutions",
-  "location": "London, United Kingdom",
-  "url": "https://job-boards.greenhouse.io/wppmedia/jobs/5387229008",
-  "posted": "2026-09-21",
-  "ats": "greenhouse",
-  "families": [
-   "D_edtech_customer"
-  ]
- },
- {
-  "employer": "WPP Media UK Limited",
   "title": "Account Manager, Clients",
   "location": "London, United Kingdom",
   "url": "https://job-boards.greenhouse.io/wppmedia/jobs/5290917008",
-  "posted": "2026-09-21",
-  "ats": "greenhouse",
-  "families": [
-   "D_edtech_customer"
-  ]
- },
- {
-  "employer": "WPP Media UK Limited",
-  "title": "Account Manager - Client Services",
-  "location": "London, United Kingdom",
-  "url": "https://job-boards.greenhouse.io/wppmedia/jobs/5247798008",
   "posted": "2026-09-21",
   "ats": "greenhouse",
   "families": [
@@ -697,9 +641,9 @@
  {
   "employer": "WPP Media UK Limited",
   "title": "Account Manager, Planning",
-  "location": "Manchester, United Kingdom",
-  "url": "https://job-boards.greenhouse.io/wppmedia/jobs/5409143008",
-  "posted": "2026-09-21",
+  "location": "London, United Kingdom",
+  "url": "https://job-boards.greenhouse.io/wppmedia/jobs/5211330008",
+  "posted": "2026-09-28",
   "ats": "greenhouse",
   "families": [
    "D_edtech_customer"
@@ -708,9 +652,9 @@
  {
   "employer": "WPP Media UK Limited",
   "title": "Account Manager, Planning",
-  "location": "London, United Kingdom",
-  "url": "https://job-boards.greenhouse.io/wppmedia/jobs/5211330008",
-  "posted": "2026-09-28",
+  "location": "Manchester, United Kingdom",
+  "url": "https://job-boards.greenhouse.io/wppmedia/jobs/5409143008",
+  "posted": "2026-09-21",
   "ats": "greenhouse",
   "families": [
    "D_edtech_customer"
