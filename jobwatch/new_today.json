@@ -1,5 +1,39 @@
 {
- "generated": "2026-10-06",
- "count": 0,
- "jobs": []
+ "generated": "2026-10-07",
+ "count": 3,
+ "jobs": [
+  {
+   "employer": "Eleven Labs Ltd",
+   "title": "Customer Success Lead - UK/I",
+   "location": "United Kingdom",
+   "url": "https://jobs.ashbyhq.com/elevenlabs/8f37f4e5-83f8-4e7d-b3b6-b5b406bf4eb9",
+   "posted": "2026-10-06",
+   "ats": "ashby",
+   "families": [
+    "D_edtech_customer"
+   ]
+  },
+  {
+   "employer": "WPP Media UK Limited",
+   "title": "Account Manager, Search",
+   "location": "London, United Kingdom",
+   "url": "https://job-boards.greenhouse.io/wppmedia/jobs/5444819008",
+   "posted": "2026-10-06",
+   "ats": "greenhouse",
+   "families": [
+    "D_edtech_customer"
+   ]
+  },
+  {
+   "employer": "Wunderkind Technologies UK Ltd",
+   "title": "Account Manager",
+   "location": "Remote",
+   "url": "https://www.wunderkind.co/careers/?gh_jid=8259260",
+   "posted": "2026-10-06",
+   "ats": "greenhouse",
+   "families": [
+    "D_edtech_customer"
+   ]
+  }
+ ]
 }

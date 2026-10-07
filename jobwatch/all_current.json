@@ -143,6 +143,17 @@
   ]
  },
  {
+  "employer": "Eleven Labs Ltd",
+  "title": "Customer Success Lead - UK/I",
+  "location": "United Kingdom",
+  "url": "https://jobs.ashbyhq.com/elevenlabs/8f37f4e5-83f8-4e7d-b3b6-b5b406bf4eb9",
+  "posted": "2026-10-06",
+  "ats": "ashby",
+  "families": [
+   "D_edtech_customer"
+  ]
+ },
+ {
   "employer": "Extreme Networks UK Technology Limited",
   "title": "Integrated Campaigns and Programs Manager – EMEA",
   "location": "Reading, United Kingdom",
@@ -290,7 +301,7 @@
   "title": "Lead Customer Success Manager",
   "location": "United Kingdom - London",
   "url": "https://boards.eu.greenhouse.io/nice/jobs/4976767101?gh_jid=4976767101",
-  "posted": "2026-09-30",
+  "posted": "2026-10-06",
   "ats": "greenhouse",
   "families": [
    "D_edtech_customer"
@@ -316,39 +327,6 @@
   "ats": "greenhouse",
   "families": [
    "D_edtech_customer"
-  ]
- },
- {
-  "employer": "Oxford International Education & Travel Ltd",
-  "title": "Marketing Executive",
-  "location": "UK United Kingdom",
-  "url": "https://joinus.oxfordinternational.com/en/postings/e77850ea-e4fe-4310-b6d7-fedb7783de86",
-  "posted": "",
-  "ats": "pinpoint",
-  "families": [
-   "C_marketing_recruitment"
-  ]
- },
- {
-  "employer": "Oxford International School",
-  "title": "Marketing Executive",
-  "location": "UK United Kingdom",
-  "url": "https://joinus.oxfordinternational.com/en/postings/e77850ea-e4fe-4310-b6d7-fedb7783de86",
-  "posted": "",
-  "ats": "pinpoint",
-  "families": [
-   "C_marketing_recruitment"
-  ]
- },
- {
-  "employer": "Oxford International Study Abroad Programme Ltd",
-  "title": "Marketing Executive",
-  "location": "UK United Kingdom",
-  "url": "https://joinus.oxfordinternational.com/en/postings/e77850ea-e4fe-4310-b6d7-fedb7783de86",
-  "posted": "",
-  "ats": "pinpoint",
-  "families": [
-   "C_marketing_recruitment"
   ]
  },
  {
@@ -564,17 +542,6 @@
  {
   "employer": "Veeam Software UK Limited",
   "title": "Technical Account Manager",
-  "location": "Remote, Türkiye",
-  "url": "https://job-boards.eu.greenhouse.io/veeamsoftware/jobs/4744014101",
-  "posted": "2026-10-05",
-  "ats": "greenhouse",
-  "families": [
-   "D_edtech_customer"
-  ]
- },
- {
-  "employer": "Veeam Software UK Limited",
-  "title": "Technical Account Manager",
   "location": "Remote, United Kingdom",
   "url": "https://job-boards.eu.greenhouse.io/veeamsoftware/jobs/4986104101",
   "posted": "2026-10-02",
@@ -641,9 +608,9 @@
  {
   "employer": "WPP Media UK Limited",
   "title": "Account Manager, Planning",
-  "location": "London, United Kingdom",
-  "url": "https://job-boards.greenhouse.io/wppmedia/jobs/5211330008",
-  "posted": "2026-09-28",
+  "location": "Manchester, United Kingdom",
+  "url": "https://job-boards.greenhouse.io/wppmedia/jobs/5409143008",
+  "posted": "2026-09-21",
   "ats": "greenhouse",
   "families": [
    "D_edtech_customer"
@@ -652,9 +619,9 @@
  {
   "employer": "WPP Media UK Limited",
   "title": "Account Manager, Planning",
-  "location": "Manchester, United Kingdom",
-  "url": "https://job-boards.greenhouse.io/wppmedia/jobs/5409143008",
-  "posted": "2026-09-21",
+  "location": "London, United Kingdom",
+  "url": "https://job-boards.greenhouse.io/wppmedia/jobs/5211330008",
+  "posted": "2026-09-28",
   "ats": "greenhouse",
   "families": [
    "D_edtech_customer"
@@ -707,6 +674,17 @@
  {
   "employer": "WPP Media UK Limited",
   "title": "Account Manager, Search",
+  "location": "London, United Kingdom",
+  "url": "https://job-boards.greenhouse.io/wppmedia/jobs/5444819008",
+  "posted": "2026-10-06",
+  "ats": "greenhouse",
+  "families": [
+   "D_edtech_customer"
+  ]
+ },
+ {
+  "employer": "WPP Media UK Limited",
+  "title": "Account Manager, Search",
   "location": "Manchester, United Kingdom",
   "url": "https://job-boards.greenhouse.io/wppmedia/jobs/5190550008",
   "posted": "2026-09-21",
@@ -730,7 +708,7 @@
   "employer": "WPP Media UK Limited",
   "title": "Account Manager, Social",
   "location": "London, United Kingdom",
-  "url": "https://job-boards.greenhouse.io/wppmedia/jobs/5235475008",
+  "url": "https://job-boards.greenhouse.io/wppmedia/jobs/5226306008",
   "posted": "2026-09-21",
   "ats": "greenhouse",
   "families": [
@@ -741,7 +719,7 @@
   "employer": "WPP Media UK Limited",
   "title": "Account Manager, Social",
   "location": "London, United Kingdom",
-  "url": "https://job-boards.greenhouse.io/wppmedia/jobs/5226306008",
+  "url": "https://job-boards.greenhouse.io/wppmedia/jobs/5235475008",
   "posted": "2026-09-21",
   "ats": "greenhouse",
   "families": [
@@ -827,6 +805,17 @@
  },
  {
   "employer": "Wunderkind Technologies UK Ltd",
+  "title": "Account Manager",
+  "location": "Remote",
+  "url": "https://www.wunderkind.co/careers/?gh_jid=8259260",
+  "posted": "2026-10-06",
+  "ats": "greenhouse",
+  "families": [
+   "D_edtech_customer"
+  ]
+ },
+ {
+  "employer": "Wunderkind Technologies UK Ltd",
   "title": "Customer Success Manager",
   "location": "New York; Remote",
   "url": "https://www.wunderkind.co/careers/?gh_jid=8170814",
@@ -856,17 +845,6 @@
   "ats": "jazzhr",
   "families": [
    "D_edtech_customer"
-  ]
- },
- {
-  "employer": "Study Group Limited",
-  "title": "Senior Wellbeing & Engagement Coordinator",
-  "location": "Kingston Upon Thames, Surrey, United Kingdom",
-  "url": "https://studygroupuk.applytojob.com/apply/sp5uWlIzYp/Senior-Wellbeing-Engagement-Coordinator",
-  "posted": "",
-  "ats": "jazzhr",
-  "families": [
-   "K_student_support"
   ]
  },
  {
