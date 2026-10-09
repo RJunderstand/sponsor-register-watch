@@ -1,5 +1,17 @@
 {
- "generated": "2026-10-08",
- "count": 0,
- "jobs": []
+ "generated": "2026-10-09",
+ "count": 1,
+ "jobs": [
+  {
+   "employer": "Veeam Software UK Limited",
+   "title": "Senior Technical Account Manager",
+   "location": "Remote, Türkiye",
+   "url": "https://job-boards.eu.greenhouse.io/veeamsoftware/jobs/4744014101",
+   "posted": "2026-10-08",
+   "ats": "greenhouse",
+   "families": [
+    "D_edtech_customer"
+   ]
+  }
+ ]
 }
