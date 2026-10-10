@@ -1,14 +1,25 @@
 {
- "generated": "2026-10-09",
- "count": 1,
+ "generated": "2026-10-10",
+ "count": 2,
  "jobs": [
   {
-   "employer": "Veeam Software UK Limited",
-   "title": "Senior Technical Account Manager",
-   "location": "Remote, Türkiye",
-   "url": "https://job-boards.eu.greenhouse.io/veeamsoftware/jobs/4744014101",
-   "posted": "2026-10-08",
-   "ats": "greenhouse",
+   "employer": "Elemis",
+   "title": "National Account Manager",
+   "location": "London Head Office, London",
+   "url": "https://careers.elemis.com/en/postings/869901e7-d8f1-489d-b675-c7cae24af8c3",
+   "posted": "",
+   "ats": "pinpoint",
+   "families": [
+    "D_edtech_customer"
+   ]
+  },
+  {
+   "employer": "Instructure Global Limited",
+   "title": "Customer Success Manager - Dutch & English Speaker (remote)",
+   "location": "United Kingdom",
+   "url": "https://jobs.ashbyhq.com/instructure/4dd9ac42-9d9b-4662-86f1-9a8f4725ab9f",
+   "posted": "2026-10-09",
+   "ats": "ashby",
    "families": [
     "D_edtech_customer"
    ]
