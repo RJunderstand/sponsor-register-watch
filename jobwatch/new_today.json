@@ -1,5 +1,28 @@
 {
- "generated": "2026-10-11",
- "count": 0,
- "jobs": []
+ "generated": "2026-10-12",
+ "count": 2,
+ "jobs": [
+  {
+   "employer": "Barnet and Southgate College",
+   "title": "Welfare Adviser",
+   "location": "London Cross-Campus",
+   "url": "https://barnetsouthgate.pinpointhq.com/en/postings/9c931223-33f2-4093-b09f-bc99ae2d8aa7",
+   "posted": "",
+   "ats": "pinpoint",
+   "families": [
+    "K_student_support"
+   ]
+  },
+  {
+   "employer": "Liverpool College Independent School Trust",
+   "title": "Bank Safeguarding Officer",
+   "location": "Liverpool Liverpool",
+   "url": "https://liv-coll.pinpointhq.com/en/postings/ee33d23a-2f3a-4cb3-90dd-3dcd9e622878",
+   "posted": "",
+   "ats": "pinpoint",
+   "families": [
+    "K_student_support"
+   ]
+  }
+ ]
 }
