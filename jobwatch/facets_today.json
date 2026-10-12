@@ -1,6 +1,6 @@
 {
- "generated": "2026-10-11T11:25:16Z",
- "run_date": "2026-10-11",
+ "generated": "2026-10-12T13:10:58Z",
+ "run_date": "2026-10-12",
  "floor": 33400,
  "facets_swept": [
   "pr-marketing-sales-and-communication",
@@ -15,14 +15,368 @@
   "other"
  ],
  "counts": {
-  "raw": 209,
-  "unique": 160,
-  "kept": 0,
-  "seen_before": 111,
-  "excluded_title": 22,
+  "raw": 205,
+  "unique": 154,
+  "kept": 15,
+  "seen_before": 97,
+  "excluded_title": 20,
   "gate1": 7,
-  "gate2": 20
+  "gate2": 15
  },
  "note": "Gate 1 and Gate 2 applied mechanically. Gate 3 and Gate 4 need the JD.",
- "jobs": []
+ "jobs": [
+  {
+   "advert_id": "1090520",
+   "title": "Admissions Officer (Fixed-Term) - 17052",
+   "employer": "Brunel University London",
+   "department": "",
+   "location": "Uxbridge, Hybrid",
+   "salary_raw": "£34,588 to £39,144\n                                    per annum. Grade 6",
+   "closes": "01 Nov",
+   "url": "https://www.jobs.ac.uk/job/DTF855/admissions-officer-fixed-term-17052",
+   "facet": "international-activities",
+   "families": [
+    "C_marketing_recruitment"
+   ],
+   "salary_bottom": 34588,
+   "salary_top": 39144,
+   "salary_note": "",
+   "gate2": "达标",
+   "register_match": {
+    "matched_name": "Brunel University London",
+    "rating": "Worker (A rating)",
+    "route": "Skilled Worker",
+    "skilled_worker": true
+   },
+   "gate3_gate4": "unassessed"
+  },
+  {
+   "advert_id": "1090076",
+   "title": "Communications Officer (Students and Staff)",
+   "employer": "University of Oxford",
+   "department": "AAD - Academic Registrars Office",
+   "location": "Oxford",
+   "salary_raw": "£35,681 to £41,636\n                                    per annum",
+   "closes": "02 Nov",
+   "url": "https://www.jobs.ac.uk/job/DTE455/communications-officer-students-and-staff",
+   "facet": "pr-marketing-sales-and-communication",
+   "families": [
+    "C_marketing_recruitment"
+   ],
+   "salary_bottom": 35681,
+   "salary_top": 41636,
+   "salary_note": "",
+   "gate2": "达标",
+   "register_match": {
+    "matched_name": "University of Oxford",
+    "rating": "Worker (A rating)",
+    "route": "Skilled Worker",
+    "skilled_worker": true
+   },
+   "gate3_gate4": "unassessed"
+  },
+  {
+   "advert_id": "1090552",
+   "title": "Admissions Operations Coordinator",
+   "employer": "University of Oxford",
+   "department": "AAD - Undergraduate Admissions and Outreach",
+   "location": "Oxford",
+   "salary_raw": "£39,424 to £47,779\n                                    per annum. Grade 7",
+   "closes": "11 Nov",
+   "url": "https://www.jobs.ac.uk/job/DTF924/admissions-operations-coordinator",
+   "facet": "library-services-data-and-information-management",
+   "families": [
+    "C_marketing_recruitment"
+   ],
+   "salary_bottom": 39424,
+   "salary_top": 47779,
+   "salary_note": "",
+   "gate2": "达标",
+   "register_match": {
+    "matched_name": "University of Oxford",
+    "rating": "Worker (A rating)",
+    "route": "Skilled Worker",
+    "skilled_worker": true
+   },
+   "gate3_gate4": "unassessed"
+  },
+  {
+   "advert_id": "1090569",
+   "title": "Careers Advisor (Full Time, Permanent)",
+   "employer": "Harper Adams University",
+   "department": "Careers and Employability",
+   "location": "Edgmond, Newport, Shropshire",
+   "salary_raw": "£35,608 to £38,784\n                                    per annum (The point of entry will be dependent upon relevant qualifications and experience)",
+   "closes": "25 Oct",
+   "url": "https://www.jobs.ac.uk/job/DTF950/careers-advisor-full-time-permanent",
+   "facet": "student-services",
+   "families": [
+    "K_student_support"
+   ],
+   "salary_bottom": 35608,
+   "salary_top": 38784,
+   "salary_note": "",
+   "gate2": "达标",
+   "register_match": {
+    "matched_name": "Harper Adams University",
+    "rating": "Worker (A rating)",
+    "route": "Skilled Worker",
+    "skilled_worker": true
+   },
+   "gate3_gate4": "unassessed"
+  },
+  {
+   "advert_id": "1090568",
+   "title": "Engaged Research and Impact Manager",
+   "employer": "Queen's University Belfast",
+   "department": "School of Biological Sciences",
+   "location": "Belfast",
+   "salary_raw": "£52,802\n                                    per annum",
+   "closes": "02 Nov",
+   "url": "https://www.jobs.ac.uk/job/DTF949/engaged-research-and-impact-manager",
+   "facet": "pr-marketing-sales-and-communication",
+   "families": [],
+   "salary_bottom": 52802,
+   "salary_top": 52802,
+   "salary_note": "",
+   "gate2": "达标",
+   "register_match": {
+    "matched_name": "Queen's University Belfast",
+    "rating": "Worker (A rating)",
+    "route": "Skilled Worker",
+    "skilled_worker": true
+   },
+   "gate3_gate4": "unassessed"
+  },
+  {
+   "advert_id": "1090563",
+   "title": "Executive Assistant to Senior Academics OVG",
+   "employer": "University of Oxford",
+   "department": "Department of Paediatrics",
+   "location": "Oxford",
+   "salary_raw": "£39,424 to £47,779\n                                    per annum (with a discretionary range to £51,983 per annum)",
+   "closes": "02 Nov",
+   "url": "https://www.jobs.ac.uk/job/DTF940/executive-assistant-to-senior-academics-ovg",
+   "facet": "administrative",
+   "families": [],
+   "salary_bottom": 39424,
+   "salary_top": 51983,
+   "salary_note": "",
+   "gate2": "达标",
+   "register_match": {
+    "matched_name": "University of Oxford",
+    "rating": "Worker (A rating)",
+    "route": "Skilled Worker",
+    "skilled_worker": true
+   },
+   "gate3_gate4": "unassessed"
+  },
+  {
+   "advert_id": "1090559",
+   "title": "Research Project Administrator",
+   "employer": "University of Oxford",
+   "department": "Nuffield Department of Primary Care Health Sciences",
+   "location": "Oxford",
+   "salary_raw": "£32,108 to £37,338\n                                    with a discretionary range to £38,366 per annum (pro-rata)",
+   "closes": "02 Nov",
+   "url": "https://www.jobs.ac.uk/job/DTF934/research-project-administrator",
+   "facet": "administrative",
+   "families": [],
+   "salary_bottom": 32108,
+   "salary_top": 38366,
+   "salary_note": "CHECK_HOURS",
+   "gate2": "需谈薪至门槛以上",
+   "register_match": {
+    "matched_name": "University of Oxford",
+    "rating": "Worker (A rating)",
+    "route": "Skilled Worker",
+    "skilled_worker": true
+   },
+   "gate3_gate4": "unassessed"
+  },
+  {
+   "advert_id": "1090573",
+   "title": "Timetable Officer",
+   "employer": "Leeds Beckett University",
+   "department": "Registrar and Secretary’s Office",
+   "location": "Leeds",
+   "salary_raw": "£30,378 to £34,610\n                                    per annum",
+   "closes": "06 Nov",
+   "url": "https://www.jobs.ac.uk/job/DTF956/timetable-officer",
+   "facet": "administrative",
+   "families": [],
+   "salary_bottom": 30378,
+   "salary_top": 34610,
+   "salary_note": "",
+   "gate2": "需谈薪至门槛以上",
+   "register_match": {
+    "matched_name": "Leeds Beckett University",
+    "rating": "Worker (A rating)",
+    "route": "Skilled Worker",
+    "skilled_worker": true
+   },
+   "gate3_gate4": "unassessed"
+  },
+  {
+   "advert_id": "1090535",
+   "title": "Museum Education and Outreach Coordinator (Part Time, Fixed Term)",
+   "employer": "University of Cambridge",
+   "department": "Faculty of Classics Museum of Classical Archaeology",
+   "location": "Cambridge",
+   "salary_raw": "£31,236 to £35,608\n                                    pro rata",
+   "closes": "08 Nov",
+   "url": "https://www.jobs.ac.uk/job/DTF896/museum-education-and-outreach-coordinator-part-time-fixed-term",
+   "facet": "pr-marketing-sales-and-communication",
+   "families": [],
+   "salary_bottom": 31236,
+   "salary_top": 35608,
+   "salary_note": "CHECK_HOURS",
+   "gate2": "需谈薪至门槛以上",
+   "register_match": {
+    "matched_name": "The University of Cambridge",
+    "rating": "Worker (A rating)",
+    "route": "Skilled Worker",
+    "skilled_worker": true
+   },
+   "gate3_gate4": "unassessed"
+  },
+  {
+   "advert_id": "1090581",
+   "title": "Research Excellence Framework (REF) Officer",
+   "employer": "University of Oxford",
+   "department": "John Radcliffe Hospital",
+   "location": "Oxford, Hybrid",
+   "salary_raw": "£39,424 to £47,779\n                                    p.a. (pro rate for part time) Grade 7",
+   "closes": "09 Nov",
+   "url": "https://www.jobs.ac.uk/job/DTF971/research-excellence-framework-ref-officer",
+   "facet": "library-services-data-and-information-management",
+   "families": [],
+   "salary_bottom": 39424,
+   "salary_top": 47779,
+   "salary_note": "CHECK_HOURS",
+   "gate2": "达标",
+   "register_match": {
+    "matched_name": "University of Oxford",
+    "rating": "Worker (A rating)",
+    "route": "Skilled Worker",
+    "skilled_worker": true
+   },
+   "gate3_gate4": "unassessed"
+  },
+  {
+   "advert_id": "1090516",
+   "title": "Student Records and Returns Officer",
+   "employer": "Loughborough University",
+   "department": "",
+   "location": "Loughborough University, Loughborough, Hybrid/On-site",
+   "salary_raw": "£29,588 to £34,610\n                                    per annum. Subject to annual pay award.",
+   "closes": "09 Nov",
+   "url": "https://www.jobs.ac.uk/job/DTF851/student-records-and-returns-officer",
+   "facet": "library-services-data-and-information-management",
+   "families": [],
+   "salary_bottom": 29588,
+   "salary_top": 34610,
+   "salary_note": "",
+   "gate2": "需谈薪至门槛以上",
+   "register_match": {
+    "matched_name": "Loughborough College Group",
+    "rating": "Worker (A rating)",
+    "route": "Skilled Worker",
+    "skilled_worker": true
+   },
+   "gate3_gate4": "unassessed"
+  },
+  {
+   "advert_id": "1090564",
+   "title": "Programme Manager",
+   "employer": "University of Oxford",
+   "department": "Worcester College",
+   "location": "Oxford",
+   "salary_raw": "£18\n                                    per hour",
+   "closes": "18 Oct",
+   "url": "https://www.jobs.ac.uk/job/DTF941/programme-manager",
+   "facet": "project-management-and-consulting",
+   "families": [],
+   "salary_bottom": null,
+   "salary_top": null,
+   "salary_note": "SALARY_UNKNOWN",
+   "gate2": "未知",
+   "register_match": {
+    "matched_name": "University of Oxford",
+    "rating": "Worker (A rating)",
+    "route": "Skilled Worker",
+    "skilled_worker": true
+   },
+   "gate3_gate4": "unassessed"
+  },
+  {
+   "advert_id": "1090538",
+   "title": "LLE Information Manager",
+   "employer": "University of East Anglia",
+   "department": "Library and Learning Enhancement Division (LLE)",
+   "location": "Norwich",
+   "salary_raw": "£31,236\n                                    per annum, with an annual increment up to £37,694 per annum.",
+   "closes": "26 Oct",
+   "url": "https://www.jobs.ac.uk/job/DTF903/lle-information-manager",
+   "facet": "library-services-data-and-information-management",
+   "families": [],
+   "salary_bottom": 31236,
+   "salary_top": 37694,
+   "salary_note": "",
+   "gate2": "需谈薪至门槛以上",
+   "register_match": {
+    "matched_name": "University of East Anglia",
+    "rating": "Worker (A rating)",
+    "route": "Skilled Worker",
+    "skilled_worker": true
+   },
+   "gate3_gate4": "unassessed"
+  },
+  {
+   "advert_id": "1090540",
+   "title": "School Education and Quality Manager",
+   "employer": "Queen Mary University of London",
+   "department": "Faculty of Humanities and Social Sciences",
+   "location": "London",
+   "salary_raw": "£55,709 to £62,119\n                                    per annum.",
+   "closes": "26 Oct",
+   "url": "https://www.jobs.ac.uk/job/DTF904/school-education-and-quality-manager",
+   "facet": "administrative",
+   "families": [],
+   "salary_bottom": 55709,
+   "salary_top": 62119,
+   "salary_note": "",
+   "gate2": "达标",
+   "register_match": {
+    "matched_name": "Queen Mary University of London",
+    "rating": "Worker (A rating)",
+    "route": "Skilled Worker",
+    "skilled_worker": true
+   },
+   "gate3_gate4": "unassessed"
+  },
+  {
+   "advert_id": "1090399",
+   "title": "Research Proposals Administrator",
+   "employer": "Imperial College London",
+   "department": "Department of Physics",
+   "location": "London, Hybrid",
+   "salary_raw": "£42,505 to £47,213\n                                    per annum",
+   "closes": "29 Oct",
+   "url": "https://www.jobs.ac.uk/job/DTF384/research-proposals-administrator",
+   "facet": "administrative",
+   "families": [],
+   "salary_bottom": 42505,
+   "salary_top": 47213,
+   "salary_note": "",
+   "gate2": "达标",
+   "register_match": {
+    "matched_name": "Imperial College London (HR)",
+    "rating": "Worker (A rating)",
+    "route": "Skilled Worker",
+    "skilled_worker": true
+   },
+   "gate3_gate4": "unassessed"
+  }
+ ]
 }
