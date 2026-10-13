@@ -1,17 +1,6 @@
 [
  {
   "employer": "Barnet and Southgate College",
-  "title": "Careers, Enrichment & Pastoral Apprentice",
-  "location": "London Southgate Campus",
-  "url": "https://barnetsouthgate.pinpointhq.com/en/postings/f74758a6-2acf-43a1-a3a6-8dec94a77b27",
-  "posted": "",
-  "ats": "pinpoint",
-  "families": [
-   "K_student_support"
-  ]
- },
- {
-  "employer": "Barnet and Southgate College",
   "title": "Welfare Adviser",
   "location": "London Cross-Campus",
   "url": "https://barnetsouthgate.pinpointhq.com/en/postings/9c931223-33f2-4093-b09f-bc99ae2d8aa7",
@@ -242,28 +231,6 @@
   ]
  },
  {
-  "employer": "Intellego Education Services Limited",
-  "title": "Deputy Head Pastoral (Rome)",
-  "location": "Rome Brighton College Rome",
-  "url": "https://intellego-education.pinpointhq.com/en/postings/448bf543-aa93-4a0e-8873-85638933d38b",
-  "posted": "",
-  "ats": "pinpoint",
-  "families": [
-   "K_student_support"
-  ]
- },
- {
-  "employer": "Intellego Education Services Limited",
-  "title": "Deputy Head Pastoral (Madrid)",
-  "location": "Madrid Brighton College Madrid",
-  "url": "https://intellego-education.pinpointhq.com/en/postings/4cf3742f-11a8-4e0b-81b5-2947859febfa",
-  "posted": "",
-  "ats": "pinpoint",
-  "families": [
-   "K_student_support"
-  ]
- },
- {
   "employer": "JUUL Labs UK Ltd",
   "title": "Key Account Manager, East Coast (VA/MA)",
   "location": "Remote-Massachusetts; Remote-Virginia",
@@ -279,17 +246,6 @@
   "title": "Bank Learning Support Practitioner",
   "location": "Liverpool Liverpool",
   "url": "https://liv-coll.pinpointhq.com/en/postings/55d7b0b3-e50e-4f21-ac41-5c8756986e11",
-  "posted": "",
-  "ats": "pinpoint",
-  "families": [
-   "K_student_support"
-  ]
- },
- {
-  "employer": "Liverpool College Independent School Trust",
-  "title": "Student Counsellor & Mental Health Support Practitioner",
-  "location": "Liverpool Liverpool",
-  "url": "https://liv-coll.pinpointhq.com/en/postings/9d3be1fa-b841-4fc5-9589-deffea0ff5b5",
   "posted": "",
   "ats": "pinpoint",
   "families": [
@@ -319,28 +275,6 @@
   ]
  },
  {
-  "employer": "Multiverse Group Limited",
-  "title": "Campaigns & Content Specialist",
-  "location": "London",
-  "url": "https://jobs.ashbyhq.com/multiverse/6b217f4f-13f7-4c67-b0b6-b6d201e921c7",
-  "posted": "2026-09-09",
-  "ats": "ashby",
-  "families": [
-   "C_marketing_recruitment"
-  ]
- },
- {
-  "employer": "NICE Systems UK Limited",
-  "title": "Lead Customer Success Manager",
-  "location": "United Kingdom - London",
-  "url": "https://boards.eu.greenhouse.io/nice/jobs/4976767101?gh_jid=4976767101",
-  "posted": "2026-10-12",
-  "ats": "greenhouse",
-  "families": [
-   "D_edtech_customer"
-  ]
- },
- {
   "employer": "NICE Systems UK Limited",
   "title": "Lead Partner Success Implementation Engineer",
   "location": "United Kingdom - London",
@@ -354,9 +288,31 @@
  {
   "employer": "NICE Systems UK Limited",
   "title": "Product Customer Success Manager",
+  "location": "United Kingdom - Remote",
+  "url": "https://boards.eu.greenhouse.io/nice/jobs/4999942101?gh_jid=4999942101",
+  "posted": "2026-10-13",
+  "ats": "greenhouse",
+  "families": [
+   "D_edtech_customer"
+  ]
+ },
+ {
+  "employer": "NICE Systems UK Limited",
+  "title": "Product Customer Success Manager",
   "location": "United Kingdom - London",
   "url": "https://boards.eu.greenhouse.io/nice/jobs/4877490101?gh_jid=4877490101",
   "posted": "2026-08-28",
+  "ats": "greenhouse",
+  "families": [
+   "D_edtech_customer"
+  ]
+ },
+ {
+  "employer": "NICE Systems UK Limited",
+  "title": "Senior Product Customer Success Manager",
+  "location": "United Kingdom - Remote",
+  "url": "https://boards.eu.greenhouse.io/nice/jobs/4999951101?gh_jid=4999951101",
+  "posted": "2026-10-13",
   "ats": "greenhouse",
   "families": [
    "D_edtech_customer"
@@ -480,6 +436,17 @@
   "url": "https://tradingtechnologies.pinpointhq.com/en/postings/d2d4aea0-01c0-4e5e-a79c-8a0aafee46da",
   "posted": "",
   "ats": "pinpoint",
+  "families": [
+   "D_edtech_customer"
+  ]
+ },
+ {
+  "employer": "TRM Labs UK Ltd",
+  "title": "Sales Enablement Manager, On Chain Compliance",
+  "location": "United Kingdom",
+  "url": "https://jobs.ashbyhq.com/trm-labs/bd844e99-8211-4e0a-aeb5-fb78f174fa17",
+  "posted": "2026-10-12",
+  "ats": "ashby",
   "families": [
    "D_edtech_customer"
   ]
@@ -630,8 +597,8 @@
  {
   "employer": "WPP Media UK Limited",
   "title": "Account Manager, Planning",
-  "location": "London, United Kingdom",
-  "url": "https://job-boards.greenhouse.io/wppmedia/jobs/5211330008",
+  "location": "Manchester, United Kingdom",
+  "url": "https://job-boards.greenhouse.io/wppmedia/jobs/5409143008",
   "posted": "2026-10-09",
   "ats": "greenhouse",
   "families": [
@@ -641,8 +608,8 @@
  {
   "employer": "WPP Media UK Limited",
   "title": "Account Manager, Planning",
-  "location": "Manchester, United Kingdom",
-  "url": "https://job-boards.greenhouse.io/wppmedia/jobs/5409143008",
+  "location": "London, United Kingdom",
+  "url": "https://job-boards.greenhouse.io/wppmedia/jobs/5211330008",
   "posted": "2026-10-09",
   "ats": "greenhouse",
   "families": [
@@ -696,8 +663,8 @@
  {
   "employer": "WPP Media UK Limited",
   "title": "Account Manager, Search",
-  "location": "Manchester, United Kingdom",
-  "url": "https://job-boards.greenhouse.io/wppmedia/jobs/5190550008",
+  "location": "London, United Kingdom",
+  "url": "https://job-boards.greenhouse.io/wppmedia/jobs/5444819008",
   "posted": "2026-10-09",
   "ats": "greenhouse",
   "families": [
@@ -707,8 +674,8 @@
  {
   "employer": "WPP Media UK Limited",
   "title": "Account Manager, Search",
-  "location": "London, United Kingdom",
-  "url": "https://job-boards.greenhouse.io/wppmedia/jobs/5444819008",
+  "location": "Manchester, United Kingdom",
+  "url": "https://job-boards.greenhouse.io/wppmedia/jobs/5190550008",
   "posted": "2026-10-09",
   "ats": "greenhouse",
   "families": [
@@ -879,6 +846,17 @@
   "families": [
    "C_marketing_recruitment",
    "K_student_support"
+  ]
+ },
+ {
+  "employer": "Kaplan International Colleges U.K. Limited",
+  "title": "Programme Coordinator (Contract)",
+  "location": "Remote, United Kingdom",
+  "url": "https://kaplan-international.hirehive.com/programme-coordinator-remote-LC0YOZ",
+  "posted": "",
+  "ats": "hirehive",
+  "families": [
+   "E_learning_ops"
   ]
  }
 ]

@@ -1,27 +1,49 @@
 {
- "generated": "2026-10-12",
- "count": 2,
+ "generated": "2026-10-13",
+ "count": 4,
  "jobs": [
   {
-   "employer": "Barnet and Southgate College",
-   "title": "Welfare Adviser",
-   "location": "London Cross-Campus",
-   "url": "https://barnetsouthgate.pinpointhq.com/en/postings/9c931223-33f2-4093-b09f-bc99ae2d8aa7",
-   "posted": "",
-   "ats": "pinpoint",
+   "employer": "NICE Systems UK Limited",
+   "title": "Product Customer Success Manager",
+   "location": "United Kingdom - Remote",
+   "url": "https://boards.eu.greenhouse.io/nice/jobs/4999942101?gh_jid=4999942101",
+   "posted": "2026-10-13",
+   "ats": "greenhouse",
    "families": [
-    "K_student_support"
+    "D_edtech_customer"
    ]
   },
   {
-   "employer": "Liverpool College Independent School Trust",
-   "title": "Bank Safeguarding Officer",
-   "location": "Liverpool Liverpool",
-   "url": "https://liv-coll.pinpointhq.com/en/postings/ee33d23a-2f3a-4cb3-90dd-3dcd9e622878",
-   "posted": "",
-   "ats": "pinpoint",
+   "employer": "NICE Systems UK Limited",
+   "title": "Senior Product Customer Success Manager",
+   "location": "United Kingdom - Remote",
+   "url": "https://boards.eu.greenhouse.io/nice/jobs/4999951101?gh_jid=4999951101",
+   "posted": "2026-10-13",
+   "ats": "greenhouse",
    "families": [
-    "K_student_support"
+    "D_edtech_customer"
+   ]
+  },
+  {
+   "employer": "TRM Labs UK Ltd",
+   "title": "Sales Enablement Manager, On Chain Compliance",
+   "location": "United Kingdom",
+   "url": "https://jobs.ashbyhq.com/trm-labs/bd844e99-8211-4e0a-aeb5-fb78f174fa17",
+   "posted": "2026-10-12",
+   "ats": "ashby",
+   "families": [
+    "D_edtech_customer"
+   ]
+  },
+  {
+   "employer": "Kaplan International Colleges U.K. Limited",
+   "title": "Programme Coordinator (Contract)",
+   "location": "Remote, United Kingdom",
+   "url": "https://kaplan-international.hirehive.com/programme-coordinator-remote-LC0YOZ",
+   "posted": "",
+   "ats": "hirehive",
+   "families": [
+    "E_learning_ops"
    ]
   }
  ]
