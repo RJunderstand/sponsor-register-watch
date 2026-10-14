@@ -48,7 +48,7 @@
   "title": "Senior Account Manager (Media)",
   "location": "London, UK",
   "url": "https://job-boards.greenhouse.io/captify/jobs/8691668002",
-  "posted": "2026-09-03",
+  "posted": "2026-10-13",
   "ats": "greenhouse",
   "families": [
    "D_edtech_customer"
@@ -176,11 +176,22 @@
   ]
  },
  {
+  "employer": "Heat Geek Technologies Ltd",
+  "title": "Senior Quality Assurance Geek",
+  "location": "England, United Kingdom",
+  "url": "https://job-boards.eu.greenhouse.io/heatgeek/jobs/5004372101",
+  "posted": "2026-10-13",
+  "ats": "greenhouse",
+  "families": [
+   "F_quality_compliance"
+  ]
+ },
+ {
   "employer": "HONOR TECHNOLOGIES (UK) CO., LTD",
   "title": "Learning and Development Lead",
   "location": "Remote Position",
   "url": "https://boards.greenhouse.io/honor/jobs/8802274002?gh_jid=8802274002",
-  "posted": "2026-09-17",
+  "posted": "2026-10-13",
   "ats": "greenhouse",
   "families": [
    "B_corporate_ld"
@@ -195,6 +206,17 @@
   "ats": "ashby",
   "families": [
    "D_edtech_customer"
+  ]
+ },
+ {
+  "employer": "Instructure Global Limited",
+  "title": "Instructional Designer",
+  "location": "US-REMOTE",
+  "url": "https://jobs.ashbyhq.com/instructure/dbf081f2-49f3-4501-bd64-d2c8e33b384c",
+  "posted": "2026-10-13",
+  "ats": "ashby",
+  "families": [
+   "A_he_learning_tech"
   ]
  },
  {
@@ -331,6 +353,17 @@
  },
  {
   "employer": "Qube Research & Technologies Limited",
+  "title": "Business Analyst (Contractor)",
+  "location": "London",
+  "url": "https://job-boards.greenhouse.io/quberesearchandtechnologies/jobs/8726084002",
+  "posted": "2026-10-14",
+  "ats": "greenhouse",
+  "families": [
+   "J_process_ops"
+  ]
+ },
+ {
+  "employer": "Qube Research & Technologies Limited",
   "title": "Reference Data Business Analyst",
   "location": "London",
   "url": "https://job-boards.greenhouse.io/quberesearchandtechnologies/jobs/8789177002",
@@ -442,10 +475,10 @@
  },
  {
   "employer": "TRM Labs UK Ltd",
-  "title": "Sales Enablement Manager, On Chain Compliance",
+  "title": "Sales Enablement Manager, Onchain Compliance",
   "location": "United Kingdom",
   "url": "https://jobs.ashbyhq.com/trm-labs/bd844e99-8211-4e0a-aeb5-fb78f174fa17",
-  "posted": "2026-10-12",
+  "posted": "2026-10-13",
   "ats": "ashby",
   "families": [
    "D_edtech_customer"
@@ -597,8 +630,8 @@
  {
   "employer": "WPP Media UK Limited",
   "title": "Account Manager, Planning",
-  "location": "Manchester, United Kingdom",
-  "url": "https://job-boards.greenhouse.io/wppmedia/jobs/5409143008",
+  "location": "London, United Kingdom",
+  "url": "https://job-boards.greenhouse.io/wppmedia/jobs/5211330008",
   "posted": "2026-10-09",
   "ats": "greenhouse",
   "families": [
@@ -608,8 +641,8 @@
  {
   "employer": "WPP Media UK Limited",
   "title": "Account Manager, Planning",
-  "location": "London, United Kingdom",
-  "url": "https://job-boards.greenhouse.io/wppmedia/jobs/5211330008",
+  "location": "Manchester, United Kingdom",
+  "url": "https://job-boards.greenhouse.io/wppmedia/jobs/5409143008",
   "posted": "2026-10-09",
   "ats": "greenhouse",
   "families": [
@@ -663,8 +696,8 @@
  {
   "employer": "WPP Media UK Limited",
   "title": "Account Manager, Search",
-  "location": "London, United Kingdom",
-  "url": "https://job-boards.greenhouse.io/wppmedia/jobs/5444819008",
+  "location": "Manchester, United Kingdom",
+  "url": "https://job-boards.greenhouse.io/wppmedia/jobs/5190550008",
   "posted": "2026-10-09",
   "ats": "greenhouse",
   "families": [
@@ -674,8 +707,8 @@
  {
   "employer": "WPP Media UK Limited",
   "title": "Account Manager, Search",
-  "location": "Manchester, United Kingdom",
-  "url": "https://job-boards.greenhouse.io/wppmedia/jobs/5190550008",
+  "location": "London, United Kingdom",
+  "url": "https://job-boards.greenhouse.io/wppmedia/jobs/5444819008",
   "posted": "2026-10-09",
   "ats": "greenhouse",
   "families": [
