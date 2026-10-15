@@ -1,49 +1,27 @@
 {
- "generated": "2026-10-14",
- "count": 4,
+ "generated": "2026-10-15",
+ "count": 2,
  "jobs": [
   {
-   "employer": "Instructure Global Limited",
-   "title": "Instructional Designer",
-   "location": "US-REMOTE",
-   "url": "https://jobs.ashbyhq.com/instructure/dbf081f2-49f3-4501-bd64-d2c8e33b384c",
-   "posted": "2026-10-13",
-   "ats": "ashby",
+   "employer": "Red Bull Media House UK Ltd (RBMHUK)",
+   "title": "Social Media Manager (Brand & Product)",
+   "location": "London England gb 51.5072178 -0.1275862 London, England, United Kingdom",
+   "url": "https://jobs.smartrecruiters.com/744000155699750",
+   "posted": "2026-10-15",
+   "ats": "smartrecruiters",
    "families": [
-    "A_he_learning_tech"
+    "C_marketing_recruitment"
    ]
   },
   {
-   "employer": "TRM Labs UK Ltd",
-   "title": "Sales Enablement Manager, Onchain Compliance",
-   "location": "United Kingdom",
-   "url": "https://jobs.ashbyhq.com/trm-labs/bd844e99-8211-4e0a-aeb5-fb78f174fa17",
-   "posted": "2026-10-13",
-   "ats": "ashby",
+   "employer": "WPP Media UK Limited",
+   "title": "Account Manager, OOH - Activation, UK",
+   "location": "London, United Kingdom",
+   "url": "https://job-boards.greenhouse.io/wppmedia/jobs/5450593008",
+   "posted": "2026-10-15",
+   "ats": "greenhouse",
    "families": [
     "D_edtech_customer"
-   ]
-  },
-  {
-   "employer": "Heat Geek Technologies Ltd",
-   "title": "Senior Quality Assurance Geek",
-   "location": "England, United Kingdom",
-   "url": "https://job-boards.eu.greenhouse.io/heatgeek/jobs/5004372101",
-   "posted": "2026-10-13",
-   "ats": "greenhouse",
-   "families": [
-    "F_quality_compliance"
-   ]
-  },
-  {
-   "employer": "Qube Research & Technologies Limited",
-   "title": "Business Analyst (Contractor)",
-   "location": "London",
-   "url": "https://job-boards.greenhouse.io/quberesearchandtechnologies/jobs/8726084002",
-   "posted": "2026-10-14",
-   "ats": "greenhouse",
-   "families": [
-    "J_process_ops"
    ]
   }
  ]
