@@ -1,5 +1,28 @@
 {
- "generated": "2026-10-16",
- "count": 0,
- "jobs": []
+ "generated": "2026-10-17",
+ "count": 2,
+ "jobs": [
+  {
+   "employer": "Eleven Labs Ltd",
+   "title": "GTM Enablement - Sales Execution & North America Lead",
+   "location": "Remote",
+   "url": "https://jobs.ashbyhq.com/elevenlabs/14c7802d-8e72-46b0-833c-3f0835363e48",
+   "posted": "2026-10-16",
+   "ats": "ashby",
+   "families": [
+    "D_edtech_customer"
+   ]
+  },
+  {
+   "employer": "Eleven Labs Ltd",
+   "title": "GTM Enablement - Product",
+   "location": "Remote",
+   "url": "https://jobs.ashbyhq.com/elevenlabs/7a235499-7cee-48f5-9fe4-3f4764b91865",
+   "posted": "2026-10-16",
+   "ats": "ashby",
+   "families": [
+    "D_edtech_customer"
+   ]
+  }
+ ]
 }

@@ -1,16 +1,5 @@
 [
  {
-  "employer": "Barnet and Southgate College",
-  "title": "Welfare Adviser",
-  "location": "London Cross-Campus",
-  "url": "https://barnetsouthgate.pinpointhq.com/en/postings/9c931223-33f2-4093-b09f-bc99ae2d8aa7",
-  "posted": "",
-  "ats": "pinpoint",
-  "families": [
-   "K_student_support"
-  ]
- },
- {
   "employer": "Black Kite Studios Ltd",
   "title": "PR & Content Manager",
   "location": "London England gb Featherstone Street EC1Y 51.5246108 -0.0884741 London, England, United Kingdom",
@@ -112,17 +101,6 @@
  {
   "employer": "Elemis",
   "title": "Account Manager",
-  "location": "London John Lewis, Westfield Stratford",
-  "url": "https://careers.elemis.com/en/postings/b1eb0f45-5b02-4f65-b3dc-f156bf432b18",
-  "posted": "",
-  "ats": "pinpoint",
-  "families": [
-   "D_edtech_customer"
-  ]
- },
- {
-  "employer": "Elemis",
-  "title": "Account Manager",
   "location": "London John Lewis, Brent Cross Shopping Centre",
   "url": "https://careers.elemis.com/en/postings/e29c81e9-d00d-4dc3-a697-9e636e4194c0",
   "posted": "",
@@ -138,6 +116,39 @@
   "url": "https://careers.elemis.com/en/postings/869901e7-d8f1-489d-b675-c7cae24af8c3",
   "posted": "",
   "ats": "pinpoint",
+  "families": [
+   "D_edtech_customer"
+  ]
+ },
+ {
+  "employer": "Elemis",
+  "title": "Account Manager",
+  "location": "London John Lewis, Westfield Stratford",
+  "url": "https://careers.elemis.com/en/postings/421ce6d6-dd39-48de-baa7-4ed780ed03ae",
+  "posted": "",
+  "ats": "pinpoint",
+  "families": [
+   "D_edtech_customer"
+  ]
+ },
+ {
+  "employer": "Eleven Labs Ltd",
+  "title": "GTM Enablement - Sales Execution & North America Lead",
+  "location": "Remote",
+  "url": "https://jobs.ashbyhq.com/elevenlabs/14c7802d-8e72-46b0-833c-3f0835363e48",
+  "posted": "2026-10-16",
+  "ats": "ashby",
+  "families": [
+   "D_edtech_customer"
+  ]
+ },
+ {
+  "employer": "Eleven Labs Ltd",
+  "title": "GTM Enablement - Product",
+  "location": "Remote",
+  "url": "https://jobs.ashbyhq.com/elevenlabs/7a235499-7cee-48f5-9fe4-3f4764b91865",
+  "posted": "2026-10-16",
+  "ats": "ashby",
   "families": [
    "D_edtech_customer"
   ]
@@ -199,17 +210,6 @@
  },
  {
   "employer": "Instructure Global Limited",
-  "title": "Instructional Designer",
-  "location": "US-REMOTE",
-  "url": "https://jobs.ashbyhq.com/instructure/dbf081f2-49f3-4501-bd64-d2c8e33b384c",
-  "posted": "2026-10-13",
-  "ats": "ashby",
-  "families": [
-   "A_he_learning_tech"
-  ]
- },
- {
-  "employer": "Instructure Global Limited",
   "title": "Sr. Revenue Operations Analyst",
   "location": "US-REMOTE",
   "url": "https://jobs.ashbyhq.com/instructure/d36f43ef-5d99-4b62-a91e-a05a5e0c9cde",
@@ -221,22 +221,22 @@
  },
  {
   "employer": "Instructure Global Limited",
+  "title": "Instructional Designer",
+  "location": "US-REMOTE",
+  "url": "https://jobs.ashbyhq.com/instructure/dbf081f2-49f3-4501-bd64-d2c8e33b384c",
+  "posted": "2026-10-16",
+  "ats": "ashby",
+  "families": [
+   "A_he_learning_tech"
+  ]
+ },
+ {
+  "employer": "Instructure Global Limited",
   "title": "Customer Success Manager - Dutch & English Speaker (remote)",
   "location": "United Kingdom",
   "url": "https://jobs.ashbyhq.com/instructure/4dd9ac42-9d9b-4662-86f1-9a8f4725ab9f",
   "posted": "2026-10-09",
   "ats": "ashby",
-  "families": [
-   "D_edtech_customer"
-  ]
- },
- {
-  "employer": "JUUL Labs UK Ltd",
-  "title": "Key Account Manager, East Coast (VA/MA)",
-  "location": "Remote-Massachusetts; Remote-Virginia",
-  "url": "https://job-boards.greenhouse.io/juullabs/jobs/8234106",
-  "posted": "2026-10-05",
-  "ats": "greenhouse",
   "families": [
    "D_edtech_customer"
   ]
@@ -363,17 +363,6 @@
   ]
  },
  {
-  "employer": "SambaNova Systems UK Limited",
-  "title": "Customer Success Manager",
-  "location": "London, England, United Kingdom",
-  "url": "https://sambanova.ai/sambanova-available-positions/?gh_jid=6114166004",
-  "posted": "2026-09-30",
-  "ats": "greenhouse",
-  "families": [
-   "D_edtech_customer"
-  ]
- },
- {
   "employer": "Sigma Computing UK Limited",
   "title": "Commercial Customer Success Manager - EMEA",
   "location": "London, UK",
@@ -436,17 +425,6 @@
   "url": "https://jobs.smartrecruiters.com/744000152631875",
   "posted": "2026-09-30",
   "ats": "smartrecruiters",
-  "families": [
-   "D_edtech_customer"
-  ]
- },
- {
-  "employer": "Trading Technologies  UK Limited",
-  "title": "Strategic Account Manager",
-  "location": "London London",
-  "url": "https://tradingtechnologies.pinpointhq.com/en/postings/d2d4aea0-01c0-4e5e-a79c-8a0aafee46da",
-  "posted": "",
-  "ats": "pinpoint",
   "families": [
    "D_edtech_customer"
   ]
@@ -608,8 +586,8 @@
  {
   "employer": "WPP Media UK Limited",
   "title": "Account Manager, Planning",
-  "location": "Manchester, United Kingdom",
-  "url": "https://job-boards.greenhouse.io/wppmedia/jobs/5409143008",
+  "location": "London, United Kingdom",
+  "url": "https://job-boards.greenhouse.io/wppmedia/jobs/5211330008",
   "posted": "2026-10-09",
   "ats": "greenhouse",
   "families": [
@@ -619,8 +597,8 @@
  {
   "employer": "WPP Media UK Limited",
   "title": "Account Manager, Planning",
-  "location": "London, United Kingdom",
-  "url": "https://job-boards.greenhouse.io/wppmedia/jobs/5211330008",
+  "location": "Manchester, United Kingdom",
+  "url": "https://job-boards.greenhouse.io/wppmedia/jobs/5409143008",
   "posted": "2026-10-09",
   "ats": "greenhouse",
   "families": [
@@ -642,7 +620,7 @@
   "employer": "WPP Media UK Limited",
   "title": "Account Manager, Programmatic",
   "location": "London, United Kingdom",
-  "url": "https://job-boards.greenhouse.io/wppmedia/jobs/5424419008",
+  "url": "https://job-boards.greenhouse.io/wppmedia/jobs/5187822008",
   "posted": "2026-10-09",
   "ats": "greenhouse",
   "families": [
@@ -653,7 +631,7 @@
   "employer": "WPP Media UK Limited",
   "title": "Account Manager, Programmatic",
   "location": "London, United Kingdom",
-  "url": "https://job-boards.greenhouse.io/wppmedia/jobs/5187822008",
+  "url": "https://job-boards.greenhouse.io/wppmedia/jobs/5424419008",
   "posted": "2026-10-09",
   "ats": "greenhouse",
   "families": [
