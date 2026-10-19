@@ -1,6 +1,6 @@
 {
- "generated": "2026-10-18T09:38:49Z",
- "run_date": "2026-10-18",
+ "generated": "2026-10-19T10:47:32Z",
+ "run_date": "2026-10-19",
  "floor": 33400,
  "facets_swept": [
   "pr-marketing-sales-and-communication",
@@ -15,14 +15,178 @@
   "other"
  ],
  "counts": {
-  "raw": 209,
-  "unique": 163,
-  "kept": 0,
-  "seen_before": 116,
+  "raw": 208,
+  "unique": 162,
+  "kept": 7,
+  "seen_before": 109,
   "excluded_title": 21,
-  "gate1": 9,
+  "gate1": 8,
   "gate2": 17
  },
  "note": "Gate 1 and Gate 2 applied mechanically. Gate 3 and Gate 4 need the JD.",
- "jobs": []
+ "jobs": [
+  {
+   "advert_id": "1091330",
+   "title": "Student Experience Manager",
+   "employer": "University of Sheffield",
+   "department": "School of English",
+   "location": "Sheffield, Hybrid",
+   "salary_raw": "£38,784 to £47,389\n                                    per annum. Potential to progress to £51,753 per annum through sustained exceptional contribution.",
+   "closes": "02 Nov",
+   "url": "https://www.jobs.ac.uk/job/DTI169/student-experience-manager",
+   "facet": "student-services",
+   "families": [
+    "K_student_support"
+   ],
+   "salary_bottom": 38784,
+   "salary_top": 51753,
+   "salary_note": "",
+   "gate2": "达标",
+   "register_match": {
+    "matched_name": "The University of Sheffield",
+    "rating": "Worker (A rating)",
+    "route": "Skilled Worker",
+    "skilled_worker": true
+   },
+   "gate3_gate4": "unassessed"
+  },
+  {
+   "advert_id": "1091305",
+   "title": "Executive Assistant",
+   "employer": "Queen Mary University of London",
+   "department": "IT Services",
+   "location": "London",
+   "salary_raw": "£40,815 to £47,550\n                                    per annum.",
+   "closes": "01 Nov",
+   "url": "https://www.jobs.ac.uk/job/DTH855/executive-assistant",
+   "facet": "administrative",
+   "families": [],
+   "salary_bottom": 40815,
+   "salary_top": 47550,
+   "salary_note": "",
+   "gate2": "达标",
+   "register_match": {
+    "matched_name": "Queen Mary University of London",
+    "rating": "Worker (A rating)",
+    "route": "Skilled Worker",
+    "skilled_worker": true
+   },
+   "gate3_gate4": "unassessed"
+  },
+  {
+   "advert_id": "1091345",
+   "title": "Solicitor (Employment and Litigation)",
+   "employer": "University of South Wales",
+   "department": "",
+   "location": "Pontypridd",
+   "salary_raw": "£48,822\n                                    per annum",
+   "closes": "01 Nov",
+   "url": "https://www.jobs.ac.uk/job/DTI213/solicitor-employment-and-litigation",
+   "facet": "legal-compliance-and-policy",
+   "families": [],
+   "salary_bottom": 48822,
+   "salary_top": 48822,
+   "salary_note": "",
+   "gate2": "达标",
+   "register_match": {
+    "matched_name": "University of South Wales",
+    "rating": "Worker (A rating)",
+    "route": "Skilled Worker",
+    "skilled_worker": true
+   },
+   "gate3_gate4": "unassessed"
+  },
+  {
+   "advert_id": "1091340",
+   "title": "Functional Analyst (Fixed Term)",
+   "employer": "University of Cambridge",
+   "department": "University Information Services",
+   "location": "Cambridge",
+   "salary_raw": "£35,608 to £46,049",
+   "closes": "02 Nov",
+   "url": "https://www.jobs.ac.uk/job/DTI195/functional-analyst-fixed-term",
+   "facet": "it-services",
+   "families": [],
+   "salary_bottom": 35608,
+   "salary_top": 46049,
+   "salary_note": "",
+   "gate2": "达标",
+   "register_match": {
+    "matched_name": "The University of Cambridge",
+    "rating": "Worker (A rating)",
+    "route": "Skilled Worker",
+    "skilled_worker": true
+   },
+   "gate3_gate4": "unassessed"
+  },
+  {
+   "advert_id": "1091336",
+   "title": "MBChB Administrative Officer",
+   "employer": "University of Glasgow",
+   "department": "School of Medicine, Dentistry & Nursing",
+   "location": "Glasgow",
+   "salary_raw": "£33,951 to £37,694\n                                    per annum",
+   "closes": "02 Nov",
+   "url": "https://www.jobs.ac.uk/job/DTI180/mbchb-administrative-officer",
+   "facet": "administrative",
+   "families": [],
+   "salary_bottom": 33951,
+   "salary_top": 37694,
+   "salary_note": "",
+   "gate2": "达标",
+   "register_match": {
+    "matched_name": "University of Glasgow",
+    "rating": "Worker (A rating)",
+    "route": "Skilled Worker",
+    "skilled_worker": true
+   },
+   "gate3_gate4": "unassessed"
+  },
+  {
+   "advert_id": "1090623",
+   "title": "Strategic Partnerships Project Support Officer",
+   "employer": "University of Oxford",
+   "department": "MPLS Divisional Office",
+   "location": "Oxford",
+   "salary_raw": "£35,681 to £41,636\n                                    pa",
+   "closes": "05 Nov",
+   "url": "https://www.jobs.ac.uk/job/DTG048/strategic-partnerships-project-support-officer",
+   "facet": "project-management-and-consulting",
+   "families": [],
+   "salary_bottom": 35681,
+   "salary_top": 41636,
+   "salary_note": "",
+   "gate2": "达标",
+   "register_match": {
+    "matched_name": "University of Oxford",
+    "rating": "Worker (A rating)",
+    "route": "Skilled Worker",
+    "skilled_worker": true
+   },
+   "gate3_gate4": "unassessed"
+  },
+  {
+   "advert_id": "1091333",
+   "title": "Project Manager",
+   "employer": "City St George’s, University of London",
+   "department": "Digital Change & Project Delivery",
+   "location": "London, Hybrid",
+   "salary_raw": "£51,753 to £53,301",
+   "closes": "08 Nov",
+   "url": "https://www.jobs.ac.uk/job/DTI176/project-manager",
+   "facet": "project-management-and-consulting",
+   "families": [],
+   "salary_bottom": 51753,
+   "salary_top": 53301,
+   "salary_note": "",
+   "gate2": "达标",
+   "register_match": {
+    "matched_name": "City St George's",
+    "rating": "Worker (A rating)",
+    "route": "Skilled Worker",
+    "skilled_worker": true
+   },
+   "gate3_gate4": "unassessed"
+  }
+ ]
 }
