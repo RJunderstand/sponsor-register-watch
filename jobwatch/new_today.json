@@ -1,5 +1,61 @@
 {
- "generated": "2026-10-19",
- "count": 0,
- "jobs": []
+ "generated": "2026-10-20",
+ "count": 5,
+ "jobs": [
+  {
+   "employer": "Wunderkind Technologies UK Ltd",
+   "title": "Customer Success Manager, UK",
+   "location": "London, United Kingdom; Remote",
+   "url": "https://www.wunderkind.co/careers/?gh_jid=8236762",
+   "posted": "2026-10-19",
+   "ats": "greenhouse",
+   "families": [
+    "D_edtech_customer"
+   ]
+  },
+  {
+   "employer": "Second Front Systems Limited",
+   "title": "Revenue Operations Analyst",
+   "location": "Remote",
+   "url": "https://jobs.ashbyhq.com/second-front-systems/76b71f59-836f-4836-bad9-35399d0b57af",
+   "posted": "2026-10-19",
+   "ats": "ashby",
+   "families": [
+    "J_process_ops"
+   ]
+  },
+  {
+   "employer": "Oxford International Education & Travel Ltd",
+   "title": "Student Support Lead",
+   "location": "London UHE Campuses",
+   "url": "https://joinus.oxfordinternational.com/en/postings/d009d24b-df4e-40a2-9731-730ae036c395",
+   "posted": "",
+   "ats": "pinpoint",
+   "families": [
+    "K_student_support"
+   ]
+  },
+  {
+   "employer": "Oxford International School",
+   "title": "Student Support Lead",
+   "location": "London UHE Campuses",
+   "url": "https://joinus.oxfordinternational.com/en/postings/d009d24b-df4e-40a2-9731-730ae036c395",
+   "posted": "",
+   "ats": "pinpoint",
+   "families": [
+    "K_student_support"
+   ]
+  },
+  {
+   "employer": "Oxford International Study Abroad Programme Ltd",
+   "title": "Student Support Lead",
+   "location": "London UHE Campuses",
+   "url": "https://joinus.oxfordinternational.com/en/postings/d009d24b-df4e-40a2-9731-730ae036c395",
+   "posted": "",
+   "ats": "pinpoint",
+   "families": [
+    "K_student_support"
+   ]
+  }
+ ]
 }
