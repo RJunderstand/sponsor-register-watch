@@ -1,60 +1,38 @@
 {
- "generated": "2026-10-20",
- "count": 5,
+ "generated": "2026-10-21",
+ "count": 3,
  "jobs": [
   {
-   "employer": "Wunderkind Technologies UK Ltd",
-   "title": "Customer Success Manager, UK",
-   "location": "London, United Kingdom; Remote",
-   "url": "https://www.wunderkind.co/careers/?gh_jid=8236762",
-   "posted": "2026-10-19",
-   "ats": "greenhouse",
+   "employer": "TRM Labs UK Ltd",
+   "title": "Sales Enablement Manager, Onchain Compliance",
+   "location": "London, United Kingdom",
+   "url": "https://jobs.ashbyhq.com/trm-labs/bd844e99-8211-4e0a-aeb5-fb78f174fa17",
+   "posted": "2026-10-13",
+   "ats": "ashby",
    "families": [
     "D_edtech_customer"
    ]
   },
   {
-   "employer": "Second Front Systems Limited",
-   "title": "Revenue Operations Analyst",
-   "location": "Remote",
-   "url": "https://jobs.ashbyhq.com/second-front-systems/76b71f59-836f-4836-bad9-35399d0b57af",
-   "posted": "2026-10-19",
-   "ats": "ashby",
+   "employer": "Portsmouth Hospitals University NHS Trust",
+   "title": "OneEPR Business Change Analyst",
+   "location": "Portsmouth England gb Portsmouth Hospitals University NHS Trust Corporate Hub, Block 4000, Lakeside North Harbour, Western Road, Cosham, Portsmouth, PO6 3EN PO6 3EN 50.842179 -1.086586 Portsmouth, England, United Kingdom",
+   "url": "https://jobs.smartrecruiters.com/744000156560888",
+   "posted": "2026-10-20",
+   "ats": "smartrecruiters",
    "families": [
     "J_process_ops"
    ]
   },
   {
-   "employer": "Oxford International Education & Travel Ltd",
-   "title": "Student Support Lead",
-   "location": "London UHE Campuses",
-   "url": "https://joinus.oxfordinternational.com/en/postings/d009d24b-df4e-40a2-9731-730ae036c395",
-   "posted": "",
-   "ats": "pinpoint",
+   "employer": "Portsmouth Hospitals University NHS Trust",
+   "title": "Business Change Facilitator",
+   "location": "Newport England gb St Mary's Hosp (IOW), Parkhurst Road, Newport, Isle of Wight, PO30 5TG PO30 5TG 50.71085 -1.3013 Newport, England, United Kingdom",
+   "url": "https://jobs.smartrecruiters.com/744000156536175",
+   "posted": "2026-10-20",
+   "ats": "smartrecruiters",
    "families": [
-    "K_student_support"
-   ]
-  },
-  {
-   "employer": "Oxford International School",
-   "title": "Student Support Lead",
-   "location": "London UHE Campuses",
-   "url": "https://joinus.oxfordinternational.com/en/postings/d009d24b-df4e-40a2-9731-730ae036c395",
-   "posted": "",
-   "ats": "pinpoint",
-   "families": [
-    "K_student_support"
-   ]
-  },
-  {
-   "employer": "Oxford International Study Abroad Programme Ltd",
-   "title": "Student Support Lead",
-   "location": "London UHE Campuses",
-   "url": "https://joinus.oxfordinternational.com/en/postings/d009d24b-df4e-40a2-9731-730ae036c395",
-   "posted": "",
-   "ats": "pinpoint",
-   "families": [
-    "K_student_support"
+    "J_process_ops"
    ]
   }
  ]
