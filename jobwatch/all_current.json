@@ -299,9 +299,9 @@
  {
   "employer": "NICE Systems UK Limited",
   "title": "Product Customer Success Manager",
-  "location": "United Kingdom - Remote",
-  "url": "https://boards.eu.greenhouse.io/nice/jobs/4999942101?gh_jid=4999942101",
-  "posted": "2026-10-21",
+  "location": "United Kingdom - London",
+  "url": "https://boards.eu.greenhouse.io/nice/jobs/4877490101?gh_jid=4877490101",
+  "posted": "2026-08-28",
   "ats": "greenhouse",
   "families": [
    "D_edtech_customer"
@@ -310,9 +310,9 @@
  {
   "employer": "NICE Systems UK Limited",
   "title": "Product Customer Success Manager",
-  "location": "United Kingdom - London",
-  "url": "https://boards.eu.greenhouse.io/nice/jobs/4877490101?gh_jid=4877490101",
-  "posted": "2026-08-28",
+  "location": "United Kingdom - Remote",
+  "url": "https://boards.eu.greenhouse.io/nice/jobs/4999942101?gh_jid=4999942101",
+  "posted": "2026-10-21",
   "ats": "greenhouse",
   "families": [
    "D_edtech_customer"
@@ -341,6 +341,17 @@
   ]
  },
  {
+  "employer": "Oxford International Education & Travel Ltd",
+  "title": "Admissions Advisor & Outreach Coordinator",
+  "location": "Vancouver Oxford International Vancouver Centre",
+  "url": "https://joinus.oxfordinternational.com/en/postings/d99ebbd6-d094-45f4-a079-958ed1d603ed",
+  "posted": "",
+  "ats": "pinpoint",
+  "families": [
+   "C_marketing_recruitment"
+  ]
+ },
+ {
   "employer": "Oxford International School",
   "title": "Student Support Lead",
   "location": "London UHE Campuses",
@@ -352,6 +363,17 @@
   ]
  },
  {
+  "employer": "Oxford International School",
+  "title": "Admissions Advisor & Outreach Coordinator",
+  "location": "Vancouver Oxford International Vancouver Centre",
+  "url": "https://joinus.oxfordinternational.com/en/postings/d99ebbd6-d094-45f4-a079-958ed1d603ed",
+  "posted": "",
+  "ats": "pinpoint",
+  "families": [
+   "C_marketing_recruitment"
+  ]
+ },
+ {
   "employer": "Oxford International Study Abroad Programme Ltd",
   "title": "Student Support Lead",
   "location": "London UHE Campuses",
@@ -360,6 +382,17 @@
   "ats": "pinpoint",
   "families": [
    "K_student_support"
+  ]
+ },
+ {
+  "employer": "Oxford International Study Abroad Programme Ltd",
+  "title": "Admissions Advisor & Outreach Coordinator",
+  "location": "Vancouver Oxford International Vancouver Centre",
+  "url": "https://joinus.oxfordinternational.com/en/postings/d99ebbd6-d094-45f4-a079-958ed1d603ed",
+  "posted": "",
+  "ats": "pinpoint",
+  "families": [
+   "C_marketing_recruitment"
   ]
  },
  {
@@ -653,17 +686,6 @@
   "employer": "WPP Media UK Limited",
   "title": "Account Manager, OOH - Activation, UK",
   "location": "London, United Kingdom",
-  "url": "https://job-boards.greenhouse.io/wppmedia/jobs/5458066008",
-  "posted": "2026-10-20",
-  "ats": "greenhouse",
-  "families": [
-   "D_edtech_customer"
-  ]
- },
- {
-  "employer": "WPP Media UK Limited",
-  "title": "Account Manager, OOH - Activation, UK",
-  "location": "London, United Kingdom",
   "url": "https://job-boards.greenhouse.io/wppmedia/jobs/5450593008",
   "posted": "2026-10-19",
   "ats": "greenhouse",
@@ -676,6 +698,17 @@
   "title": "Account Manager, OOH - Activation, UK",
   "location": "London, United Kingdom",
   "url": "https://job-boards.greenhouse.io/wppmedia/jobs/5458069008",
+  "posted": "2026-10-20",
+  "ats": "greenhouse",
+  "families": [
+   "D_edtech_customer"
+  ]
+ },
+ {
+  "employer": "WPP Media UK Limited",
+  "title": "Account Manager, OOH - Activation, UK",
+  "location": "London, United Kingdom",
+  "url": "https://job-boards.greenhouse.io/wppmedia/jobs/5458066008",
   "posted": "2026-10-20",
   "ats": "greenhouse",
   "families": [
