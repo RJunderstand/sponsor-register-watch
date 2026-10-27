@@ -44,6 +44,17 @@
   ]
  },
  {
+  "employer": "Cloud Capital LLP",
+  "title": "Technical Account Manager (TAM)",
+  "location": "London",
+  "url": "https://jobs.ashbyhq.com/cloudcapital/85273c48-0f58-4878-b2ce-7b678a6b7d19",
+  "posted": "2026-10-22",
+  "ats": "ashby",
+  "families": [
+   "D_edtech_customer"
+  ]
+ },
+ {
   "employer": "Dataiku Ltd",
   "title": "Technical Account Manager - UK",
   "location": "United Kingdom, London; United Kingdom, Remote",
@@ -242,6 +253,17 @@
   ]
  },
  {
+  "employer": "JUUL Labs UK Ltd",
+  "title": "Key Account Manager",
+  "location": "Remote-Illinois; Remote-Kentucky; Remote-Ohio",
+  "url": "https://job-boards.greenhouse.io/juullabs/jobs/8324970",
+  "posted": "2026-10-26",
+  "ats": "greenhouse",
+  "families": [
+   "D_edtech_customer"
+  ]
+ },
+ {
   "employer": "Liverpool College Independent School Trust",
   "title": "Bank Learning Support Practitioner",
   "location": "Liverpool Liverpool",
@@ -288,9 +310,9 @@
  {
   "employer": "NICE Systems UK Limited",
   "title": "Product Customer Success Manager",
-  "location": "United Kingdom - Remote",
-  "url": "https://boards.eu.greenhouse.io/nice/jobs/4999942101?gh_jid=4999942101",
-  "posted": "2026-10-21",
+  "location": "United Kingdom - London",
+  "url": "https://boards.eu.greenhouse.io/nice/jobs/4877490101?gh_jid=4877490101",
+  "posted": "2026-08-28",
   "ats": "greenhouse",
   "families": [
    "D_edtech_customer"
@@ -299,9 +321,9 @@
  {
   "employer": "NICE Systems UK Limited",
   "title": "Product Customer Success Manager",
-  "location": "United Kingdom - London",
-  "url": "https://boards.eu.greenhouse.io/nice/jobs/4877490101?gh_jid=4877490101",
-  "posted": "2026-08-28",
+  "location": "United Kingdom - Remote",
+  "url": "https://boards.eu.greenhouse.io/nice/jobs/4999942101?gh_jid=4999942101",
+  "posted": "2026-10-21",
   "ats": "greenhouse",
   "families": [
    "D_edtech_customer"
@@ -506,18 +528,6 @@
   ]
  },
  {
-  "employer": "Skin Analytics",
-  "title": "AI Enablement Engineer",
-  "location": "London office based",
-  "url": "https://jobs.ashbyhq.com/skin-analytics/c3597a36-674a-4a83-9dce-d1d48f958733",
-  "posted": "2026-08-13",
-  "ats": "ashby",
-  "families": [
-   "D_edtech_customer",
-   "H_ai_governance"
-  ]
- },
- {
   "employer": "Telefonica Tech UK Data & AI Limited",
   "title": "Account Manager, Enterprise",
   "location": "Belfast Northern Ireland gb 54.59728500000001 -5.93012 Belfast, Northern Ireland, United Kingdom",
@@ -673,6 +683,39 @@
  },
  {
   "employer": "WPP Media UK Limited",
+  "title": "Account Manager, Influencer",
+  "location": "London, United Kingdom",
+  "url": "https://job-boards.greenhouse.io/wppmedia/jobs/5444840008",
+  "posted": "2026-10-26",
+  "ats": "greenhouse",
+  "families": [
+   "D_edtech_customer"
+  ]
+ },
+ {
+  "employer": "WPP Media UK Limited",
+  "title": "Account Manager, Influencer",
+  "location": "London, United Kingdom",
+  "url": "https://job-boards.greenhouse.io/wppmedia/jobs/5444838008",
+  "posted": "2026-10-26",
+  "ats": "greenhouse",
+  "families": [
+   "D_edtech_customer"
+  ]
+ },
+ {
+  "employer": "WPP Media UK Limited",
+  "title": "Account Manager, OOH - Activation, UK",
+  "location": "London, United Kingdom",
+  "url": "https://job-boards.greenhouse.io/wppmedia/jobs/5450593008",
+  "posted": "2026-10-19",
+  "ats": "greenhouse",
+  "families": [
+   "D_edtech_customer"
+  ]
+ },
+ {
+  "employer": "WPP Media UK Limited",
   "title": "Account Manager, OOH - Activation, UK",
   "location": "London, United Kingdom",
   "url": "https://job-boards.greenhouse.io/wppmedia/jobs/5458069008",
@@ -688,17 +731,6 @@
   "location": "London, United Kingdom",
   "url": "https://job-boards.greenhouse.io/wppmedia/jobs/5458066008",
   "posted": "2026-10-20",
-  "ats": "greenhouse",
-  "families": [
-   "D_edtech_customer"
-  ]
- },
- {
-  "employer": "WPP Media UK Limited",
-  "title": "Account Manager, OOH - Activation, UK",
-  "location": "London, United Kingdom",
-  "url": "https://job-boards.greenhouse.io/wppmedia/jobs/5450593008",
-  "posted": "2026-10-19",
   "ats": "greenhouse",
   "families": [
    "D_edtech_customer"
@@ -741,7 +773,7 @@
   "employer": "WPP Media UK Limited",
   "title": "Account Manager, Programmatic",
   "location": "London, United Kingdom",
-  "url": "https://job-boards.greenhouse.io/wppmedia/jobs/5187822008",
+  "url": "https://job-boards.greenhouse.io/wppmedia/jobs/5424419008",
   "posted": "2026-10-19",
   "ats": "greenhouse",
   "families": [
@@ -752,7 +784,7 @@
   "employer": "WPP Media UK Limited",
   "title": "Account Manager, Programmatic",
   "location": "London, United Kingdom",
-  "url": "https://job-boards.greenhouse.io/wppmedia/jobs/5424419008",
+  "url": "https://job-boards.greenhouse.io/wppmedia/jobs/5187822008",
   "posted": "2026-10-19",
   "ats": "greenhouse",
   "families": [
@@ -885,7 +917,7 @@
   "title": "Customer Success Manager",
   "location": "New York; Remote",
   "url": "https://www.wunderkind.co/careers/?gh_jid=8170814",
-  "posted": "2026-10-05",
+  "posted": "2026-10-26",
   "ats": "greenhouse",
   "families": [
    "D_edtech_customer"
@@ -922,17 +954,6 @@
   "ats": "jazzhr",
   "families": [
    "D_edtech_customer"
-  ]
- },
- {
-  "employer": "Study Group Limited",
-  "title": "Student Experience Coordinator - Operations",
-  "location": "Huddersfield, West Yorkshire, United Kingdom",
-  "url": "https://studygroupuk.applytojob.com/apply/rxJf6v6MW8/Student-Experience-Coordinator-Operations",
-  "posted": "",
-  "ats": "jazzhr",
-  "families": [
-   "K_student_support"
   ]
  }
 ]

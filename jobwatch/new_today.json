@@ -1,5 +1,50 @@
 {
- "generated": "2026-10-26",
- "count": 0,
- "jobs": []
+ "generated": "2026-10-27",
+ "count": 4,
+ "jobs": [
+  {
+   "employer": "Cloud Capital LLP",
+   "title": "Technical Account Manager (TAM)",
+   "location": "London",
+   "url": "https://jobs.ashbyhq.com/cloudcapital/85273c48-0f58-4878-b2ce-7b678a6b7d19",
+   "posted": "2026-10-22",
+   "ats": "ashby",
+   "families": [
+    "D_edtech_customer"
+   ]
+  },
+  {
+   "employer": "JUUL Labs UK Ltd",
+   "title": "Key Account Manager",
+   "location": "Remote-Illinois; Remote-Kentucky; Remote-Ohio",
+   "url": "https://job-boards.greenhouse.io/juullabs/jobs/8324970",
+   "posted": "2026-10-26",
+   "ats": "greenhouse",
+   "families": [
+    "D_edtech_customer"
+   ]
+  },
+  {
+   "employer": "WPP Media UK Limited",
+   "title": "Account Manager, Influencer",
+   "location": "London, United Kingdom",
+   "url": "https://job-boards.greenhouse.io/wppmedia/jobs/5444840008",
+   "posted": "2026-10-26",
+   "ats": "greenhouse",
+   "families": [
+    "D_edtech_customer"
+   ]
+  },
+  {
+   "employer": "WPP Media UK Limited",
+   "title": "Account Manager, Influencer",
+   "location": "London, United Kingdom",
+   "url": "https://job-boards.greenhouse.io/wppmedia/jobs/5444838008",
+   "posted": "2026-10-26",
+   "ats": "greenhouse",
+   "families": [
+    "D_edtech_customer"
+   ]
+  }
+ ]
 }
