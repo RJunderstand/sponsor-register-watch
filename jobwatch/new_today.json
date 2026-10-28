@@ -1,49 +1,38 @@
 {
- "generated": "2026-10-27",
- "count": 4,
+ "generated": "2026-10-28",
+ "count": 3,
  "jobs": [
   {
-   "employer": "Cloud Capital LLP",
-   "title": "Technical Account Manager (TAM)",
+   "employer": "Telefonica Tech UK Data & AI Limited",
+   "title": "Digital Marketing Manager",
+   "location": "London England gb 3 days 51.5072178 -0.1275862 London, England, United Kingdom",
+   "url": "https://jobs.smartrecruiters.com/744000157795940",
+   "posted": "2026-10-26",
+   "ats": "smartrecruiters",
+   "families": [
+    "C_marketing_recruitment"
+   ]
+  },
+  {
+   "employer": "Clay Labs UK Ltd",
+   "title": "Growth Strategist, Enterprise (Customer Success) - London",
    "location": "London",
-   "url": "https://jobs.ashbyhq.com/cloudcapital/85273c48-0f58-4878-b2ce-7b678a6b7d19",
-   "posted": "2026-10-22",
+   "url": "https://jobs.ashbyhq.com/claylabs/9d4828b2-8c23-406d-8225-b916ff9174c0",
+   "posted": "2025-07-16",
    "ats": "ashby",
    "families": [
     "D_edtech_customer"
    ]
   },
   {
-   "employer": "JUUL Labs UK Ltd",
-   "title": "Key Account Manager",
-   "location": "Remote-Illinois; Remote-Kentucky; Remote-Ohio",
-   "url": "https://job-boards.greenhouse.io/juullabs/jobs/8324970",
+   "employer": "Portsmouth Hospitals University NHS Trust",
+   "title": "Corporate Governance Officer",
+   "location": "Portsmouth England gb Queen Alexandra Hosp, Southwick Hill Road, Cosham, Portsmouth, PO6 3LY PO6 3LY 50.84977 -1.07054 Portsmouth, England, United Kingdom",
+   "url": "https://jobs.smartrecruiters.com/744000157809839",
    "posted": "2026-10-26",
-   "ats": "greenhouse",
+   "ats": "smartrecruiters",
    "families": [
-    "D_edtech_customer"
-   ]
-  },
-  {
-   "employer": "WPP Media UK Limited",
-   "title": "Account Manager, Influencer",
-   "location": "London, United Kingdom",
-   "url": "https://job-boards.greenhouse.io/wppmedia/jobs/5444840008",
-   "posted": "2026-10-26",
-   "ats": "greenhouse",
-   "families": [
-    "D_edtech_customer"
-   ]
-  },
-  {
-   "employer": "WPP Media UK Limited",
-   "title": "Account Manager, Influencer",
-   "location": "London, United Kingdom",
-   "url": "https://job-boards.greenhouse.io/wppmedia/jobs/5444838008",
-   "posted": "2026-10-26",
-   "ats": "greenhouse",
-   "families": [
-    "D_edtech_customer"
+    "F_quality_compliance"
    ]
   }
  ]

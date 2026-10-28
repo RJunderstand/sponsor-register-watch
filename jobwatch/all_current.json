@@ -22,19 +22,8 @@
   ]
  },
  {
-  "employer": "Captify Technologies Ltd",
-  "title": "Senior Account Manager (Media)",
-  "location": "London, UK",
-  "url": "https://job-boards.greenhouse.io/captify/jobs/8691668002",
-  "posted": "2026-10-19",
-  "ats": "greenhouse",
-  "families": [
-   "D_edtech_customer"
-  ]
- },
- {
   "employer": "Clay Labs UK Ltd",
-  "title": "Growth Strategist, Enterprise (Customer Success)",
+  "title": "Growth Strategist, Enterprise (Customer Success) - London",
   "location": "London",
   "url": "https://jobs.ashbyhq.com/claylabs/9d4828b2-8c23-406d-8225-b916ff9174c0",
   "posted": "2025-07-16",
@@ -210,17 +199,6 @@
  },
  {
   "employer": "Instructure Global Limited",
-  "title": "Sr. Customer Success Manager",
-  "location": "US-REMOTE",
-  "url": "https://jobs.ashbyhq.com/instructure/7947f857-080e-4a65-a93c-7fb4c8f2cfc6",
-  "posted": "2026-08-24",
-  "ats": "ashby",
-  "families": [
-   "D_edtech_customer"
-  ]
- },
- {
-  "employer": "Instructure Global Limited",
   "title": "Sr. Revenue Operations Analyst",
   "location": "US-REMOTE",
   "url": "https://jobs.ashbyhq.com/instructure/d36f43ef-5d99-4b62-a91e-a05a5e0c9cde",
@@ -310,9 +288,9 @@
  {
   "employer": "NICE Systems UK Limited",
   "title": "Product Customer Success Manager",
-  "location": "United Kingdom - London",
-  "url": "https://boards.eu.greenhouse.io/nice/jobs/4877490101?gh_jid=4877490101",
-  "posted": "2026-08-28",
+  "location": "United Kingdom - Remote",
+  "url": "https://boards.eu.greenhouse.io/nice/jobs/4999942101?gh_jid=4999942101",
+  "posted": "2026-10-21",
   "ats": "greenhouse",
   "families": [
    "D_edtech_customer"
@@ -321,9 +299,9 @@
  {
   "employer": "NICE Systems UK Limited",
   "title": "Product Customer Success Manager",
-  "location": "United Kingdom - Remote",
-  "url": "https://boards.eu.greenhouse.io/nice/jobs/4999942101?gh_jid=4999942101",
-  "posted": "2026-10-21",
+  "location": "United Kingdom - London",
+  "url": "https://boards.eu.greenhouse.io/nice/jobs/4877490101?gh_jid=4877490101",
+  "posted": "2026-08-28",
   "ats": "greenhouse",
   "families": [
    "D_edtech_customer"
@@ -408,6 +386,17 @@
  },
  {
   "employer": "Portsmouth Hospitals University NHS Trust",
+  "title": "Corporate Governance Officer",
+  "location": "Portsmouth England gb Queen Alexandra Hosp, Southwick Hill Road, Cosham, Portsmouth, PO6 3LY PO6 3LY 50.84977 -1.07054 Portsmouth, England, United Kingdom",
+  "url": "https://jobs.smartrecruiters.com/744000157809839",
+  "posted": "2026-10-26",
+  "ats": "smartrecruiters",
+  "families": [
+   "F_quality_compliance"
+  ]
+ },
+ {
+  "employer": "Portsmouth Hospitals University NHS Trust",
   "title": "OneEPR Business Change Analyst",
   "location": "Portsmouth England gb Portsmouth Hospitals University NHS Trust Corporate Hub, Block 4000, Lakeside North Harbour, Western Road, Cosham, Portsmouth, PO6 3EN PO6 3EN 50.842179 -1.086586 Portsmouth, England, United Kingdom",
   "url": "https://jobs.smartrecruiters.com/744000156560888",
@@ -437,17 +426,6 @@
   "ats": "greenhouse",
   "families": [
    "J_process_ops"
-  ]
- },
- {
-  "employer": "Red Bull Media House UK Ltd (RBMHUK)",
-  "title": "Social & Digital Media Manager (Brand & Product)",
-  "location": "London England gb 51.5072178 -0.1275862 London, England, United Kingdom",
-  "url": "https://jobs.smartrecruiters.com/744000157410914",
-  "posted": "2026-10-23",
-  "ats": "smartrecruiters",
-  "families": [
-   "C_marketing_recruitment"
   ]
  },
  {
@@ -496,17 +474,6 @@
  },
  {
   "employer": "Sigma Computing UK Limited",
-  "title": "Enterprise Customer Success Manager - Central",
-  "location": "Remote",
-  "url": "https://job-boards.greenhouse.io/sigmacomputing/jobs/7906143003",
-  "posted": "2026-08-26",
-  "ats": "greenhouse",
-  "families": [
-   "D_edtech_customer"
-  ]
- },
- {
-  "employer": "Sigma Computing UK Limited",
   "title": "Enterprise Customer Success Manager - EMEA",
   "location": "London, UK",
   "url": "https://job-boards.greenhouse.io/sigmacomputing/jobs/8043817003",
@@ -521,10 +488,21 @@
   "title": "Senior Partner Account Manager - EMEA",
   "location": "London, England, United Kingdom",
   "url": "https://job-boards.greenhouse.io/sigmacomputing/jobs/7814249003",
-  "posted": "2026-09-29",
+  "posted": "2026-10-27",
   "ats": "greenhouse",
   "families": [
    "D_edtech_customer"
+  ]
+ },
+ {
+  "employer": "Telefonica Tech UK Data & AI Limited",
+  "title": "Digital Marketing Manager",
+  "location": "London England gb 3 days 51.5072178 -0.1275862 London, England, United Kingdom",
+  "url": "https://jobs.smartrecruiters.com/744000157795940",
+  "posted": "2026-10-26",
+  "ats": "smartrecruiters",
+  "families": [
+   "C_marketing_recruitment"
   ]
  },
  {
@@ -707,17 +685,6 @@
   "employer": "WPP Media UK Limited",
   "title": "Account Manager, OOH - Activation, UK",
   "location": "London, United Kingdom",
-  "url": "https://job-boards.greenhouse.io/wppmedia/jobs/5450593008",
-  "posted": "2026-10-19",
-  "ats": "greenhouse",
-  "families": [
-   "D_edtech_customer"
-  ]
- },
- {
-  "employer": "WPP Media UK Limited",
-  "title": "Account Manager, OOH - Activation, UK",
-  "location": "London, United Kingdom",
   "url": "https://job-boards.greenhouse.io/wppmedia/jobs/5458069008",
   "posted": "2026-10-20",
   "ats": "greenhouse",
@@ -729,8 +696,8 @@
   "employer": "WPP Media UK Limited",
   "title": "Account Manager, OOH - Activation, UK",
   "location": "London, United Kingdom",
-  "url": "https://job-boards.greenhouse.io/wppmedia/jobs/5458066008",
-  "posted": "2026-10-20",
+  "url": "https://job-boards.greenhouse.io/wppmedia/jobs/5450593008",
+  "posted": "2026-10-19",
   "ats": "greenhouse",
   "families": [
    "D_edtech_customer"
@@ -738,10 +705,10 @@
  },
  {
   "employer": "WPP Media UK Limited",
-  "title": "Account Manager, Paid Search",
-  "location": "Manchester, United Kingdom",
-  "url": "https://job-boards.greenhouse.io/wppmedia/jobs/5174334008",
-  "posted": "2026-10-19",
+  "title": "Account Manager, OOH - Activation, UK",
+  "location": "London, United Kingdom",
+  "url": "https://job-boards.greenhouse.io/wppmedia/jobs/5458066008",
+  "posted": "2026-10-20",
   "ats": "greenhouse",
   "families": [
    "D_edtech_customer"
@@ -773,7 +740,7 @@
   "employer": "WPP Media UK Limited",
   "title": "Account Manager, Programmatic",
   "location": "London, United Kingdom",
-  "url": "https://job-boards.greenhouse.io/wppmedia/jobs/5424419008",
+  "url": "https://job-boards.greenhouse.io/wppmedia/jobs/5187822008",
   "posted": "2026-10-19",
   "ats": "greenhouse",
   "families": [
@@ -784,7 +751,7 @@
   "employer": "WPP Media UK Limited",
   "title": "Account Manager, Programmatic",
   "location": "London, United Kingdom",
-  "url": "https://job-boards.greenhouse.io/wppmedia/jobs/5187822008",
+  "url": "https://job-boards.greenhouse.io/wppmedia/jobs/5424419008",
   "posted": "2026-10-19",
   "ats": "greenhouse",
   "families": [
@@ -877,17 +844,6 @@
   "ats": "greenhouse",
   "families": [
    "G_content_multimedia"
-  ]
- },
- {
-  "employer": "WPP Media UK Limited",
-  "title": "SEO Account Manager",
-  "location": "London, United Kingdom",
-  "url": "https://job-boards.greenhouse.io/wppmedia/jobs/5372767008",
-  "posted": "2026-10-19",
-  "ats": "greenhouse",
-  "families": [
-   "D_edtech_customer"
   ]
  },
  {
