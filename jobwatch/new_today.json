@@ -1,38 +1,71 @@
 {
- "generated": "2026-10-28",
- "count": 3,
+ "generated": "2026-10-29",
+ "count": 6,
  "jobs": [
   {
-   "employer": "Telefonica Tech UK Data & AI Limited",
-   "title": "Digital Marketing Manager",
-   "location": "London England gb 3 days 51.5072178 -0.1275862 London, England, United Kingdom",
-   "url": "https://jobs.smartrecruiters.com/744000157795940",
-   "posted": "2026-10-26",
+   "employer": "Portsmouth Hospitals University NHS Trust",
+   "title": "ELearning Clerical Support Apprentice",
+   "location": "Portsmouth England gb Queen Alexandra Hosp, Southwick Hill Road, Cosham, Portsmouth, PO6 3LY PO6 3LY 50.84977 -1.07054 Portsmouth, England, United Kingdom",
+   "url": "https://jobs.smartrecruiters.com/744000158466179",
+   "posted": "2026-10-29",
    "ats": "smartrecruiters",
    "families": [
-    "C_marketing_recruitment"
+    "A_he_learning_tech"
    ]
   },
   {
-   "employer": "Clay Labs UK Ltd",
-   "title": "Growth Strategist, Enterprise (Customer Success) - London",
+   "employer": "Multiverse Group Limited",
+   "title": "Operations Specialist - Enablement",
    "location": "London",
-   "url": "https://jobs.ashbyhq.com/claylabs/9d4828b2-8c23-406d-8225-b916ff9174c0",
-   "posted": "2025-07-16",
+   "url": "https://jobs.ashbyhq.com/multiverse/0fb8abfd-c4dd-49ce-8c09-f961adf492ea",
+   "posted": "2026-10-28",
    "ats": "ashby",
    "families": [
     "D_edtech_customer"
    ]
   },
   {
-   "employer": "Portsmouth Hospitals University NHS Trust",
-   "title": "Corporate Governance Officer",
-   "location": "Portsmouth England gb Queen Alexandra Hosp, Southwick Hill Road, Cosham, Portsmouth, PO6 3LY PO6 3LY 50.84977 -1.07054 Portsmouth, England, United Kingdom",
-   "url": "https://jobs.smartrecruiters.com/744000157809839",
-   "posted": "2026-10-26",
-   "ats": "smartrecruiters",
+   "employer": "Wunderkind Technologies UK Ltd",
+   "title": "Programmatic Account Manager",
+   "location": "Remote",
+   "url": "https://www.wunderkind.co/careers/?gh_jid=8330857",
+   "posted": "2026-10-28",
+   "ats": "greenhouse",
    "families": [
-    "F_quality_compliance"
+    "D_edtech_customer"
+   ]
+  },
+  {
+   "employer": "Oxford International Education & Travel Ltd",
+   "title": "Student Services & Social Programme Coordinator",
+   "location": "London Oxford International Greenwich London Centre",
+   "url": "https://joinus.oxfordinternational.com/en/postings/cd5c5113-fa9a-487a-a636-4d382620219a",
+   "posted": "",
+   "ats": "pinpoint",
+   "families": [
+    "E_learning_ops"
+   ]
+  },
+  {
+   "employer": "Oxford International School",
+   "title": "Student Services & Social Programme Coordinator",
+   "location": "London Oxford International Greenwich London Centre",
+   "url": "https://joinus.oxfordinternational.com/en/postings/cd5c5113-fa9a-487a-a636-4d382620219a",
+   "posted": "",
+   "ats": "pinpoint",
+   "families": [
+    "E_learning_ops"
+   ]
+  },
+  {
+   "employer": "Oxford International Study Abroad Programme Ltd",
+   "title": "Student Services & Social Programme Coordinator",
+   "location": "London Oxford International Greenwich London Centre",
+   "url": "https://joinus.oxfordinternational.com/en/postings/cd5c5113-fa9a-487a-a636-4d382620219a",
+   "posted": "",
+   "ats": "pinpoint",
+   "families": [
+    "E_learning_ops"
    ]
   }
  ]
