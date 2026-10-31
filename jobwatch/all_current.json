@@ -66,6 +66,17 @@
   ]
  },
  {
+  "employer": "Domino Data Lab Limited",
+  "title": "Account Manager, Life Sciences",
+  "location": "Remote US",
+  "url": "https://app.careerpuck.com/job-board/domino-data-lab/job/8187025?gh_jid=8187025",
+  "posted": "2026-10-30",
+  "ats": "greenhouse",
+  "families": [
+   "D_edtech_customer"
+  ]
+ },
+ {
   "employer": "Elemis",
   "title": "Account Manager",
   "location": "London John Lewis, Brent Cross Shopping Centre",
@@ -213,7 +224,7 @@
   "title": "Key Account Manager",
   "location": "Remote-Illinois; Remote-Kentucky; Remote-Ohio",
   "url": "https://job-boards.greenhouse.io/juullabs/jobs/8324970",
-  "posted": "2026-10-26",
+  "posted": "2026-10-30",
   "ats": "greenhouse",
   "families": [
    "D_edtech_customer"
@@ -309,17 +320,6 @@
  },
  {
   "employer": "Oxford International Education & Travel Ltd",
-  "title": "Student Support Lead",
-  "location": "London UHE Campuses",
-  "url": "https://joinus.oxfordinternational.com/en/postings/d009d24b-df4e-40a2-9731-730ae036c395",
-  "posted": "",
-  "ats": "pinpoint",
-  "families": [
-   "K_student_support"
-  ]
- },
- {
-  "employer": "Oxford International Education & Travel Ltd",
   "title": "Admissions Advisor & Outreach Coordinator",
   "location": "Vancouver Oxford International Vancouver Centre",
   "url": "https://joinus.oxfordinternational.com/en/postings/d99ebbd6-d094-45f4-a079-958ed1d603ed",
@@ -342,17 +342,6 @@
  },
  {
   "employer": "Oxford International School",
-  "title": "Student Support Lead",
-  "location": "London UHE Campuses",
-  "url": "https://joinus.oxfordinternational.com/en/postings/d009d24b-df4e-40a2-9731-730ae036c395",
-  "posted": "",
-  "ats": "pinpoint",
-  "families": [
-   "K_student_support"
-  ]
- },
- {
-  "employer": "Oxford International School",
   "title": "Admissions Advisor & Outreach Coordinator",
   "location": "Vancouver Oxford International Vancouver Centre",
   "url": "https://joinus.oxfordinternational.com/en/postings/d99ebbd6-d094-45f4-a079-958ed1d603ed",
@@ -371,17 +360,6 @@
   "ats": "pinpoint",
   "families": [
    "E_learning_ops"
-  ]
- },
- {
-  "employer": "Oxford International Study Abroad Programme Ltd",
-  "title": "Student Support Lead",
-  "location": "London UHE Campuses",
-  "url": "https://joinus.oxfordinternational.com/en/postings/d009d24b-df4e-40a2-9731-730ae036c395",
-  "posted": "",
-  "ats": "pinpoint",
-  "families": [
-   "K_student_support"
   ]
  },
  {
@@ -631,7 +609,7 @@
   "title": "Enterprise Account Manager - Central Government and Justice UK",
   "location": "London, United Kingdom",
   "url": "https://job-boards.eu.greenhouse.io/veeamsoftware/jobs/5010319101",
-  "posted": "2026-10-22",
+  "posted": "2026-10-30",
   "ats": "greenhouse",
   "families": [
    "D_edtech_customer"
@@ -642,7 +620,7 @@
   "title": "Senior Technical Account Manager",
   "location": "Remote, Türkiye",
   "url": "https://job-boards.eu.greenhouse.io/veeamsoftware/jobs/4744014101",
-  "posted": "2026-10-22",
+  "posted": "2026-10-30",
   "ats": "greenhouse",
   "families": [
    "D_edtech_customer"
@@ -694,21 +672,10 @@
  },
  {
   "employer": "WPP Media UK Limited",
-  "title": "Account Manager, Influencer",
+  "title": "Account Manager, OOH - Activation, UK",
   "location": "London, United Kingdom",
-  "url": "https://job-boards.greenhouse.io/wppmedia/jobs/5444840008",
-  "posted": "2026-10-26",
-  "ats": "greenhouse",
-  "families": [
-   "D_edtech_customer"
-  ]
- },
- {
-  "employer": "WPP Media UK Limited",
-  "title": "Account Manager, Influencer",
-  "location": "London, United Kingdom",
-  "url": "https://job-boards.greenhouse.io/wppmedia/jobs/5444838008",
-  "posted": "2026-10-26",
+  "url": "https://job-boards.greenhouse.io/wppmedia/jobs/5458066008",
+  "posted": "2026-10-20",
   "ats": "greenhouse",
   "families": [
    "D_edtech_customer"
@@ -731,17 +698,6 @@
   "location": "London, United Kingdom",
   "url": "https://job-boards.greenhouse.io/wppmedia/jobs/5450593008",
   "posted": "2026-10-19",
-  "ats": "greenhouse",
-  "families": [
-   "D_edtech_customer"
-  ]
- },
- {
-  "employer": "WPP Media UK Limited",
-  "title": "Account Manager, OOH - Activation, UK",
-  "location": "London, United Kingdom",
-  "url": "https://job-boards.greenhouse.io/wppmedia/jobs/5458066008",
-  "posted": "2026-10-20",
   "ats": "greenhouse",
   "families": [
    "D_edtech_customer"
@@ -805,8 +761,8 @@
  {
   "employer": "WPP Media UK Limited",
   "title": "Account Manager, Search",
-  "location": "London, United Kingdom",
-  "url": "https://job-boards.greenhouse.io/wppmedia/jobs/5444819008",
+  "location": "Manchester, United Kingdom",
+  "url": "https://job-boards.greenhouse.io/wppmedia/jobs/5190550008",
   "posted": "2026-10-19",
   "ats": "greenhouse",
   "families": [
@@ -816,8 +772,8 @@
  {
   "employer": "WPP Media UK Limited",
   "title": "Account Manager, Search",
-  "location": "Manchester, United Kingdom",
-  "url": "https://job-boards.greenhouse.io/wppmedia/jobs/5190550008",
+  "location": "London, United Kingdom",
+  "url": "https://job-boards.greenhouse.io/wppmedia/jobs/5444819008",
   "posted": "2026-10-19",
   "ats": "greenhouse",
   "families": [
