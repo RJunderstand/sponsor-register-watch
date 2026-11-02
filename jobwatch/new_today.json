@@ -1,5 +1,28 @@
 {
- "generated": "2026-11-01",
- "count": 0,
- "jobs": []
+ "generated": "2026-11-02",
+ "count": 2,
+ "jobs": [
+  {
+   "employer": "Elemis",
+   "title": "Learning and Development Specialist",
+   "location": "London Head Office, London",
+   "url": "https://careers.elemis.com/en/postings/de634624-f01b-4b66-a5b7-c983917e6b76",
+   "posted": "",
+   "ats": "pinpoint",
+   "families": [
+    "B_corporate_ld"
+   ]
+  },
+  {
+   "employer": "Heat Geek Technologies Ltd",
+   "title": "Senior Technical Support Engineer (Customer Experience Team)",
+   "location": "London, United Kingdom",
+   "url": "https://job-boards.eu.greenhouse.io/heatgeek/jobs/5024728101",
+   "posted": "2026-11-02",
+   "ats": "greenhouse",
+   "families": [
+    "D_edtech_customer"
+   ]
+  }
+ ]
 }

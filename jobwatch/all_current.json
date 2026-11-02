@@ -110,6 +110,17 @@
   ]
  },
  {
+  "employer": "Elemis",
+  "title": "Learning and Development Specialist",
+  "location": "London Head Office, London",
+  "url": "https://careers.elemis.com/en/postings/de634624-f01b-4b66-a5b7-c983917e6b76",
+  "posted": "",
+  "ats": "pinpoint",
+  "families": [
+   "B_corporate_ld"
+  ]
+ },
+ {
   "employer": "Eleven Labs Ltd",
   "title": "Account Manager - UK/I",
   "location": "United Kingdom",
@@ -151,6 +162,17 @@
   "ats": "greenhouse",
   "families": [
    "F_quality_compliance"
+  ]
+ },
+ {
+  "employer": "Heat Geek Technologies Ltd",
+  "title": "Senior Technical Support Engineer (Customer Experience Team)",
+  "location": "London, United Kingdom",
+  "url": "https://job-boards.eu.greenhouse.io/heatgeek/jobs/5024728101",
+  "posted": "2026-11-02",
+  "ats": "greenhouse",
+  "families": [
+   "D_edtech_customer"
   ]
  },
  {
@@ -663,7 +685,7 @@
   "employer": "WPP Media UK Limited",
   "title": "Account Manager, OOH - Activation, UK",
   "location": "London, United Kingdom",
-  "url": "https://job-boards.greenhouse.io/wppmedia/jobs/5458066008",
+  "url": "https://job-boards.greenhouse.io/wppmedia/jobs/5458069008",
   "posted": "2026-10-20",
   "ats": "greenhouse",
   "families": [
@@ -674,7 +696,7 @@
   "employer": "WPP Media UK Limited",
   "title": "Account Manager, OOH - Activation, UK",
   "location": "London, United Kingdom",
-  "url": "https://job-boards.greenhouse.io/wppmedia/jobs/5458069008",
+  "url": "https://job-boards.greenhouse.io/wppmedia/jobs/5458066008",
   "posted": "2026-10-20",
   "ats": "greenhouse",
   "families": [
@@ -752,17 +774,6 @@
   "title": "Account Manager, Search",
   "location": "London, United Kingdom",
   "url": "https://job-boards.greenhouse.io/wppmedia/jobs/5444819008",
-  "posted": "2026-10-19",
-  "ats": "greenhouse",
-  "families": [
-   "D_edtech_customer"
-  ]
- },
- {
-  "employer": "WPP Media UK Limited",
-  "title": "Account Manager, SEO",
-  "location": "London, United Kingdom",
-  "url": "https://job-boards.greenhouse.io/wppmedia/jobs/5301517008",
   "posted": "2026-10-19",
   "ats": "greenhouse",
   "families": [
