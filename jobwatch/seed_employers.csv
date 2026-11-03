@@ -86,10 +86,10 @@ The Quality Assurance Agency of Higher Education,Gloucester,Gloucestershire,0
 The UCL Academy,London,,0
 The Wellcome Trust Limited (as Trustee of the Wellcome Trust),London,,0
 Turnitin UK LTD,Newcastle Upon Tyne,,0
-UCL Business Ltd,London,,0
 UCL Consultants Ltd,London,Select a state,0
 UCL ENERGY GROUP LIMITED,London,,0
 UCL SWIFT LTD,London,,0
+UCL Ventures Ltd,London,,0
 UK Study Group Ltd,London,,0
 Unibuddy Limited,LONDON,,0
 University College London,London,,0
@@ -158,7 +158,8 @@ Acorn IT Systems Ltd,Reading,Berkshire,3
 Acre Platforms Limited,London,,3
 Actify Training and Technology CIC,Glasgow,Glasgow,3
 Acuiti Labs Limited,London,,3
-Acuvate Software Ltd,London,,3
+Acumen International Media Limited,London,London,3
+Acuvate Software Limited,London,,3
 AD Technologies Ltd,Reading,,3
 Ada Digital Health Ltd,London,,3
 Adage Digital Ltd,London,London,3
@@ -313,7 +314,6 @@ APL Media Limited,London,,3
 Aplos Innovation Ltd,London,,3
 Apparel Cloud London Ltd,London,,3
 Appeal Marketing Ltd t/a Appeal Digital,Bristol,,3
-Applexus Technologies Limited,Hounslow,Greater London,3
 Applied Computing Technologies Ltd.,London,,3
 Applied Data Science Partners Ltd,London,,3
 Applied Scientific Technologies Ltd,Stokesley,North Yorkshire,3
@@ -686,7 +686,6 @@ Cigniti Technologies (UK) Limited,London,,3
 CIM Software Ltd,Southampton,Hampshire,3
 Cimcon Software (UK) Limited,Reading,,3
 Cincom Systems (UK) Limited,Maidenhead,Berkshire,3
-Cinemersive Labs Ltd,London,,3
 Circadia Technologies Ltd,London,,3
 Circle Cloud Communications Ltd,SOUTHAMPTON,,3
 Circle Interactive Ltd,Bristol,Bristol,3
@@ -706,7 +705,6 @@ Clearglass Analytics Limited,London,,3
 Clearly Technologies Limited,London,,3
 Clearmatics Technologies Ltd,London,,3
 "Clearwater Analytics, Ltd.",Edinburgh,,3
-ClickZ Media Limited,London,,3
 Climate Change Media Ltd,London,,3
 Clinical Network Systems Limited,London,,3
 Clockwork Media SA UK Ltd.,London,,3
@@ -824,7 +822,6 @@ Count Technologies Ltd,London,,3
 Counterpoint Global Media Limited,LONDON,,3
 Coupa Software UK Ltd,London,,3
 Covarius Technology Limited,London,,3
-Covasant Technologies (UK) Private Limited,London,,3
 Cowbell Cyber Ltd,London,,3
 CPL Software Ltd,Glasgow,,3
 Create Cap Studios Ltd,London,,3
@@ -1107,6 +1104,7 @@ Double G Studios Ltd,London,,3
 Dovecot Studios Ltd,Edinburgh,,3
 Downforce Technologies Limited,London,,3
 "DR Studios Ltd,",Milton Keynes,,3
+Dragonfly Technology Ltd,London,,3
 DREAM REALITY INTERACTIVE LIMITED,London,,3
 Dribble Media Limited,London,,3
 Drie Secure Systems Limited,London,,3
@@ -1123,6 +1121,7 @@ DVV Media International,Sutton,Surrey,3
 "DX CELLS TECHNOLOGIES CO., (UK) LIMITED",London,,3
 DYAD ARTIFICIAL INTELLIGENCE LIMITED,LONDON,,3
 Dynamic Shelving Systems Limited,Manchester,,3
+Dynamic Technologies Europe Ltd,Milton Keynes,,3
 Dynamo Analytics Ltd,London,,3
 DZINE DIGITAL LTD,Cardiff,,3
 Dzine Studio 87 Ltd.,Birmingham,West Midlands,3
@@ -1191,7 +1190,6 @@ Emerging Media Ventures Ltd,London,,3
 Emerson Climate Technologies Limited,Reading,Berkshire,3
 Emma Technologies LTD,London,,3
 EMPEL Systems Limited,Milton Keynes,Buckinghamshire,3
-Emtalent Digital Limited,Reading,Berkshire,3
 Emu Analytics,London,,3
 ENATIONS TECHNOLOGY LTD,London,,3
 Encompass Digital Media Services Limited,London,,3
@@ -1208,6 +1206,7 @@ Enji Technologies,London,London,3
 Enjoy Digital Communications Ltd,Leeds,West Yorkshire,3
 Enlighten Software Limited,London,,3
 Enmarq Technologies Limited,Reading,,3
+Enquip Software Limited,London,Select,3
 ENSEMBLE SOFTWARE (UK) LIMITED,London,,3
 ENSY SYSTEMS LTD,London,,3
 Enterprise AI Technology Ltd,London,,3
@@ -1461,6 +1460,7 @@ Gradient Labs Limited,London,,3
 Grafana Labs Ltd,London,,3
 Graham Hart (Process Technology) Ltd,Bradford,West Yorkshire,3
 Granola Labs,London,,3
+Grant Digital Ltd,London,,3
 Grapeseed Media Ltd,London,,3
 Graphene Innovations Manchester Ltd,Manchester,,3
 Graphic Media Company Limited,Bolton,,3
@@ -1659,6 +1659,7 @@ Infrasoft Technologies Limited,London,,3
 INFRONT SPORTS & MEDIA UK LIMITED,London,,3
 ING MEDIA LIMITED,London,,3
 Ingenuity Digital Limited,Leeds,,3
+Innov8 Technology Ltd,Stockport,,3
 INNOVA TECHNOLOGY SOLUTIONS UK LIMITED,London,,3
 Innovation & Innovative UK Limited,London,,3
 INNOVATION 13 LIMITED,Birmingham,West Midlands,3
@@ -1897,7 +1898,6 @@ Line-Technology Networks Ltd,London,,3
 Link Data Management Solutions Ltd,Cardiff,,3
 Linkedin Technology UK Limited,LONDON,,3
 LinkedTrade Technologies Ltd,London,,3
-Linus Technology Ltd,Sheffield,South Yorkshire,3
 Linx Printing Technologies Limited,St Ives,Cambridgeshire,3
 Little Star Media Ltd,Milton Keynes,,3
 LITTLEDATA TECHNOLOGIES LTD,Newbury,Berkshire,3
@@ -2087,7 +2087,6 @@ MindLink Software Limited,London,,3
 Mindmap Technology Limited,Milton Keynes,,3
 MINDPATH TECHNOLOGY LIMITED,London,,3
 MINDRANK TECHNOLOGIES LIMITED,Manchester,,3
-Mindset Technologies Limited (trading as Mindstep),London,,3
 Minerva Research Labs Ltd,London,,3
 Minimax Labs Ltd,London,London,3
 MINNU SOFTWARE SOLUTIONS PRIVATE LIMITED,Coventry,,3
@@ -2229,7 +2228,6 @@ Nocturne Clothing Limited t/a LABSTORE WESTEND,London,,3
 Noddington Technologies Limited,London,,3
 Noise Media Limited,London,,3
 NONIUS HOSPITALITY TECHNOLOGY UK LTD,London,LONDON,3
-NONVIA TECHNOLOGY LIMITED,York,,3
 Nonwovens Innovation and Research Institute Limited,LEEDS,West Yorkshire,3
 Northern Data Services (UK) Limited,London,,3
 Northslope Technologies Limited,Bristol,,3
@@ -2246,7 +2244,6 @@ Novum Studio Ltd,London,,3
 Now Medical Studios Ltd,Glasgow,Larnarkshire,3
 NOZIROHPIC STUDIO LTD,London,,3
 NS MEDIA GROUP,LONDON,,3
-NSG Media Limited,Manchester,,3
 NTT Cloud Communications UK Ltd,London,,3
 NTT Global Data Centers EMEA UK Ltd,Hemel Hempstead,Hertfordshire,3
 nTtau Digital Ltd,Oxford,,3
@@ -2275,7 +2272,6 @@ Oculo Technologies Ltd,London,,3
 ODA UK Studio Limited,London,,3
 Odqa Renewable Energy Technologies Limited,Oxford,Oxfordshire,3
 Odyssey Computing Limited,London,,3
-Odyssey Interactive Limited,Manchester,,3
 OE TECHNOLOGY LTD,Cambridge,,3
 OKX UK FinTech Company LImited,London,,3
 Olderiswiser Media Limited,London,,3
@@ -2538,6 +2534,7 @@ Qualcomm Technologies International Ltd,Cambridge,,3
 QUALIENT TECHNOLOGY SOLUTIONS UK LIMITED,READING,BERKSHIRE,3
 Qualitest Software Testing Limited,London,,3
 Quality Clouds Limited,London,,3
+Quality Technology Services (UK) Ltd,London,,3
 Quantbot Technologies Ltd,London,,3
 Quantcore Technologies Ltd,Glasgow,Scotland,3
 Quantico Analytics Limited,London,,3
@@ -2707,7 +2704,6 @@ SATURN FINTECH LIMITED,London,,3
 SATURN TECHNOLOGIES LIMITED,LONDON,,3
 Sauce Labs Software UK Limited,Reading,,3
 SAVA Technologies Ltd,London,London,3
-Sava Technology Limited,Milton Keynes,,3
 SAVI Technology Ltd t/a Heavenly Desserts,Sheffield,,3
 Say Digital Limited,London,,3
 Sayari Labs Limited,London,London,3
@@ -2775,7 +2771,6 @@ Sharp Business Systems UK PLC,Leeds,,3
 Shauri Technologies Limited,London,,3
 Shift Technology UK Limited,London,,3
 SHIFT4 PAYMENTS UK LIMITED,London,,3
-Shift6 Studios Ltd,Newbury,Berkshire,3
 Shirley Technologies Limited,Trafford Park,Manchester,3
 Shopline Technology (UK) Limited,London,,3
 Shoreditch Design Studio Ltd.,London,County (optional),3
@@ -2927,6 +2922,7 @@ Statement Technologies Limited T/A Tuza,London,,3
 STech Technology UK Limited,London,,3
 Steel City Interactive Ltd,Sheffield,South Yorkshire,3
 Stellar Entertainment Software Ltd,Guildford,Surrey,3
+Stellar Global Technologies Limited,Surrey,,3
 Stemcell Technologies UK Limited,Cambridge,Cambridgeshire,3
 Sterling Media Limited,London,,3
 STERLITE TECHNOLOGIES LIMITED,London,,3
@@ -3081,7 +3077,6 @@ Technology Sourcing Ltd,London,,3
 TechnologyOne UK Limited,London,,3
 Techwave Technologies UK Ltd.,Stanwell,Surrey,3
 Tej Software Solutions Ltd,Wokingham,Berkshire,3
-Tejas Software Limited,London,,3
 Telefonica Digital Limited,London,,3
 Telefonica Tech UK Data & AI Limited,Farnham,Surrey,3
 Telegraph Media Group Limited,London,,3
@@ -3303,6 +3298,7 @@ Vega Investment Technologies Limited,London,,3
 Velocity Technology Limited,London,,3
 VENTURA UK TECHNOLOGIES LIMITED,London,,3
 VEON Digital Limited,London,,3
+Verda Cloud UK Ltd,London,,3
 Verified Digital Limited,London,,3
 Verint Systems UK Limited,Woking,Surrey,3
 VeriPark Software UK Limited,London,,3
@@ -3468,6 +3464,7 @@ ZZN STUDIO LTD,LONDON,,3
 1 ACE TRAINING LIMITED,London,,2
 4J'S Educational Academy Ltd,Peterborough,Cambridgeshire,2
 6 Bit Education Ltd,Birmingham,,2
+A E C TUTORS LTD,East Ham,LONDON,2
 A PLUS ACADEMY LTD,Manchester,,2
 A-TO-E TRAINING AND SOLUTIONS LTD,London,,2
 A-Z LEARNING ACADEMY LTD,London,,2
@@ -3499,6 +3496,7 @@ Adams Academy Inc Ltd,Aldgate,London,2
 ADM Pressings Ltd,Newcastle upon Tyne,,2
 Adnan Cricket Academy Ltd,London,,2
 ADVANCE EDUCATION GROUP LTD,London,,2
+AF Education London Ltd,London,,2
 Agape Multi Academy Trust,Reading,Berkshire,2
 Agence France-Presse,London,,2
 AGILE COACHING FOR PERFORMANCE LTD,Birmingham,,2
@@ -3601,7 +3599,6 @@ Bright Publishing Ltd,Sawston,Cambridgeshire,2
 Bright Training & Assessment Ltd,London,,2
 BRIGHT TUTORS LTD,LONDON,,2
 BRIGHTEDGE ACADEMY LIMITED,LONDON,ILFORD,2
-Brighton and Hove Social Welfare and Educational Trust Ltd,Brighton,East Sussex,2
 Britannia Education Trust,London,,2
 British Academy,London,,2
 British Academy of Jewellery Ltd,London,,2
@@ -3789,6 +3786,7 @@ Governance House for Consulting Training and Development Limited,London,,2
 Grace Academy Coventry,Coventry,,2
 Grangewood Educational Association,London,London,2
 GREAT EDUCATION LIMITED,London,Ilford,2
+GROPATH EDUCATION CONSULTING LTD,Birmingham,,2
 Growth Academy Trust LTD,Coventry,westmidlands,2
 GSL Education,Barnet,London,2
 GUIDED EDUCATION HUB LTD,Leeds,England,2
@@ -3973,6 +3971,7 @@ Luminate Education Group,Leeds,West Yorkshire,2
 Lumis Student Living Limited,London,,2
 LUX MUNDI CATHOLIC ACADEMY TRUST,London,,2
 MAG EDTECH LIMITED,Cambridge,,2
+Maidenhead Tutorial College Limited,Maidenhead,Berkshire,2
 Mak Education Limited,London,,2
 Makers Academy,London,London,2
 Maljee Establishment Limited T/A Vision Academy,London,,2
@@ -4123,12 +4122,12 @@ R&A EDUCATION LTD,Birmingham,,2
 R. TUTORS LTD,LONDON,,2
 Rainbow Angels Nurseries & Learning Centres Ltd,Rainham,"Essex, Greater London",2
 Raise Education & Wellbeing Ltd,Bolton,,2
+Raleigh Education Trust,Nottingham,,2
 Raza Islamic Educational Cultural Centre Markaz-E-Ahle Sunnat,Birmingham,,2
 Reach Learning Disability,Southwell,Nottinghamshire,2
 READ EDUCATION SERVICES,London,,2
 Red Balloon Educational Trust,Cambridge,,2
 Red Kite Learning Trust,Harrogate,North Yorkshire,2
-Redactive Publishing Ltd,London,,2
 Redhill Academy Trust,Arnold,Nottingham,2
 REDOOR EDUCATION LTD,London,,2
 Refugee Education UK Ltd,Harlesden,London,2
@@ -4163,6 +4162,7 @@ SBA Training Academy,Manchester,Lancashire,2
 Scholars' Education Trust Central Team,St Albans,Hertfordshire,2
 School Of Sufi Teaching,London,,2
 Scientific Education Support (SES) Ltd,London,,2
+SCL Education & Training Limited,Sandhurst,Berkshire,2
 SEARCH EducationTrust,London,,2
 SECUREWAY TRAINING LTD,Birmingham,,2
 Selectia Education Ltd,London,,2
@@ -4201,11 +4201,11 @@ Southampton Engineering Training Association Limited (The),Southampton,,2
 Sova Assessment Ltd,London,,2
 Spa Education Trust,London,,2
 Spanish Education Office,London,,2
+Spark Tutoring Limited,London,,2
 SPORTS EDUCATION ACADEMY LTD,London,,2
 Sports Heroes Limited t/a Education 1st,Bristol,,2
 St Benedict Catholic Academy Trust,Croydon,Greater London,2
 St Clare Catholic Multi Academy Trust,Sheffield,South Yorkshire,2
-St Cyprian's Greek Orthodox Primary Academy,Thornton Heath,Surrey,2
 St Davids International Education Limited,London,,2
 St Dunstan's Education Group,London,,2
 St Laurence Education Trust (Ampleforth College),York,,2
@@ -4312,6 +4312,7 @@ Training 212 Limited,Coventry,,2
 Training Lives Ltd,Liverpool,,2
 "Training The Street UK, LLC (""UK BRANCH"")",St Albans,Hertfordshire,2
 TRENT EDUCATION CENTRE LTD,Nottingham,,2
+Tribal Education Limited,Sheffield,Yorkshire,2
 TRINITY MULTI ACADEMY TRUST,"Halifax,","West Yorkshire,",2
 Trinity Open Learning Ltd,London,England,2
 Trust in Learning Academies,Bristol,,2
@@ -4596,7 +4597,6 @@ Find A University Ltd,Sheffield,S Yorkshire,1
 Finnish Institute in the UK and Ireland sr,London,London,1
 Fitzwilliam College in the University of Cambridge,Cambridge,,1
 Florida State University International Programs Association UK,London,,1
-Foodyarj Ltd T/A University Plaice,Bangor,Wales,1
 FORDHAM UNIVERSITY UK CHARITABLE TRUST,London,,1
 Forth Valley College,Falkirk,,1
 Framlingham College,Framlingham,Suffolk,1
@@ -4646,6 +4646,7 @@ Hugh Baird College,Liverpool,,1
 Hult International Business School,Bloomsbury,London,1
 Hurstpierpoint College Ltd,Hassocks,,1
 Hymers College,HULL,East Riding of Yorkshire,1
+ILFORD COLLEGE OF BUSINESS MANAGEMENT LIMITED,"Ilford, Essex,",,1
 Impact Investing Institute,London,,1
 Impel College Of London Ltd,Hayes,,1
 INSPIRE CONNECT COLLEGE & RECRUITMENT LTD,Hounslow,MIDDLESEX,1
@@ -4931,7 +4932,6 @@ The Chartered Institute for Securities & Investment,London,,1
 The Chartered Institute of Logistics and Transport,Corby,,1
 The City of Leicester College,Leicester,,1
 The City of Liverpool College,Liverpool,Merseyside,1
-The College of Health Ltd t/a The McTimoney College of Chiropractic,Abingdon,Oxfordshire,1
 The College of Optometrists,London,UNITED KINGDOM,1
 The College of Richard Collyer,Horsham,West Sussex,1
 The College of St Barnabas,Lingfield,Surrey,1
@@ -4944,6 +4944,7 @@ The Glasgow School of Art,Glasgow,,1
 The Hayling College,Hayling Island,Hampshire,1
 The Henley College,Oxfordshire,,1
 The Incorporated Bishop's Stortford College Association,Bishop's Stortford,Hertfordshire,1
+The Institute and Faculty of Actuaries,London,,1
 The Institute of Cancer Research,London,London,1
 The Institute of Certified Bookkeepers (ICB),London,London,1
 The Institute of Ismaili Studies,London,,1

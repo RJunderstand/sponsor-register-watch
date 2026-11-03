@@ -70,7 +70,7 @@
   "title": "Account Manager, Life Sciences",
   "location": "Remote US",
   "url": "https://app.careerpuck.com/job-board/domino-data-lab/job/8187025?gh_jid=8187025",
-  "posted": "2026-10-30",
+  "posted": "2026-11-02",
   "ats": "greenhouse",
   "families": [
    "D_edtech_customer"
@@ -188,6 +188,17 @@
  },
  {
   "employer": "Instructure Global Limited",
+  "title": "Sr. Customer Success Manager",
+  "location": "US-REMOTE",
+  "url": "https://jobs.ashbyhq.com/instructure/7947f857-080e-4a65-a93c-7fb4c8f2cfc6",
+  "posted": "2026-11-03",
+  "ats": "ashby",
+  "families": [
+   "D_edtech_customer"
+  ]
+ },
+ {
+  "employer": "Instructure Global Limited",
   "title": "Sr. Revenue Operations Analyst",
   "location": "US-REMOTE",
   "url": "https://jobs.ashbyhq.com/instructure/d36f43ef-5d99-4b62-a91e-a05a5e0c9cde",
@@ -288,9 +299,9 @@
  {
   "employer": "NICE Systems UK Limited",
   "title": "Product Customer Success Manager",
-  "location": "United Kingdom - London",
-  "url": "https://boards.eu.greenhouse.io/nice/jobs/4877490101?gh_jid=4877490101",
-  "posted": "2026-08-28",
+  "location": "United Kingdom - Remote",
+  "url": "https://boards.eu.greenhouse.io/nice/jobs/4999942101?gh_jid=4999942101",
+  "posted": "2026-10-21",
   "ats": "greenhouse",
   "families": [
    "D_edtech_customer"
@@ -299,9 +310,9 @@
  {
   "employer": "NICE Systems UK Limited",
   "title": "Product Customer Success Manager",
-  "location": "United Kingdom - Remote",
-  "url": "https://boards.eu.greenhouse.io/nice/jobs/4999942101?gh_jid=4999942101",
-  "posted": "2026-10-21",
+  "location": "United Kingdom - London",
+  "url": "https://boards.eu.greenhouse.io/nice/jobs/4877490101?gh_jid=4877490101",
+  "posted": "2026-08-28",
   "ats": "greenhouse",
   "families": [
    "D_edtech_customer"
@@ -320,17 +331,6 @@
  },
  {
   "employer": "Oxford International Education & Travel Ltd",
-  "title": "Admissions Advisor & Outreach Coordinator",
-  "location": "Vancouver Oxford International Vancouver Centre",
-  "url": "https://joinus.oxfordinternational.com/en/postings/d99ebbd6-d094-45f4-a079-958ed1d603ed",
-  "posted": "",
-  "ats": "pinpoint",
-  "families": [
-   "C_marketing_recruitment"
-  ]
- },
- {
-  "employer": "Oxford International Education & Travel Ltd",
   "title": "Student Services & Social Programme Coordinator",
   "location": "London Oxford International Greenwich London Centre",
   "url": "https://joinus.oxfordinternational.com/en/postings/cd5c5113-fa9a-487a-a636-4d382620219a",
@@ -342,17 +342,6 @@
  },
  {
   "employer": "Oxford International School",
-  "title": "Admissions Advisor & Outreach Coordinator",
-  "location": "Vancouver Oxford International Vancouver Centre",
-  "url": "https://joinus.oxfordinternational.com/en/postings/d99ebbd6-d094-45f4-a079-958ed1d603ed",
-  "posted": "",
-  "ats": "pinpoint",
-  "families": [
-   "C_marketing_recruitment"
-  ]
- },
- {
-  "employer": "Oxford International School",
   "title": "Student Services & Social Programme Coordinator",
   "location": "London Oxford International Greenwich London Centre",
   "url": "https://joinus.oxfordinternational.com/en/postings/cd5c5113-fa9a-487a-a636-4d382620219a",
@@ -360,17 +349,6 @@
   "ats": "pinpoint",
   "families": [
    "E_learning_ops"
-  ]
- },
- {
-  "employer": "Oxford International Study Abroad Programme Ltd",
-  "title": "Admissions Advisor & Outreach Coordinator",
-  "location": "Vancouver Oxford International Vancouver Centre",
-  "url": "https://joinus.oxfordinternational.com/en/postings/d99ebbd6-d094-45f4-a079-958ed1d603ed",
-  "posted": "",
-  "ats": "pinpoint",
-  "families": [
-   "C_marketing_recruitment"
   ]
  },
  {
@@ -404,28 +382,6 @@
   "ats": "smartrecruiters",
   "families": [
    "F_quality_compliance"
-  ]
- },
- {
-  "employer": "Portsmouth Hospitals University NHS Trust",
-  "title": "OneEPR Business Change Analyst",
-  "location": "Portsmouth England gb Portsmouth Hospitals University NHS Trust Corporate Hub, Block 4000, Lakeside North Harbour, Western Road, Cosham, Portsmouth, PO6 3EN PO6 3EN 50.842179 -1.086586 Portsmouth, England, United Kingdom",
-  "url": "https://jobs.smartrecruiters.com/744000156560888",
-  "posted": "2026-10-20",
-  "ats": "smartrecruiters",
-  "families": [
-   "J_process_ops"
-  ]
- },
- {
-  "employer": "Portsmouth Hospitals University NHS Trust",
-  "title": "Business Change Facilitator",
-  "location": "Newport England gb St Mary's Hosp (IOW), Parkhurst Road, Newport, Isle of Wight, PO30 5TG PO30 5TG 50.71085 -1.3013 Newport, England, United Kingdom",
-  "url": "https://jobs.smartrecruiters.com/744000156536175",
-  "posted": "2026-10-20",
-  "ats": "smartrecruiters",
-  "families": [
-   "J_process_ops"
   ]
  },
  {
@@ -477,7 +433,7 @@
   "title": "Customer Success Architect",
   "location": "Remote",
   "url": "https://job-boards.greenhouse.io/sigmacomputing/jobs/7598665003",
-  "posted": "2026-10-02",
+  "posted": "2026-11-02",
   "ats": "greenhouse",
   "families": [
    "D_edtech_customer"
@@ -499,7 +455,7 @@
   "title": "Senior Partner Account Manager - EMEA",
   "location": "London, England, United Kingdom",
   "url": "https://job-boards.greenhouse.io/sigmacomputing/jobs/7814249003",
-  "posted": "2026-10-27",
+  "posted": "2026-11-02",
   "ats": "greenhouse",
   "families": [
    "D_edtech_customer"
@@ -661,21 +617,10 @@
  },
  {
   "employer": "WPP Media UK Limited",
-  "title": "Account Manager, Commerce",
+  "title": "Account Manager, Influencer",
   "location": "London, United Kingdom",
-  "url": "https://job-boards.greenhouse.io/wppmedia/jobs/5301644008",
-  "posted": "2026-10-19",
-  "ats": "greenhouse",
-  "families": [
-   "D_edtech_customer"
-  ]
- },
- {
-  "employer": "WPP Media UK Limited",
-  "title": "Account Manager, OOH - Activation, UK",
-  "location": "London, United Kingdom",
-  "url": "https://job-boards.greenhouse.io/wppmedia/jobs/5450593008",
-  "posted": "2026-10-19",
+  "url": "https://job-boards.greenhouse.io/wppmedia/jobs/5444840008",
+  "posted": "2026-11-02",
   "ats": "greenhouse",
   "families": [
    "D_edtech_customer"
@@ -698,6 +643,17 @@
   "location": "London, United Kingdom",
   "url": "https://job-boards.greenhouse.io/wppmedia/jobs/5458066008",
   "posted": "2026-10-20",
+  "ats": "greenhouse",
+  "families": [
+   "D_edtech_customer"
+  ]
+ },
+ {
+  "employer": "WPP Media UK Limited",
+  "title": "Account Manager, OOH - Activation, UK",
+  "location": "London, United Kingdom",
+  "url": "https://job-boards.greenhouse.io/wppmedia/jobs/5450593008",
+  "posted": "2026-10-19",
   "ats": "greenhouse",
   "families": [
    "D_edtech_customer"
@@ -761,8 +717,8 @@
  {
   "employer": "WPP Media UK Limited",
   "title": "Account Manager, Search",
-  "location": "Manchester, United Kingdom",
-  "url": "https://job-boards.greenhouse.io/wppmedia/jobs/5190550008",
+  "location": "London, United Kingdom",
+  "url": "https://job-boards.greenhouse.io/wppmedia/jobs/5444819008",
   "posted": "2026-10-19",
   "ats": "greenhouse",
   "families": [
@@ -772,8 +728,8 @@
  {
   "employer": "WPP Media UK Limited",
   "title": "Account Manager, Search",
-  "location": "London, United Kingdom",
-  "url": "https://job-boards.greenhouse.io/wppmedia/jobs/5444819008",
+  "location": "Manchester, United Kingdom",
+  "url": "https://job-boards.greenhouse.io/wppmedia/jobs/5190550008",
   "posted": "2026-10-19",
   "ats": "greenhouse",
   "families": [
@@ -895,7 +851,7 @@
   "title": "Technical Account Manager",
   "location": "Remote",
   "url": "https://www.wunderkind.co/careers/?gh_jid=8334788",
-  "posted": "2026-10-29",
+  "posted": "2026-11-02",
   "ats": "greenhouse",
   "families": [
    "D_edtech_customer"
