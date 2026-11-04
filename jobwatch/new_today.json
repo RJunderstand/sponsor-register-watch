@@ -1,27 +1,38 @@
 {
- "generated": "2026-11-03",
- "count": 2,
+ "generated": "2026-11-04",
+ "count": 3,
  "jobs": [
   {
    "employer": "Instructure Global Limited",
-   "title": "Sr. Customer Success Manager",
+   "title": "Senior Learning Consultant - CANVAS (Required)",
    "location": "US-REMOTE",
-   "url": "https://jobs.ashbyhq.com/instructure/7947f857-080e-4a65-a93c-7fb4c8f2cfc6",
-   "posted": "2026-11-03",
+   "url": "https://jobs.ashbyhq.com/instructure/20a71f96-a15e-4a2c-be1e-143e08baae27",
+   "posted": "2026-10-22",
    "ats": "ashby",
+   "families": [
+    "B_corporate_ld"
+   ]
+  },
+  {
+   "employer": "Bottomline Technologies Limited",
+   "title": "Implementation Consultant",
+   "location": "UK, Theale (Reading)",
+   "url": "https://job-boards.greenhouse.io/bottomlinetechnologies/jobs/8816144002",
+   "posted": "2026-11-03",
+   "ats": "greenhouse",
    "families": [
     "D_edtech_customer"
    ]
   },
   {
-   "employer": "WPP Media UK Limited",
-   "title": "Account Manager, Influencer",
-   "location": "London, United Kingdom",
-   "url": "https://job-boards.greenhouse.io/wppmedia/jobs/5444840008",
-   "posted": "2026-11-02",
-   "ats": "greenhouse",
+   "employer": "Portsmouth Hospitals University NHS Trust",
+   "title": "Mental Health Matron",
+   "location": "Newport England gb St Mary's Hosp (IOW), Parkhurst Road, Newport, Isle of Wight, PO30 5TG PO30 5TG 50.71085 -1.3013 Newport, England, United Kingdom",
+   "url": "https://jobs.smartrecruiters.com/744000159379904",
+   "posted": "2026-11-03",
+   "ats": "smartrecruiters",
    "families": [
-    "D_edtech_customer"
+    "K_student_support"
    ]
   }
  ]
