@@ -1,38 +1,60 @@
 {
- "generated": "2026-11-05",
- "count": 3,
+ "generated": "2026-11-06",
+ "count": 5,
  "jobs": [
   {
-   "employer": "Multiverse Group Limited",
-   "title": "Technical Instructional Designer (AI Programmes)",
+   "employer": "Clay Labs UK Ltd",
+   "title": "Growth Strategist, Enterprise (Customer Success) - London",
    "location": "London",
-   "url": "https://jobs.ashbyhq.com/multiverse/4f13b216-6fbf-4353-b6f3-fc18e6f406c2",
-   "posted": "2026-11-05",
+   "url": "https://jobs.ashbyhq.com/claylabs/9d4828b2-8c23-406d-8225-b916ff9174c0",
+   "posted": "2025-07-16",
    "ats": "ashby",
    "families": [
-    "A_he_learning_tech"
+    "D_edtech_customer"
    ]
   },
   {
-   "employer": "Multiverse Group Limited",
-   "title": "Technical Instructional Designer (AI Programmes)",
-   "location": "London",
-   "url": "https://jobs.ashbyhq.com/multiverse/5e2c6d02-a513-451b-a486-3405841a0e40",
+   "employer": "Commvault Systems Ltd",
+   "title": "Customer Success Manager",
+   "location": "United Kingdom",
+   "url": "https://job-boards.greenhouse.io/commvault/jobs/5469593008",
    "posted": "2026-11-05",
-   "ats": "ashby",
-   "families": [
-    "A_he_learning_tech"
-   ]
-  },
-  {
-   "employer": "Wunderkind Technologies UK Ltd",
-   "title": "Technical Solutions Consultant",
-   "location": "Remote",
-   "url": "https://www.wunderkind.co/careers/?gh_jid=8334788",
-   "posted": "2026-11-04",
    "ats": "greenhouse",
    "families": [
     "D_edtech_customer"
+   ]
+  },
+  {
+   "employer": "Coursera UK Limited",
+   "title": "Copy of Customer Success Manager (German-speaking)",
+   "location": "London, England",
+   "url": "https://job-boards.greenhouse.io/coursera/jobs/6250907004",
+   "posted": "2026-11-05",
+   "ats": "greenhouse",
+   "families": [
+    "D_edtech_customer"
+   ]
+  },
+  {
+   "employer": "Heat Geek Technologies Ltd",
+   "title": "Customer Experience Associate",
+   "location": "London, United Kingdom",
+   "url": "https://job-boards.eu.greenhouse.io/heatgeek/jobs/4846502101",
+   "posted": "2026-11-05",
+   "ats": "greenhouse",
+   "families": [
+    "D_edtech_customer"
+   ]
+  },
+  {
+   "employer": "Qube Research & Technologies Limited",
+   "title": "Business Analyst, Market Data Change",
+   "location": "London",
+   "url": "https://job-boards.greenhouse.io/quberesearchandtechnologies/jobs/8597152002",
+   "posted": "2026-11-06",
+   "ats": "greenhouse",
+   "families": [
+    "J_process_ops"
    ]
   }
  ]
