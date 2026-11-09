@@ -332,9 +332,9 @@
  {
   "employer": "NICE Systems UK Limited",
   "title": "Product Customer Success Manager",
-  "location": "United Kingdom - Remote",
-  "url": "https://boards.eu.greenhouse.io/nice/jobs/4999942101?gh_jid=4999942101",
-  "posted": "2026-10-21",
+  "location": "United Kingdom - London",
+  "url": "https://boards.eu.greenhouse.io/nice/jobs/4877490101?gh_jid=4877490101",
+  "posted": "2026-08-28",
   "ats": "greenhouse",
   "families": [
    "D_edtech_customer"
@@ -343,9 +343,9 @@
  {
   "employer": "NICE Systems UK Limited",
   "title": "Product Customer Success Manager",
-  "location": "United Kingdom - London",
-  "url": "https://boards.eu.greenhouse.io/nice/jobs/4877490101?gh_jid=4877490101",
-  "posted": "2026-08-28",
+  "location": "United Kingdom - Remote",
+  "url": "https://boards.eu.greenhouse.io/nice/jobs/4999942101?gh_jid=4999942101",
+  "posted": "2026-10-21",
   "ats": "greenhouse",
   "families": [
    "D_edtech_customer"
@@ -360,6 +360,17 @@
   "ats": "greenhouse",
   "families": [
    "D_edtech_customer"
+  ]
+ },
+ {
+  "employer": "Portsmouth Hospitals University NHS Trust",
+  "title": "Information Governance Officer",
+  "location": "Portsmouth England gb Health Records Department, Units 2/3 Mitchell Way, Airport Service Road, Portsmouth, Hampshire, PO3 5PR PO3 5PR 50.82625 -1.051409 Portsmouth, England, United Kingdom",
+  "url": "https://jobs.smartrecruiters.com/744000160589740",
+  "posted": "2026-11-09",
+  "ats": "smartrecruiters",
+  "families": [
+   "F_quality_compliance"
   ]
  },
  {
@@ -382,17 +393,6 @@
   "ats": "smartrecruiters",
   "families": [
    "K_student_support"
-  ]
- },
- {
-  "employer": "Portsmouth Hospitals University NHS Trust",
-  "title": "Corporate Governance Officer",
-  "location": "Portsmouth England gb Queen Alexandra Hosp, Southwick Hill Road, Cosham, Portsmouth, PO6 3LY PO6 3LY 50.84977 -1.07054 Portsmouth, England, United Kingdom",
-  "url": "https://jobs.smartrecruiters.com/744000157809839",
-  "posted": "2026-10-26",
-  "ats": "smartrecruiters",
-  "families": [
-   "F_quality_compliance"
   ]
  },
  {
@@ -717,8 +717,8 @@
  {
   "employer": "WPP Media UK Limited",
   "title": "Account Manager, Search",
-  "location": "Manchester, United Kingdom",
-  "url": "https://job-boards.greenhouse.io/wppmedia/jobs/5190550008",
+  "location": "London, United Kingdom",
+  "url": "https://job-boards.greenhouse.io/wppmedia/jobs/5444819008",
   "posted": "2026-10-19",
   "ats": "greenhouse",
   "families": [
@@ -728,8 +728,8 @@
  {
   "employer": "WPP Media UK Limited",
   "title": "Account Manager, Search",
-  "location": "London, United Kingdom",
-  "url": "https://job-boards.greenhouse.io/wppmedia/jobs/5444819008",
+  "location": "Manchester, United Kingdom",
+  "url": "https://job-boards.greenhouse.io/wppmedia/jobs/5190550008",
   "posted": "2026-10-19",
   "ats": "greenhouse",
   "families": [
