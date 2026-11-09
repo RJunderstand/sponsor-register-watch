@@ -1,6 +1,6 @@
 {
- "generated": "2026-11-08T11:56:48Z",
- "run_date": "2026-11-08",
+ "generated": "2026-11-09T13:55:11Z",
+ "run_date": "2026-11-09",
  "floor": 33400,
  "facets_swept": [
   "pr-marketing-sales-and-communication",
@@ -15,14 +15,295 @@
   "other"
  ],
  "counts": {
-  "raw": 216,
-  "unique": 170,
-  "kept": 0,
-  "seen_before": 111,
-  "excluded_title": 23,
-  "gate1": 6,
-  "gate2": 30
+  "raw": 212,
+  "unique": 171,
+  "kept": 12,
+  "seen_before": 102,
+  "excluded_title": 20,
+  "gate1": 8,
+  "gate2": 29
  },
  "note": "Gate 1 and Gate 2 applied mechanically. Gate 3 and Gate 4 need the JD.",
- "jobs": []
+ "jobs": [
+  {
+   "advert_id": "1093561",
+   "title": "Manager of Academic Quality and Assurance",
+   "employer": "Raindance Film School",
+   "department": "",
+   "location": "London, Hybrid",
+   "salary_raw": "Not Specified",
+   "closes": "05 Dec",
+   "url": "https://www.jobs.ac.uk/job/DTO147/manager-of-academic-quality-and-assurance",
+   "facet": "student-services",
+   "families": [
+    "F_quality_compliance"
+   ],
+   "salary_bottom": null,
+   "salary_top": null,
+   "salary_note": "SALARY_UNKNOWN",
+   "gate2": "未知",
+   "register_match": {
+    "matched_name": "Raindance Film School",
+    "rating": "Worker (A rating)",
+    "route": "Skilled Worker",
+    "skilled_worker": true
+   },
+   "gate3_gate4": "unassessed"
+  },
+  {
+   "advert_id": "1093793",
+   "title": "Recruitment & Admissions Manager (Specialised Suite)",
+   "employer": "Imperial College London",
+   "department": "Business School",
+   "location": "London, Hybrid",
+   "salary_raw": "£48,246 to £58,318\n                                    per annum",
+   "closes": "23 Nov",
+   "url": "https://www.jobs.ac.uk/job/DTO931/recruitment-and-admissions-manager-specialised-suite",
+   "facet": "pr-marketing-sales-and-communication",
+   "families": [
+    "C_marketing_recruitment"
+   ],
+   "salary_bottom": 48246,
+   "salary_top": 58318,
+   "salary_note": "",
+   "gate2": "达标",
+   "register_match": {
+    "matched_name": "Imperial College London (HR)",
+    "rating": "Worker (A rating)",
+    "route": "Skilled Worker",
+    "skilled_worker": true
+   },
+   "gate3_gate4": "unassessed"
+  },
+  {
+   "advert_id": "1093788",
+   "title": "Deputy Registrar",
+   "employer": "London College of Contemporary Arts",
+   "department": "Registry Services",
+   "location": "London",
+   "salary_raw": "Competitive",
+   "closes": "09 Dec",
+   "url": "https://www.jobs.ac.uk/job/DTO922/deputy-registrar",
+   "facet": "student-services",
+   "families": [],
+   "salary_bottom": null,
+   "salary_top": null,
+   "salary_note": "SALARY_UNKNOWN",
+   "gate2": "未知",
+   "register_match": {
+    "matched_name": "Institute of Contemporary Arts",
+    "rating": "Worker (A rating)",
+    "route": "Skilled Worker",
+    "skilled_worker": true
+   },
+   "gate3_gate4": "unassessed"
+  },
+  {
+   "advert_id": "1093818",
+   "title": "Programme Operations and Impact Officer - Grade 6",
+   "employer": "University of Liverpool",
+   "department": "Faculty of Science and Engineering (SCE) - School of Physical Sciences - Department of Chemistry",
+   "location": "Liverpool",
+   "salary_raw": "£34,630 to £39,560\n                                    per annum",
+   "closes": "09 Dec",
+   "url": "https://www.jobs.ac.uk/job/DTO975/programme-operations-and-impact-officer-grade-6",
+   "facet": "administrative",
+   "families": [],
+   "salary_bottom": 34630,
+   "salary_top": 39560,
+   "salary_note": "",
+   "gate2": "达标",
+   "register_match": {
+    "matched_name": "University of Liverpool",
+    "rating": "Worker (A rating)",
+    "route": "Skilled Worker",
+    "skilled_worker": true
+   },
+   "gate3_gate4": "unassessed"
+  },
+  {
+   "advert_id": "1093767",
+   "title": "Deputy Faculty Manager [Temporary Cover]",
+   "employer": "University of Cambridge",
+   "department": "Academic Division",
+   "location": "Cambridge",
+   "salary_raw": "£35,608 to £46,049",
+   "closes": "15 Nov",
+   "url": "https://www.jobs.ac.uk/job/DTO884/deputy-faculty-manager-temporary-cover",
+   "facet": "administrative",
+   "families": [],
+   "salary_bottom": 35608,
+   "salary_top": 46049,
+   "salary_note": "",
+   "gate2": "达标",
+   "register_match": {
+    "matched_name": "The University of Cambridge",
+    "rating": "Worker (A rating)",
+    "route": "Skilled Worker",
+    "skilled_worker": true
+   },
+   "gate3_gate4": "unassessed"
+  },
+  {
+   "advert_id": "1093792",
+   "title": "Project Officer (80% FTE)",
+   "employer": "Bangor University",
+   "department": "Reaching Wider",
+   "location": "Cardiff, Hybrid",
+   "salary_raw": "£31,236 to £37,694\n                                    p.a. pro rata (Grade 6)",
+   "closes": "20 Nov",
+   "url": "https://www.jobs.ac.uk/job/DTO929/project-officer-80-fte",
+   "facet": "pr-marketing-sales-and-communication",
+   "families": [],
+   "salary_bottom": 31236,
+   "salary_top": 37694,
+   "salary_note": "CHECK_HOURS",
+   "gate2": "需谈薪至门槛以上",
+   "register_match": {
+    "matched_name": "Bangor University",
+    "rating": "Worker (A rating)",
+    "route": "Skilled Worker",
+    "skilled_worker": true
+   },
+   "gate3_gate4": "unassessed"
+  },
+  {
+   "advert_id": "1093725",
+   "title": "Programme Leader - Health",
+   "employer": "Lincoln Bishop University",
+   "department": "Faculty of People and Society",
+   "location": "Lincoln",
+   "salary_raw": "£44,746 to £58,225\n                                    Grade 8+ (Spine Point 44)",
+   "closes": "22 Nov",
+   "url": "https://www.jobs.ac.uk/job/DTO548/programme-leader-health",
+   "facet": "project-management-and-consulting",
+   "families": [],
+   "salary_bottom": 44746,
+   "salary_top": 58225,
+   "salary_note": "",
+   "gate2": "达标",
+   "register_match": {
+    "matched_name": "Lincoln Bishop University",
+    "rating": "Worker (A rating)",
+    "route": "Skilled Worker",
+    "skilled_worker": true
+   },
+   "gate3_gate4": "unassessed"
+  },
+  {
+   "advert_id": "1093808",
+   "title": "Weekend Customer Service Supervisor",
+   "employer": "University of Salford",
+   "department": "Library Services",
+   "location": "Salford",
+   "salary_raw": "£30,986 to £33,662",
+   "closes": "29 Nov",
+   "url": "https://www.jobs.ac.uk/job/DTO949/weekend-customer-service-supervisor",
+   "facet": "library-services-data-and-information-management",
+   "families": [],
+   "salary_bottom": 30986,
+   "salary_top": 33662,
+   "salary_note": "",
+   "gate2": "需谈薪至门槛以上",
+   "register_match": {
+    "matched_name": "The University of Salford",
+    "rating": "Worker (A rating)",
+    "route": "Skilled Worker",
+    "skilled_worker": true
+   },
+   "gate3_gate4": "unassessed"
+  },
+  {
+   "advert_id": "1093772",
+   "title": "Senior Research Grants Coordinator",
+   "employer": "University of Cambridge",
+   "department": "Department of Engineering",
+   "location": "Cambridge",
+   "salary_raw": "£36,320 to £46,970",
+   "closes": "29 Nov",
+   "url": "https://www.jobs.ac.uk/job/DTO895/senior-research-grants-coordinator",
+   "facet": "administrative",
+   "families": [],
+   "salary_bottom": 36320,
+   "salary_top": 46970,
+   "salary_note": "",
+   "gate2": "达标",
+   "register_match": {
+    "matched_name": "The University of Cambridge",
+    "rating": "Worker (A rating)",
+    "route": "Skilled Worker",
+    "skilled_worker": true
+   },
+   "gate3_gate4": "unassessed"
+  },
+  {
+   "advert_id": "1093765",
+   "title": "Executive Assistant",
+   "employer": "University of Cambridge",
+   "department": "Governance and Compliance Division",
+   "location": "Cambridge",
+   "salary_raw": "£34,630 to £40,704",
+   "closes": "29 Nov",
+   "url": "https://www.jobs.ac.uk/job/DTO882/executive-assistant",
+   "facet": "administrative",
+   "families": [],
+   "salary_bottom": 34630,
+   "salary_top": 40704,
+   "salary_note": "",
+   "gate2": "达标",
+   "register_match": {
+    "matched_name": "The University of Cambridge",
+    "rating": "Worker (A rating)",
+    "route": "Skilled Worker",
+    "skilled_worker": true
+   },
+   "gate3_gate4": "unassessed"
+  },
+  {
+   "advert_id": "1093781",
+   "title": "Research Development Facilitator",
+   "employer": "University of Cambridge",
+   "department": "Cambridge Research Office",
+   "location": "Cambridge, Hybrid",
+   "salary_raw": "£36,320 to £46,970",
+   "closes": "30 Nov",
+   "url": "https://www.jobs.ac.uk/job/DTO906/research-development-facilitator",
+   "facet": "administrative",
+   "families": [],
+   "salary_bottom": 36320,
+   "salary_top": 46970,
+   "salary_note": "",
+   "gate2": "达标",
+   "register_match": {
+    "matched_name": "The University of Cambridge",
+    "rating": "Worker (A rating)",
+    "route": "Skilled Worker",
+    "skilled_worker": true
+   },
+   "gate3_gate4": "unassessed"
+  },
+  {
+   "advert_id": "1093766",
+   "title": "Assessment Officer",
+   "employer": "Queen Mary University of London",
+   "department": "Faculty of Science and Engineering",
+   "location": "London",
+   "salary_raw": "£40,815 to £47,550\n                                    per annum.",
+   "closes": "30 Nov",
+   "url": "https://www.jobs.ac.uk/job/DTO879/assessment-officer",
+   "facet": "administrative",
+   "families": [],
+   "salary_bottom": 40815,
+   "salary_top": 47550,
+   "salary_note": "",
+   "gate2": "达标",
+   "register_match": {
+    "matched_name": "Queen Mary University of London",
+    "rating": "Worker (A rating)",
+    "route": "Skilled Worker",
+    "skilled_worker": true
+   },
+   "gate3_gate4": "unassessed"
+  }
+ ]
 }
