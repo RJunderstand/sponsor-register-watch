@@ -1,16 +1,148 @@
 {
- "generated": "2026-11-10",
- "count": 1,
+ "generated": "2026-11-11",
+ "count": 13,
  "jobs": [
   {
-   "employer": "Coursera UK Limited",
-   "title": "Customer Success Manager (German-speaking)",
-   "location": "London, England",
-   "url": "https://job-boards.greenhouse.io/coursera/jobs/6250907004",
-   "posted": "2026-11-09",
+   "employer": "Eleven Labs Ltd",
+   "title": "GTM Enablement - Sales Execution & North America Lead",
+   "location": "Remote",
+   "url": "https://jobs.ashbyhq.com/ElevenLabs/14c7802d-8e72-46b0-833c-3f0835363e48",
+   "posted": "2026-11-10",
+   "ats": "ashby",
+   "families": [
+    "D_edtech_customer"
+   ]
+  },
+  {
+   "employer": "Eleven Labs Ltd",
+   "title": "GTM Enablement - Product",
+   "location": "Remote",
+   "url": "https://jobs.ashbyhq.com/ElevenLabs/7a235499-7cee-48f5-9fe4-3f4764b91865",
+   "posted": "2026-11-10",
+   "ats": "ashby",
+   "families": [
+    "D_edtech_customer"
+   ]
+  },
+  {
+   "employer": "Eleven Labs Ltd",
+   "title": "GTM Enablement - Partner Program",
+   "location": "Remote",
+   "url": "https://jobs.ashbyhq.com/ElevenLabs/820e5023-c637-4b36-91a9-f732f235998e",
+   "posted": "2026-11-10",
+   "ats": "ashby",
+   "families": [
+    "D_edtech_customer"
+   ]
+  },
+  {
+   "employer": "WPP Media UK Limited",
+   "title": "Account Manager, Programmatic, GCS",
+   "location": "London, United Kingdom",
+   "url": "https://job-boards.greenhouse.io/wppmedia/jobs/5458090008",
+   "posted": "2026-11-10",
    "ats": "greenhouse",
    "families": [
     "D_edtech_customer"
+   ]
+  },
+  {
+   "employer": "Red Bull Media House UK Ltd (RBMHUK)",
+   "title": "Business Analyst (Reach & On Premise)",
+   "location": "London England gb 51.5072178 -0.1275862 London, England, United Kingdom",
+   "url": "https://jobs.smartrecruiters.com/744000160896169",
+   "posted": "2026-11-10",
+   "ats": "smartrecruiters",
+   "families": [
+    "J_process_ops"
+   ]
+  },
+  {
+   "employer": "Bath Spa University",
+   "title": "Student Experience Manager (Help Hub)",
+   "location": "UK Various - Across SW England",
+   "url": "https://bathspa.pinpointhq.com/en/postings/9e62fa2d-a876-4006-ab2a-44ce3cfce1b0",
+   "posted": "",
+   "ats": "pinpoint",
+   "families": [
+    "K_student_support"
+   ]
+  },
+  {
+   "employer": "Kaplan International Colleges U.K. Limited",
+   "title": "Live In Wellbeing Coordinator (Part Time)",
+   "location": "Nottingham, United Kingdom",
+   "url": "https://kaplan-international.hirehive.com/live-in-wellbeing-coordinator-nottingham-Ee1oHM",
+   "posted": "",
+   "ats": "hirehive",
+   "families": [
+    "K_student_support"
+   ]
+  },
+  {
+   "employer": "Oxford International Education & Travel Ltd",
+   "title": "Welfare Assistant - Residential",
+   "location": "London EFL Programmes UK",
+   "url": "https://joinus.oxfordinternational.com/en/postings/f82374da-49ae-4758-813b-257eae5826cc",
+   "posted": "",
+   "ats": "pinpoint",
+   "families": [
+    "K_student_support"
+   ]
+  },
+  {
+   "employer": "Oxford International Education & Travel Ltd",
+   "title": "Welfare Manager - Residential",
+   "location": "London EFL Programmes UK",
+   "url": "https://joinus.oxfordinternational.com/en/postings/34c50ac2-19f0-4eb9-ab29-ff40dc07b4c9",
+   "posted": "",
+   "ats": "pinpoint",
+   "families": [
+    "K_student_support"
+   ]
+  },
+  {
+   "employer": "Oxford International School",
+   "title": "Welfare Assistant - Residential",
+   "location": "London EFL Programmes UK",
+   "url": "https://joinus.oxfordinternational.com/en/postings/f82374da-49ae-4758-813b-257eae5826cc",
+   "posted": "",
+   "ats": "pinpoint",
+   "families": [
+    "K_student_support"
+   ]
+  },
+  {
+   "employer": "Oxford International School",
+   "title": "Welfare Manager - Residential",
+   "location": "London EFL Programmes UK",
+   "url": "https://joinus.oxfordinternational.com/en/postings/34c50ac2-19f0-4eb9-ab29-ff40dc07b4c9",
+   "posted": "",
+   "ats": "pinpoint",
+   "families": [
+    "K_student_support"
+   ]
+  },
+  {
+   "employer": "Oxford International Study Abroad Programme Ltd",
+   "title": "Welfare Assistant - Residential",
+   "location": "London EFL Programmes UK",
+   "url": "https://joinus.oxfordinternational.com/en/postings/f82374da-49ae-4758-813b-257eae5826cc",
+   "posted": "",
+   "ats": "pinpoint",
+   "families": [
+    "K_student_support"
+   ]
+  },
+  {
+   "employer": "Oxford International Study Abroad Programme Ltd",
+   "title": "Welfare Manager - Residential",
+   "location": "London EFL Programmes UK",
+   "url": "https://joinus.oxfordinternational.com/en/postings/34c50ac2-19f0-4eb9-ab29-ff40dc07b4c9",
+   "posted": "",
+   "ats": "pinpoint",
+   "families": [
+    "K_student_support"
    ]
   }
  ]
