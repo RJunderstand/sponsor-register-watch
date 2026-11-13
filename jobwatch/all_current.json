@@ -330,17 +330,6 @@
   ]
  },
  {
-  "employer": "Multiverse Group Limited",
-  "title": "Operations Specialist - Enablement",
-  "location": "London",
-  "url": "https://jobs.ashbyhq.com/multiverse/0fb8abfd-c4dd-49ce-8c09-f961adf492ea",
-  "posted": "2026-10-28",
-  "ats": "ashby",
-  "families": [
-   "D_edtech_customer"
-  ]
- },
- {
   "employer": "NICE Systems UK Limited",
   "title": "Lead Partner Success Implementation Engineer",
   "location": "United Kingdom - London",
@@ -354,9 +343,9 @@
  {
   "employer": "NICE Systems UK Limited",
   "title": "Product Customer Success Manager",
-  "location": "United Kingdom - London",
-  "url": "https://boards.eu.greenhouse.io/nice/jobs/4877490101?gh_jid=4877490101",
-  "posted": "2026-08-28",
+  "location": "United Kingdom - Remote",
+  "url": "https://boards.eu.greenhouse.io/nice/jobs/4999942101?gh_jid=4999942101",
+  "posted": "2026-10-21",
   "ats": "greenhouse",
   "families": [
    "D_edtech_customer"
@@ -365,9 +354,9 @@
  {
   "employer": "NICE Systems UK Limited",
   "title": "Product Customer Success Manager",
-  "location": "United Kingdom - Remote",
-  "url": "https://boards.eu.greenhouse.io/nice/jobs/4999942101?gh_jid=4999942101",
-  "posted": "2026-10-21",
+  "location": "United Kingdom - London",
+  "url": "https://boards.eu.greenhouse.io/nice/jobs/4877490101?gh_jid=4877490101",
+  "posted": "2026-08-28",
   "ats": "greenhouse",
   "families": [
    "D_edtech_customer"
@@ -485,6 +474,17 @@
  },
  {
   "employer": "Portsmouth Hospitals University NHS Trust",
+  "title": "Mental Health Matron",
+  "location": "Newport England gb St Mary's Hosp (IOW), Parkhurst Road, Newport, Isle of Wight, PO30 5TG PO30 5TG 50.71085 -1.3013 Newport, England, United Kingdom",
+  "url": "https://jobs.smartrecruiters.com/744000161482339",
+  "posted": "2026-11-13",
+  "ats": "smartrecruiters",
+  "families": [
+   "K_student_support"
+  ]
+ },
+ {
+  "employer": "Portsmouth Hospitals University NHS Trust",
   "title": "Information Governance Officer",
   "location": "Portsmouth England gb Health Records Department, Units 2/3 Mitchell Way, Airport Service Road, Portsmouth, Hampshire, PO3 5PR PO3 5PR 50.82625 -1.051409 Portsmouth, England, United Kingdom",
   "url": "https://jobs.smartrecruiters.com/744000160589740",
@@ -492,17 +492,6 @@
   "ats": "smartrecruiters",
   "families": [
    "F_quality_compliance"
-  ]
- },
- {
-  "employer": "Portsmouth Hospitals University NHS Trust",
-  "title": "Mental Health Matron",
-  "location": "Newport England gb St Mary's Hosp (IOW), Parkhurst Road, Newport, Isle of Wight, PO30 5TG PO30 5TG 50.71085 -1.3013 Newport, England, United Kingdom",
-  "url": "https://jobs.smartrecruiters.com/744000159379904",
-  "posted": "2026-11-03",
-  "ats": "smartrecruiters",
-  "families": [
-   "K_student_support"
   ]
  },
  {
@@ -622,17 +611,6 @@
   "url": "https://jobs.smartrecruiters.com/744000152631875",
   "posted": "2026-09-30",
   "ats": "smartrecruiters",
-  "families": [
-   "D_edtech_customer"
-  ]
- },
- {
-  "employer": "TRM Labs UK Ltd",
-  "title": "Sales Enablement Manager, Onchain Compliance",
-  "location": "London, United Kingdom",
-  "url": "https://jobs.ashbyhq.com/trm-labs/bd844e99-8211-4e0a-aeb5-fb78f174fa17",
-  "posted": "2026-10-13",
-  "ats": "ashby",
   "families": [
    "D_edtech_customer"
   ]
@@ -773,7 +751,7 @@
   "employer": "WPP Media UK Limited",
   "title": "Account Manager, OOH - Activation, UK",
   "location": "London, United Kingdom",
-  "url": "https://job-boards.greenhouse.io/wppmedia/jobs/5450593008",
+  "url": "https://job-boards.greenhouse.io/wppmedia/jobs/5458066008",
   "posted": "2026-11-10",
   "ats": "greenhouse",
   "families": [
@@ -784,7 +762,7 @@
   "employer": "WPP Media UK Limited",
   "title": "Account Manager, OOH - Activation, UK",
   "location": "London, United Kingdom",
-  "url": "https://job-boards.greenhouse.io/wppmedia/jobs/5458066008",
+  "url": "https://job-boards.greenhouse.io/wppmedia/jobs/5450593008",
   "posted": "2026-11-10",
   "ats": "greenhouse",
   "families": [
