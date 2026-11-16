@@ -1,6 +1,6 @@
 {
- "generated": "2026-11-15T12:44:56Z",
- "run_date": "2026-11-15",
+ "generated": "2026-11-16T13:39:48Z",
+ "run_date": "2026-11-16",
  "floor": 33400,
  "facets_swept": [
   "pr-marketing-sales-and-communication",
@@ -15,14 +15,414 @@
   "other"
  ],
  "counts": {
-  "raw": 204,
-  "unique": 157,
-  "kept": 0,
-  "seen_before": 103,
-  "excluded_title": 23,
-  "gate1": 9,
-  "gate2": 22
+  "raw": 203,
+  "unique": 154,
+  "kept": 17,
+  "seen_before": 84,
+  "excluded_title": 24,
+  "gate1": 10,
+  "gate2": 19
  },
  "note": "Gate 1 and Gate 2 applied mechanically. Gate 3 and Gate 4 need the JD.",
- "jobs": []
+ "jobs": [
+  {
+   "advert_id": "1094522",
+   "title": "Physical Activity Clinical Champions Engagement Officer",
+   "employer": "Sheffield Hallam University",
+   "department": "Advance Wellbeing Research Centre (AWRC)",
+   "location": "Sheffield",
+   "salary_raw": "£32,722 to £39,560\n                                    per annum (pro rata), depending on experience",
+   "closes": "06 Dec",
+   "url": "https://www.jobs.ac.uk/job/DTQ957/physical-activity-clinical-champions-engagement-officer",
+   "facet": "pr-marketing-sales-and-communication",
+   "families": [
+    "C_marketing_recruitment"
+   ],
+   "salary_bottom": 32722,
+   "salary_top": 39560,
+   "salary_note": "CHECK_HOURS",
+   "gate2": "需谈薪至门槛以上",
+   "register_match": {
+    "matched_name": "Sheffield Hallam University",
+    "rating": "Worker (A rating)",
+    "route": "Skilled Worker",
+    "skilled_worker": true
+   },
+   "gate3_gate4": "unassessed"
+  },
+  {
+   "advert_id": "1094554",
+   "title": "Inclusion , SEND and Wellbeing Coordinator",
+   "employer": "Derby College Group",
+   "department": "",
+   "location": "Derby",
+   "salary_raw": "£35,466\n                                    per annum",
+   "closes": "29 Nov",
+   "url": "https://www.jobs.ac.uk/job/DTR018/inclusion-send-and-wellbeing-coordinator",
+   "facet": "student-services",
+   "families": [
+    "K_student_support"
+   ],
+   "salary_bottom": 35466,
+   "salary_top": 35466,
+   "salary_note": "",
+   "gate2": "达标",
+   "register_match": {
+    "matched_name": "Derby College",
+    "rating": "Worker (A rating)",
+    "route": "Skilled Worker",
+    "skilled_worker": true
+   },
+   "gate3_gate4": "unassessed"
+  },
+  {
+   "advert_id": "1094314",
+   "title": "Programme Coordinator (Finance)",
+   "employer": "University of Warwick",
+   "department": "Research & Impact Services - Research Policy, Performance & Systems",
+   "location": "Coventry, University of Warwick, Hybrid",
+   "salary_raw": "£31,861 to £35,302\n                                    per annum.",
+   "closes": "29 Nov",
+   "url": "https://www.jobs.ac.uk/job/DTQ200/programme-coordinator-finance",
+   "facet": "administrative",
+   "families": [
+    "E_learning_ops"
+   ],
+   "salary_bottom": 31861,
+   "salary_top": 35302,
+   "salary_note": "",
+   "gate2": "需谈薪至门槛以上",
+   "register_match": {
+    "matched_name": "University of Warwick",
+    "rating": "Worker (A rating)",
+    "route": "Skilled Worker",
+    "skilled_worker": true
+   },
+   "gate3_gate4": "unassessed"
+  },
+  {
+   "advert_id": "1094488",
+   "title": "International Student Recruitment Manager",
+   "employer": "University of Bath",
+   "department": "Student Recruitment & Admissions",
+   "location": "Bath, Hybrid",
+   "salary_raw": "£38,784 to £46,049\n                                    Grade 7",
+   "closes": "30 Nov",
+   "url": "https://www.jobs.ac.uk/job/DTQ904/international-student-recruitment-manager",
+   "facet": "pr-marketing-sales-and-communication",
+   "families": [
+    "C_marketing_recruitment"
+   ],
+   "salary_bottom": 38784,
+   "salary_top": 46049,
+   "salary_note": "",
+   "gate2": "达标",
+   "register_match": {
+    "matched_name": "Bath College",
+    "rating": "Worker (A rating)",
+    "route": "Skilled Worker",
+    "skilled_worker": true
+   },
+   "gate3_gate4": "unassessed"
+  },
+  {
+   "advert_id": "1094487",
+   "title": "Centre Administrator",
+   "employer": "London School of Economics and Political Science",
+   "department": "Middle East Centre",
+   "location": "London",
+   "salary_raw": "£37,244 to £42,397\n                                    pa inclusive with potential to progress to £45,358 pa inclusive of London allowance",
+   "closes": "02 Dec",
+   "url": "https://www.jobs.ac.uk/job/DTQ903/centre-administrator",
+   "facet": "international-activities",
+   "families": [],
+   "salary_bottom": 37244,
+   "salary_top": 45358,
+   "salary_note": "",
+   "gate2": "达标",
+   "register_match": {
+    "matched_name": "The London School of Economics and Political Science",
+    "rating": "Worker (A rating)",
+    "route": "Skilled Worker",
+    "skilled_worker": true
+   },
+   "gate3_gate4": "unassessed"
+  },
+  {
+   "advert_id": "1094511",
+   "title": "Employability Projects Officer 0364-26",
+   "employer": "University of Greater Manchester",
+   "department": "Jobs for Students",
+   "location": "Bolton",
+   "salary_raw": "£30,180 to £35,302\n                                    per annum",
+   "closes": "06 Dec",
+   "url": "https://www.jobs.ac.uk/job/DTQ939/employability-projects-officer-0364-26",
+   "facet": "student-services",
+   "families": [],
+   "salary_bottom": 30180,
+   "salary_top": 35302,
+   "salary_note": "",
+   "gate2": "需谈薪至门槛以上",
+   "register_match": {
+    "matched_name": "University of Bolton",
+    "rating": "Worker (A rating)",
+    "route": "Skilled Worker",
+    "skilled_worker": true
+   },
+   "gate3_gate4": "unassessed"
+  },
+  {
+   "advert_id": "1094529",
+   "title": "Policy Fellow (Clean Maritime Research)",
+   "employer": "Durham University",
+   "department": "Research and Innovation Services",
+   "location": "Durham",
+   "salary_raw": "£39,560 to £46,970\n                                    per annum",
+   "closes": "06 Dec",
+   "url": "https://www.jobs.ac.uk/job/DTQ972/policy-fellow-clean-maritime-research",
+   "facet": "legal-compliance-and-policy",
+   "families": [],
+   "salary_bottom": 39560,
+   "salary_top": 46970,
+   "salary_note": "",
+   "gate2": "达标",
+   "register_match": {
+    "matched_name": "University of Durham",
+    "rating": "Worker (A rating)",
+    "route": "Skilled Worker",
+    "skilled_worker": true
+   },
+   "gate3_gate4": "unassessed"
+  },
+  {
+   "advert_id": "1094039",
+   "title": "Senior Data and Insights Lead",
+   "employer": "Ravensbourne University London",
+   "department": "Business Intelligence and Planning",
+   "location": "London, Hybrid",
+   "salary_raw": "£63,387 to £70,173\n                                    per annum Ravensbourne will also contribute 11.1% towards your membership in the Local Government Pension Scheme (LGPS)",
+   "closes": "09 Dec",
+   "url": "https://www.jobs.ac.uk/job/DTP609/senior-data-and-insights-lead",
+   "facet": "library-services-data-and-information-management",
+   "families": [],
+   "salary_bottom": 63387,
+   "salary_top": 70173,
+   "salary_note": "",
+   "gate2": "达标",
+   "register_match": {
+    "matched_name": "Ravensbourne University London",
+    "rating": "Worker (A rating)",
+    "route": "Skilled Worker",
+    "skilled_worker": true
+   },
+   "gate3_gate4": "unassessed"
+  },
+  {
+   "advert_id": "1094517",
+   "title": "Employer Events Coordinator",
+   "employer": "Loughborough University",
+   "department": "Loughborough University's Careers Network",
+   "location": "Loughborough University, Loughborough, Hybrid",
+   "salary_raw": "£36,320 to £46,970\n                                    per annum. Subject to annual pay award.",
+   "closes": "13 Dec",
+   "url": "https://www.jobs.ac.uk/job/DTQ952/employer-events-coordinator",
+   "facet": "student-services",
+   "families": [],
+   "salary_bottom": 36320,
+   "salary_top": 46970,
+   "salary_note": "",
+   "gate2": "达标",
+   "register_match": {
+    "matched_name": "Loughborough College Group",
+    "rating": "Worker (A rating)",
+    "route": "Skilled Worker",
+    "skilled_worker": true
+   },
+   "gate3_gate4": "unassessed"
+  },
+  {
+   "advert_id": "1094494",
+   "title": "Project Officer",
+   "employer": "University of Warwick",
+   "department": "WMS - Applied Health",
+   "location": "Coventry, University of Warwick",
+   "salary_raw": "£31,861 to £35,302",
+   "closes": "26 Nov",
+   "url": "https://www.jobs.ac.uk/job/DTQ911/project-officer",
+   "facet": "project-management-and-consulting",
+   "families": [],
+   "salary_bottom": 31861,
+   "salary_top": 35302,
+   "salary_note": "",
+   "gate2": "需谈薪至门槛以上",
+   "register_match": {
+    "matched_name": "University of Warwick",
+    "rating": "Worker (A rating)",
+    "route": "Skilled Worker",
+    "skilled_worker": true
+   },
+   "gate3_gate4": "unassessed"
+  },
+  {
+   "advert_id": "1094485",
+   "title": "M365 and Power Platform Technical Specialist",
+   "employer": "London School of Economics and Political Science",
+   "department": "Data and Technology Services",
+   "location": "London",
+   "salary_raw": "£44,143 to £52,749\n                                    pa inclusive with potential to progress to £56,607 pa inclusive of London allowance",
+   "closes": "27 Nov",
+   "url": "https://www.jobs.ac.uk/job/DTQ899/m365-and-power-platform-technical-specialist",
+   "facet": "it-services",
+   "families": [],
+   "salary_bottom": 44143,
+   "salary_top": 56607,
+   "salary_note": "",
+   "gate2": "达标",
+   "register_match": {
+    "matched_name": "The London School of Economics and Political Science",
+    "rating": "Worker (A rating)",
+    "route": "Skilled Worker",
+    "skilled_worker": true
+   },
+   "gate3_gate4": "unassessed"
+  },
+  {
+   "advert_id": "1094500",
+   "title": "Administrative Officer (Engagement and Outreach)",
+   "employer": "London School of Economics and Political Science",
+   "department": "Department of Anthropology",
+   "location": "London",
+   "salary_raw": "£37,244 to £42,397\n                                    pa inclusive with potential to progress to £45,358 pa inclusive of London allowance",
+   "closes": "27 Nov",
+   "url": "https://www.jobs.ac.uk/job/DTQ920/administrative-officer-engagement-and-outreach",
+   "facet": "administrative",
+   "families": [],
+   "salary_bottom": 37244,
+   "salary_top": 45358,
+   "salary_note": "",
+   "gate2": "达标",
+   "register_match": {
+    "matched_name": "The London School of Economics and Political Science",
+    "rating": "Worker (A rating)",
+    "route": "Skilled Worker",
+    "skilled_worker": true
+   },
+   "gate3_gate4": "unassessed"
+  },
+  {
+   "advert_id": "1094544",
+   "title": "Student Resolution and Casework Manager (Academic Offences)",
+   "employer": "University of London",
+   "department": "Governance, Policy and Compliance",
+   "location": "London, Hybrid",
+   "salary_raw": "£42,575 to £51,152\n                                    per annum",
+   "closes": "29 Nov",
+   "url": "https://www.jobs.ac.uk/job/DTR002/student-resolution-and-casework-manager-academic-offences",
+   "facet": "student-services",
+   "families": [],
+   "salary_bottom": 42575,
+   "salary_top": 51152,
+   "salary_note": "",
+   "gate2": "达标",
+   "register_match": {
+    "matched_name": "COLLEGE OF LONDON LIMITED",
+    "rating": "Worker (A rating)",
+    "route": "Skilled Worker",
+    "skilled_worker": true
+   },
+   "gate3_gate4": "unassessed"
+  },
+  {
+   "advert_id": "1094491",
+   "title": "Graduate School Manager",
+   "employer": "University of Roehampton",
+   "department": "Research Office/Graduate School",
+   "location": "London",
+   "salary_raw": "£41,878 to £45,248\n                                    pa inclusive of London Weighting Allowance, Grade: RU07",
+   "closes": "29 Nov",
+   "url": "https://www.jobs.ac.uk/job/DTQ908/graduate-school-manager",
+   "facet": "administrative",
+   "families": [],
+   "salary_bottom": 41878,
+   "salary_top": 45248,
+   "salary_note": "",
+   "gate2": "达标",
+   "register_match": {
+    "matched_name": "Roehampton University",
+    "rating": "Worker (A rating)",
+    "route": "Skilled Worker",
+    "skilled_worker": true
+   },
+   "gate3_gate4": "unassessed"
+  },
+  {
+   "advert_id": "1094536",
+   "title": "Research Culture Project Manager",
+   "employer": "University of Southampton",
+   "department": "Faculty Operating Service (MED)",
+   "location": "Southampton, Hybrid",
+   "salary_raw": "£37,369 to £45,641\n                                    Pro rata per annum",
+   "closes": "30 Nov",
+   "url": "https://www.jobs.ac.uk/job/DTQ990/research-culture-project-manager",
+   "facet": "pr-marketing-sales-and-communication",
+   "families": [],
+   "salary_bottom": 37369,
+   "salary_top": 45641,
+   "salary_note": "CHECK_HOURS",
+   "gate2": "达标",
+   "register_match": {
+    "matched_name": "Southampton",
+    "rating": "Worker (A rating)",
+    "route": "Skilled Worker",
+    "skilled_worker": true
+   },
+   "gate3_gate4": "unassessed"
+  },
+  {
+   "advert_id": "1094534",
+   "title": "Research Project Adminstrator (1.0FTE/open ended)",
+   "employer": "Glasgow Caledonian University",
+   "department": "RKES: Research and Knowledge Exchange Services",
+   "location": "Glasgow",
+   "salary_raw": "£33,662 to £38,448",
+   "closes": "30 Nov",
+   "url": "https://www.jobs.ac.uk/job/DTQ989/research-project-adminstrator-10fte-open-ended",
+   "facet": "administrative",
+   "families": [],
+   "salary_bottom": 33662,
+   "salary_top": 38448,
+   "salary_note": "",
+   "gate2": "达标",
+   "register_match": {
+    "matched_name": "Glasgow Caledonian University",
+    "rating": "Worker (A rating)",
+    "route": "Skilled Worker",
+    "skilled_worker": true
+   },
+   "gate3_gate4": "unassessed"
+  },
+  {
+   "advert_id": "1094531",
+   "title": "Funding Support Partner",
+   "employer": "Leeds Beckett University",
+   "department": "",
+   "location": "Leeds",
+   "salary_raw": "£40,704 to £45,641",
+   "closes": "30 Nov",
+   "url": "https://www.jobs.ac.uk/job/DTQ976/funding-support-partner",
+   "facet": "administrative",
+   "families": [],
+   "salary_bottom": 40704,
+   "salary_top": 45641,
+   "salary_note": "",
+   "gate2": "达标",
+   "register_match": {
+    "matched_name": "Leeds Beckett University",
+    "rating": "Worker (A rating)",
+    "route": "Skilled Worker",
+    "skilled_worker": true
+   },
+   "gate3_gate4": "unassessed"
+  }
+ ]
 }
