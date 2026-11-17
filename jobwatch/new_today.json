@@ -1,5 +1,40 @@
 {
- "generated": "2026-11-16",
- "count": 0,
- "jobs": []
+ "generated": "2026-11-17",
+ "count": 3,
+ "jobs": [
+  {
+   "employer": "Study Group Limited",
+   "title": "Wellbeing and Engagement Officer",
+   "location": "Liverpool, Merseyside, United Kingdom",
+   "url": "https://studygroupuk.applytojob.com/apply/aZ3yfiQkMs/Wellbeing-And-Engagement-Officer",
+   "posted": "",
+   "ats": "jazzhr",
+   "families": [
+    "C_marketing_recruitment",
+    "K_student_support"
+   ]
+  },
+  {
+   "employer": "Clay Labs UK Ltd",
+   "title": "Growth Strategist, Enterprise (Customer Success)",
+   "location": "London",
+   "url": "https://jobs.ashbyhq.com/claylabs/9d4828b2-8c23-406d-8225-b916ff9174c0",
+   "posted": "2025-07-16",
+   "ats": "ashby",
+   "families": [
+    "D_edtech_customer"
+   ]
+  },
+  {
+   "employer": "HONOR TECHNOLOGIES (UK) CO., LTD",
+   "title": "Care Solutions Consultant",
+   "location": "Remote Position",
+   "url": "https://boards.greenhouse.io/honor/jobs/8909956002?gh_jid=8909956002",
+   "posted": "2026-11-16",
+   "ats": "greenhouse",
+   "families": [
+    "D_edtech_customer"
+   ]
+  }
+ ]
 }

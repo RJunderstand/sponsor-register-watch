@@ -34,7 +34,7 @@
  },
  {
   "employer": "Clay Labs UK Ltd",
-  "title": "Growth Strategist, Enterprise (Customer Success) - London",
+  "title": "Growth Strategist, Enterprise (Customer Success)",
   "location": "London",
   "url": "https://jobs.ashbyhq.com/claylabs/9d4828b2-8c23-406d-8225-b916ff9174c0",
   "posted": "2025-07-16",
@@ -214,6 +214,17 @@
   "location": "London, United Kingdom",
   "url": "https://job-boards.eu.greenhouse.io/heatgeek/jobs/5024728101",
   "posted": "2026-11-02",
+  "ats": "greenhouse",
+  "families": [
+   "D_edtech_customer"
+  ]
+ },
+ {
+  "employer": "HONOR TECHNOLOGIES (UK) CO., LTD",
+  "title": "Care Solutions Consultant",
+  "location": "Remote Position",
+  "url": "https://boards.greenhouse.io/honor/jobs/8909956002?gh_jid=8909956002",
+  "posted": "2026-11-16",
   "ats": "greenhouse",
   "families": [
    "D_edtech_customer"
@@ -484,17 +495,6 @@
   ]
  },
  {
-  "employer": "Portsmouth Hospitals University NHS Trust",
-  "title": "ELearning Clerical Support Apprentice",
-  "location": "Portsmouth England gb Queen Alexandra Hosp, Southwick Hill Road, Cosham, Portsmouth, PO6 3LY PO6 3LY 50.84977 -1.07054 Portsmouth, England, United Kingdom",
-  "url": "https://jobs.smartrecruiters.com/744000161533349",
-  "posted": "2026-11-13",
-  "ats": "smartrecruiters",
-  "families": [
-   "A_he_learning_tech"
-  ]
- },
- {
   "employer": "SambaNova Systems UK Limited",
   "title": "Customer Success Manager",
   "location": "Remote - US",
@@ -683,17 +683,6 @@
  },
  {
   "employer": "WPP Media UK Limited",
-  "title": "Account Manager, Clients",
-  "location": "London, United Kingdom",
-  "url": "https://job-boards.greenhouse.io/wppmedia/jobs/5290917008",
-  "posted": "2026-11-10",
-  "ats": "greenhouse",
-  "families": [
-   "D_edtech_customer"
-  ]
- },
- {
-  "employer": "WPP Media UK Limited",
   "title": "Account Manager, Clients, UK",
   "location": "London, United Kingdom",
   "url": "https://job-boards.greenhouse.io/wppmedia/jobs/5451005008",
@@ -718,40 +707,7 @@
   "employer": "WPP Media UK Limited",
   "title": "Account Manager, OOH - Activation, UK",
   "location": "London, United Kingdom",
-  "url": "https://job-boards.greenhouse.io/wppmedia/jobs/5450593008",
-  "posted": "2026-11-10",
-  "ats": "greenhouse",
-  "families": [
-   "D_edtech_customer"
-  ]
- },
- {
-  "employer": "WPP Media UK Limited",
-  "title": "Account Manager, OOH - Activation, UK",
-  "location": "London, United Kingdom",
   "url": "https://job-boards.greenhouse.io/wppmedia/jobs/5458066008",
-  "posted": "2026-11-10",
-  "ats": "greenhouse",
-  "families": [
-   "D_edtech_customer"
-  ]
- },
- {
-  "employer": "WPP Media UK Limited",
-  "title": "Account Manager, Planning",
-  "location": "Manchester, United Kingdom",
-  "url": "https://job-boards.greenhouse.io/wppmedia/jobs/5409143008",
-  "posted": "2026-11-10",
-  "ats": "greenhouse",
-  "families": [
-   "D_edtech_customer"
-  ]
- },
- {
-  "employer": "WPP Media UK Limited",
-  "title": "Account Manager, Planning",
-  "location": "London, United Kingdom",
-  "url": "https://job-boards.greenhouse.io/wppmedia/jobs/5239982008",
   "posted": "2026-11-10",
   "ats": "greenhouse",
   "families": [
@@ -782,39 +738,6 @@
  },
  {
   "employer": "WPP Media UK Limited",
-  "title": "Account Manager, Programmatic, GCS",
-  "location": "London, United Kingdom",
-  "url": "https://job-boards.greenhouse.io/wppmedia/jobs/5458090008",
-  "posted": "2026-11-10",
-  "ats": "greenhouse",
-  "families": [
-   "D_edtech_customer"
-  ]
- },
- {
-  "employer": "WPP Media UK Limited",
-  "title": "Account Manager, Search",
-  "location": "London, United Kingdom",
-  "url": "https://job-boards.greenhouse.io/wppmedia/jobs/5444819008",
-  "posted": "2026-11-10",
-  "ats": "greenhouse",
-  "families": [
-   "D_edtech_customer"
-  ]
- },
- {
-  "employer": "WPP Media UK Limited",
-  "title": "Account Manager, Search",
-  "location": "Manchester, United Kingdom",
-  "url": "https://job-boards.greenhouse.io/wppmedia/jobs/5190550008",
-  "posted": "2026-11-10",
-  "ats": "greenhouse",
-  "families": [
-   "D_edtech_customer"
-  ]
- },
- {
-  "employer": "WPP Media UK Limited",
   "title": "Business Analyst - 12 Month FTC",
   "location": "London, United Kingdom",
   "url": "https://job-boards.greenhouse.io/wppmedia/jobs/5181217008",
@@ -822,28 +745,6 @@
   "ats": "greenhouse",
   "families": [
    "J_process_ops"
-  ]
- },
- {
-  "employer": "WPP Media UK Limited",
-  "title": "Paid Social Account Manager",
-  "location": "London, United Kingdom",
-  "url": "https://job-boards.greenhouse.io/wppmedia/jobs/5379091008",
-  "posted": "2026-11-10",
-  "ats": "greenhouse",
-  "families": [
-   "D_edtech_customer"
-  ]
- },
- {
-  "employer": "WPP Media UK Limited",
-  "title": "Programmatic Account Manager",
-  "location": "London, United Kingdom",
-  "url": "https://job-boards.greenhouse.io/wppmedia/jobs/5282044008",
-  "posted": "2026-11-10",
-  "ats": "greenhouse",
-  "families": [
-   "D_edtech_customer"
   ]
  },
  {
@@ -863,17 +764,6 @@
   "location": "London, United Kingdom",
   "url": "https://job-boards.greenhouse.io/wppmedia/jobs/5413998008",
   "posted": "2026-11-10",
-  "ats": "greenhouse",
-  "families": [
-   "D_edtech_customer"
-  ]
- },
- {
-  "employer": "Wunderkind Technologies UK Ltd",
-  "title": "Account Manager",
-  "location": "Remote",
-  "url": "https://www.wunderkind.co/careers/?gh_jid=8259260",
-  "posted": "2026-10-22",
   "ats": "greenhouse",
   "families": [
    "D_edtech_customer"
@@ -932,6 +822,18 @@
   "ats": "greenhouse",
   "families": [
    "D_edtech_customer"
+  ]
+ },
+ {
+  "employer": "Study Group Limited",
+  "title": "Wellbeing and Engagement Officer",
+  "location": "Liverpool, Merseyside, United Kingdom",
+  "url": "https://studygroupuk.applytojob.com/apply/aZ3yfiQkMs/Wellbeing-And-Engagement-Officer",
+  "posted": "",
+  "ats": "jazzhr",
+  "families": [
+   "C_marketing_recruitment",
+   "K_student_support"
   ]
  },
  {
