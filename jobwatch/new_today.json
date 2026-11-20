@@ -1,5 +1,39 @@
 {
- "generated": "2026-11-19",
- "count": 0,
- "jobs": []
+ "generated": "2026-11-20",
+ "count": 3,
+ "jobs": [
+  {
+   "employer": "WPP Media UK Limited",
+   "title": "Manager, Client Services, UK",
+   "location": "London, United Kingdom",
+   "url": "https://job-boards.greenhouse.io/wppmedia/jobs/5479974008",
+   "posted": "2026-11-20",
+   "ats": "greenhouse",
+   "families": [
+    "D_edtech_customer"
+   ]
+  },
+  {
+   "employer": "WPP Media UK Limited",
+   "title": "Senior Associate, Client Services, UK",
+   "location": "Manchester, United Kingdom",
+   "url": "https://job-boards.greenhouse.io/wppmedia/jobs/5482974008",
+   "posted": "2026-11-20",
+   "ats": "greenhouse",
+   "families": [
+    "D_edtech_customer"
+   ]
+  },
+  {
+   "employer": "Portsmouth Hospitals University NHS Trust",
+   "title": "Business Change Facilitator",
+   "location": "Newport England gb St Mary's Hosp (IOW), Parkhurst Road, Newport, Isle of Wight, PO30 5TG PO30 5TG 50.71085 -1.3013 Newport, England, United Kingdom",
+   "url": "https://jobs.smartrecruiters.com/744000162730319",
+   "posted": "2026-11-20",
+   "ats": "smartrecruiters",
+   "families": [
+    "J_process_ops"
+   ]
+  }
+ ]
 }

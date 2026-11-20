@@ -24,9 +24,9 @@
  {
   "employer": "Bottomline Technologies Limited",
   "title": "Customer Success Manager",
-  "location": "UK, Theale (Reading)",
-  "url": "https://job-boards.greenhouse.io/bottomlinetechnologies/jobs/8938971002",
-  "posted": "2026-11-18",
+  "location": "United Kingdom",
+  "url": "https://job-boards.greenhouse.io/bottomlinetechnologies/jobs/8323809002",
+  "posted": "2026-09-03",
   "ats": "greenhouse",
   "families": [
    "D_edtech_customer"
@@ -35,9 +35,9 @@
  {
   "employer": "Bottomline Technologies Limited",
   "title": "Customer Success Manager",
-  "location": "United Kingdom",
-  "url": "https://job-boards.greenhouse.io/bottomlinetechnologies/jobs/8323809002",
-  "posted": "2026-09-03",
+  "location": "UK, Theale (Reading)",
+  "url": "https://job-boards.greenhouse.io/bottomlinetechnologies/jobs/8938971002",
+  "posted": "2026-11-20",
   "ats": "greenhouse",
   "families": [
    "D_edtech_customer"
@@ -365,9 +365,9 @@
  {
   "employer": "NICE Systems UK Limited",
   "title": "Product Customer Success Manager",
-  "location": "United Kingdom - Remote",
-  "url": "https://boards.eu.greenhouse.io/nice/jobs/4999942101?gh_jid=4999942101",
-  "posted": "2026-10-21",
+  "location": "United Kingdom - London",
+  "url": "https://boards.eu.greenhouse.io/nice/jobs/4877490101?gh_jid=4877490101",
+  "posted": "2026-08-28",
   "ats": "greenhouse",
   "families": [
    "D_edtech_customer"
@@ -376,9 +376,9 @@
  {
   "employer": "NICE Systems UK Limited",
   "title": "Product Customer Success Manager",
-  "location": "United Kingdom - London",
-  "url": "https://boards.eu.greenhouse.io/nice/jobs/4877490101?gh_jid=4877490101",
-  "posted": "2026-08-28",
+  "location": "United Kingdom - Remote",
+  "url": "https://boards.eu.greenhouse.io/nice/jobs/4999942101?gh_jid=4999942101",
+  "posted": "2026-10-21",
   "ats": "greenhouse",
   "families": [
    "D_edtech_customer"
@@ -418,17 +418,6 @@
   ]
  },
  {
-  "employer": "Oxford International Education & Travel Ltd",
-  "title": "Student Support Officer",
-  "location": "Sheffield Sheffield",
-  "url": "https://joinus.oxfordinternational.com/en/postings/deb712ef-ebae-4c29-940f-d69bd5cf021a",
-  "posted": "",
-  "ats": "pinpoint",
-  "families": [
-   "K_student_support"
-  ]
- },
- {
   "employer": "Oxford International School",
   "title": "Welfare Assistant - Residential",
   "location": "London EFL Programmes UK",
@@ -444,17 +433,6 @@
   "title": "Welfare Manager - Residential",
   "location": "London EFL Programmes UK",
   "url": "https://joinus.oxfordinternational.com/en/postings/34c50ac2-19f0-4eb9-ab29-ff40dc07b4c9",
-  "posted": "",
-  "ats": "pinpoint",
-  "families": [
-   "K_student_support"
-  ]
- },
- {
-  "employer": "Oxford International School",
-  "title": "Student Support Officer",
-  "location": "Sheffield Sheffield",
-  "url": "https://joinus.oxfordinternational.com/en/postings/deb712ef-ebae-4c29-940f-d69bd5cf021a",
   "posted": "",
   "ats": "pinpoint",
   "families": [
@@ -484,14 +462,14 @@
   ]
  },
  {
-  "employer": "Oxford International Study Abroad Programme Ltd",
-  "title": "Student Support Officer",
-  "location": "Sheffield Sheffield",
-  "url": "https://joinus.oxfordinternational.com/en/postings/deb712ef-ebae-4c29-940f-d69bd5cf021a",
-  "posted": "",
-  "ats": "pinpoint",
+  "employer": "Portsmouth Hospitals University NHS Trust",
+  "title": "Business Change Facilitator",
+  "location": "Newport England gb St Mary's Hosp (IOW), Parkhurst Road, Newport, Isle of Wight, PO30 5TG PO30 5TG 50.71085 -1.3013 Newport, England, United Kingdom",
+  "url": "https://jobs.smartrecruiters.com/744000162730319",
+  "posted": "2026-11-20",
+  "ats": "smartrecruiters",
   "families": [
-   "K_student_support"
+   "J_process_ops"
   ]
  },
  {
@@ -745,6 +723,28 @@
   "ats": "greenhouse",
   "families": [
    "J_process_ops"
+  ]
+ },
+ {
+  "employer": "WPP Media UK Limited",
+  "title": "Manager, Client Services, UK",
+  "location": "London, United Kingdom",
+  "url": "https://job-boards.greenhouse.io/wppmedia/jobs/5479974008",
+  "posted": "2026-11-20",
+  "ats": "greenhouse",
+  "families": [
+   "D_edtech_customer"
+  ]
+ },
+ {
+  "employer": "WPP Media UK Limited",
+  "title": "Senior Associate, Client Services, UK",
+  "location": "Manchester, United Kingdom",
+  "url": "https://job-boards.greenhouse.io/wppmedia/jobs/5482974008",
+  "posted": "2026-11-20",
+  "ats": "greenhouse",
+  "families": [
+   "D_edtech_customer"
   ]
  },
  {
