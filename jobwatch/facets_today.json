@@ -1,6 +1,6 @@
 {
- "generated": "2026-11-21T13:28:47Z",
- "run_date": "2026-11-21",
+ "generated": "2026-11-22T13:21:49Z",
+ "run_date": "2026-11-22",
  "floor": 33400,
  "facets_swept": [
   "pr-marketing-sales-and-communication",
@@ -17,151 +17,12 @@
  "counts": {
   "raw": 215,
   "unique": 165,
-  "kept": 6,
-  "seen_before": 103,
+  "kept": 0,
+  "seen_before": 109,
   "excluded_title": 27,
   "gate1": 3,
   "gate2": 26
  },
  "note": "Gate 1 and Gate 2 applied mechanically. Gate 3 and Gate 4 need the JD.",
- "jobs": [
-  {
-   "advert_id": "1095210",
-   "title": "Clinical Fellowship Programme Manager (LifeArc/FI)",
-   "employer": "Imperial College London",
-   "department": "Faculty of Medicine - Department of Infectious Disease",
-   "location": "London",
-   "salary_raw": "£59,808 to £71,793\n                                    per annum",
-   "closes": "03 Dec",
-   "url": "https://www.jobs.ac.uk/job/DTS661/clinical-fellowship-programme-manager-lifearc-fi",
-   "facet": "project-management-and-consulting",
-   "families": [],
-   "salary_bottom": 59808,
-   "salary_top": 71793,
-   "salary_note": "",
-   "gate2": "达标",
-   "register_match": {
-    "matched_name": "Imperial College London (HR)",
-    "rating": "Worker (A rating)",
-    "route": "Skilled Worker",
-    "skilled_worker": true
-   },
-   "gate3_gate4": "unassessed"
-  },
-  {
-   "advert_id": "1095203",
-   "title": "Programme Manager (LifeArc/Fleming Initiative)",
-   "employer": "Imperial College London",
-   "department": "",
-   "location": "London",
-   "salary_raw": "£59,808 to £64,638",
-   "closes": "03 Dec",
-   "url": "https://www.jobs.ac.uk/job/DTS651/programme-manager-lifearc-fleming-initiative",
-   "facet": "project-management-and-consulting",
-   "families": [],
-   "salary_bottom": 59808,
-   "salary_top": 64638,
-   "salary_note": "",
-   "gate2": "达标",
-   "register_match": {
-    "matched_name": "Imperial College London (HR)",
-    "rating": "Worker (A rating)",
-    "route": "Skilled Worker",
-    "skilled_worker": true
-   },
-   "gate3_gate4": "unassessed"
-  },
-  {
-   "advert_id": "1095231",
-   "title": "Partnerships and Events Administrator",
-   "employer": "UCL",
-   "department": "Global Business School for Health (GBSH)",
-   "location": "London, Hybrid",
-   "salary_raw": "£36,433 to £41,833",
-   "closes": "04 Dec",
-   "url": "https://www.jobs.ac.uk/job/DTS695/partnerships-and-events-administrator",
-   "facet": "pr-marketing-sales-and-communication",
-   "families": [],
-   "salary_bottom": 36433,
-   "salary_top": 41833,
-   "salary_note": "",
-   "gate2": "达标",
-   "register_match": {
-    "matched_name": "CROESUS DIGITAL MARKETING LIMITED T/A SOCIAL NUCLEUS",
-    "rating": "Worker (A rating)",
-    "route": "Skilled Worker",
-    "skilled_worker": true
-   },
-   "gate3_gate4": "unassessed"
-  },
-  {
-   "advert_id": "1095227",
-   "title": "Programme Manager",
-   "employer": "University of Cumbria",
-   "department": "Institute of Engineering, Computing and Advanced Manufacturing",
-   "location": "Barrow",
-   "salary_raw": "£45,641 per annum with incremental progression to £57,666",
-   "closes": "11 Dec",
-   "url": "https://www.jobs.ac.uk/job/DTS690/programme-manager",
-   "facet": "pr-marketing-sales-and-communication",
-   "families": [],
-   "salary_bottom": 45641,
-   "salary_top": 57666,
-   "salary_note": "",
-   "gate2": "达标",
-   "register_match": {
-    "matched_name": "CUMBRIA",
-    "rating": "Worker (A rating)",
-    "route": "Skilled Worker",
-    "skilled_worker": true
-   },
-   "gate3_gate4": "unassessed"
-  },
-  {
-   "advert_id": "1095205",
-   "title": "Collections Manager – Vertebrate Collections",
-   "employer": "University of Oxford",
-   "department": "Oxford University Museum of Natural History",
-   "location": "Oxford",
-   "salary_raw": "£40,178 to £48,700\n                                    per annum: Grade 7",
-   "closes": "11 Dec",
-   "url": "https://www.jobs.ac.uk/job/DTS656/collections-manager-vertebrate-collections",
-   "facet": "library-services-data-and-information-management",
-   "families": [],
-   "salary_bottom": 40178,
-   "salary_top": 48700,
-   "salary_note": "",
-   "gate2": "达标",
-   "register_match": {
-    "matched_name": "University of Oxford",
-    "rating": "Worker (A rating)",
-    "route": "Skilled Worker",
-    "skilled_worker": true
-   },
-   "gate3_gate4": "unassessed"
-  },
-  {
-   "advert_id": "1095221",
-   "title": "Legal Counsel, Employment [Maternity Cover]",
-   "employer": "University of Cambridge",
-   "department": "Legal Services Division",
-   "location": "Cambridge",
-   "salary_raw": "£43,099 to £57,666",
-   "closes": "13 Dec",
-   "url": "https://www.jobs.ac.uk/job/DTS677/legal-counsel-employment-maternity-cover",
-   "facet": "legal-compliance-and-policy",
-   "families": [],
-   "salary_bottom": 43099,
-   "salary_top": 57666,
-   "salary_note": "",
-   "gate2": "达标",
-   "register_match": {
-    "matched_name": "The University of Cambridge",
-    "rating": "Worker (A rating)",
-    "route": "Skilled Worker",
-    "skilled_worker": true
-   },
-   "gate3_gate4": "unassessed"
-  }
- ]
+ "jobs": []
 }
