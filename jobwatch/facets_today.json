@@ -1,6 +1,6 @@
 {
- "generated": "2026-11-22T13:21:49Z",
- "run_date": "2026-11-22",
+ "generated": "2026-11-23T16:01:27Z",
+ "run_date": "2026-11-23",
  "floor": 33400,
  "facets_swept": [
   "pr-marketing-sales-and-communication",
@@ -15,13 +15,13 @@
   "other"
  ],
  "counts": {
-  "raw": 215,
-  "unique": 165,
+  "raw": 0,
+  "unique": 0,
   "kept": 0,
-  "seen_before": 109,
-  "excluded_title": 27,
-  "gate1": 3,
-  "gate2": 26
+  "seen_before": 0,
+  "excluded_title": 0,
+  "gate1": 0,
+  "gate2": 0
  },
  "note": "Gate 1 and Gate 2 applied mechanically. Gate 3 and Gate 4 need the JD.",
  "jobs": []
