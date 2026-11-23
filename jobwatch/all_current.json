@@ -133,17 +133,6 @@
  },
  {
   "employer": "Elemis",
-  "title": "Account Manager",
-  "location": "London John Lewis, Brent Cross Shopping Centre",
-  "url": "https://careers.elemis.com/en/postings/e29c81e9-d00d-4dc3-a697-9e636e4194c0",
-  "posted": "",
-  "ats": "pinpoint",
-  "families": [
-   "D_edtech_customer"
-  ]
- },
- {
-  "employer": "Elemis",
   "title": "National Account Manager",
   "location": "London Head Office, London",
   "url": "https://careers.elemis.com/en/postings/869901e7-d8f1-489d-b675-c7cae24af8c3",
@@ -649,17 +638,6 @@
   ]
  },
  {
-  "employer": "Veeam Software UK Limited",
-  "title": "Enterprise Account Manager - Central Government and Justice UK",
-  "location": "London, United Kingdom",
-  "url": "https://job-boards.eu.greenhouse.io/veeamsoftware/jobs/5010319101",
-  "posted": "2026-11-16",
-  "ats": "greenhouse",
-  "families": [
-   "D_edtech_customer"
-  ]
- },
- {
   "employer": "WPP Media UK Limited",
   "title": "Account Manager",
   "location": "London, United Kingdom",
@@ -775,6 +753,17 @@
   "location": "London, United Kingdom",
   "url": "https://job-boards.greenhouse.io/wppmedia/jobs/5413998008",
   "posted": "2026-11-10",
+  "ats": "greenhouse",
+  "families": [
+   "D_edtech_customer"
+  ]
+ },
+ {
+  "employer": "Wunderkind Technologies UK Ltd",
+  "title": "Associate, Customer Success",
+  "location": "London, United Kingdom",
+  "url": "https://www.wunderkind.co/careers/?gh_jid=8398882",
+  "posted": "2026-11-23",
   "ats": "greenhouse",
   "families": [
    "D_edtech_customer"

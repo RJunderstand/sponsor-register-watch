@@ -1,5 +1,17 @@
 {
- "generated": "2026-11-22",
- "count": 0,
- "jobs": []
+ "generated": "2026-11-23",
+ "count": 1,
+ "jobs": [
+  {
+   "employer": "Wunderkind Technologies UK Ltd",
+   "title": "Associate, Customer Success",
+   "location": "London, United Kingdom",
+   "url": "https://www.wunderkind.co/careers/?gh_jid=8398882",
+   "posted": "2026-11-23",
+   "ats": "greenhouse",
+   "families": [
+    "D_edtech_customer"
+   ]
+  }
+ ]
 }
