@@ -1240,6 +1240,15 @@
    "checked": "2026-08-27"
   },
   {
+   "name": "PLATFORMED LTD",
+   "ats": "ashby",
+   "slug": "platformed",
+   "endpoint": "https://api.ashbyhq.com/posting-api/job-board/platformed",
+   "confirmed_as": "",
+   "guessed": false,
+   "checked": "2026-11-24"
+  },
+  {
    "name": "Portsmouth Hospitals University NHS Trust",
    "ats": "smartrecruiters",
    "slug": "portsmouthhospitalsuniversitynhstrust",
@@ -6949,7 +6958,31 @@
   "International Hospitality Media Limited": "2026-11-17",
   "Mindscope Behavioural Labs Ltd": "2026-11-17",
   "Really Bright Media": "2026-11-17",
-  "SELLA C STUDIO LIMITED": "2026-11-17"
+  "SELLA C STUDIO LIMITED": "2026-11-17",
+  "180 Studios Software (UK) Limited": "2026-11-24",
+  "Encora Innovations UK Limited": "2026-11-24",
+  "Escher Software Services UK Limited": "2026-11-24",
+  "HYDROTECH PIPING SYSTEMS LTD": "2026-11-24",
+  "IAM Technology Group Limited": "2026-11-24",
+  "Impact Control Systems Ltd": "2026-11-24",
+  "Justt Fintech UK Ltd": "2026-11-24",
+  "Kodiaq Technologies Ltd": "2026-11-24",
+  "MAPS Trading Systems (UK) LLP": "2026-11-24",
+  "Onvu Technologies Limited": "2026-11-24",
+  "Oro Labs UK Limited": "2026-11-24",
+  "Pancredit Systems Ltd": "2026-11-24",
+  "Proso AI Technologies Ltd": "2026-11-24",
+  "SHARPER LABS HR AND LEGAL CONSULTANCY LTD": "2026-11-24",
+  "Silverback Studios Limited": "2026-11-24",
+  "Six Degrees Technology Group Limited": "2026-11-24",
+  "Trend Tool Technology Ltd": "2026-11-24",
+  "WASTIB STUDIO LIMITED": "2026-11-24",
+  "WAYNE TECHNOLOGY ENTERPRISES LTD": "2026-11-24",
+  "Alison Education UK Ltd.": "2026-11-24",
+  "Finance and Business Academy Limited": "2026-11-24",
+  "Helix Learning Trust": "2026-11-24",
+  "LONDON SCHOOL OF SKILLS & ENTREPRENEURSHIP LTD": "2026-11-24",
+  "School of Rock": "2026-11-24"
  },
  "rules_version": 3
 }
