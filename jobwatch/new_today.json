@@ -1,14 +1,58 @@
 {
- "generated": "2026-11-24",
- "count": 1,
+ "generated": "2026-11-25",
+ "count": 5,
  "jobs": [
   {
-   "employer": "PLATFORMED LTD",
-   "title": "Customer Success Manager, Audit",
-   "location": "London Office",
-   "url": "https://jobs.ashbyhq.com/platformed/ecd40af2-d085-4f84-8d5d-0f13aa6ed43f",
-   "posted": "2026-11-05",
+   "employer": "Intellego Education Services Limited",
+   "title": "Admissions Officer",
+   "location": "Rome Brighton College Rome",
+   "url": "https://intellego-education.pinpointhq.com/en/postings/6793d03c-402a-4f27-9f2c-ac5d6a290ca2",
+   "posted": "",
+   "ats": "pinpoint",
+   "families": [
+    "C_marketing_recruitment"
+   ]
+  },
+  {
+   "employer": "Eleven Labs Ltd",
+   "title": "Account Manager - UK/I",
+   "location": "United Kingdom",
+   "url": "https://jobs.ashbyhq.com/ElevenLabs/7d29f7f7-158a-42e0-a6be-0ceba630863c",
+   "posted": "2026-11-24",
    "ats": "ashby",
+   "families": [
+    "D_edtech_customer"
+   ]
+  },
+  {
+   "employer": "Oxford International Education & Travel Ltd",
+   "title": "Client Services Coordinator Halifax",
+   "location": "Halifax Oxford International Halifax Centre",
+   "url": "https://joinus.oxfordinternational.com/en/postings/4e7a0e6a-833d-47db-ac76-8f42faa5b9af",
+   "posted": "",
+   "ats": "pinpoint",
+   "families": [
+    "D_edtech_customer"
+   ]
+  },
+  {
+   "employer": "Oxford International School",
+   "title": "Client Services Coordinator Halifax",
+   "location": "Halifax Oxford International Halifax Centre",
+   "url": "https://joinus.oxfordinternational.com/en/postings/4e7a0e6a-833d-47db-ac76-8f42faa5b9af",
+   "posted": "",
+   "ats": "pinpoint",
+   "families": [
+    "D_edtech_customer"
+   ]
+  },
+  {
+   "employer": "Oxford International Study Abroad Programme Ltd",
+   "title": "Client Services Coordinator Halifax",
+   "location": "Halifax Oxford International Halifax Centre",
+   "url": "https://joinus.oxfordinternational.com/en/postings/4e7a0e6a-833d-47db-ac76-8f42faa5b9af",
+   "posted": "",
+   "ats": "pinpoint",
    "families": [
     "D_edtech_customer"
    ]

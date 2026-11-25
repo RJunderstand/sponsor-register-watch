@@ -81,7 +81,7 @@
   "title": "Customer Success Manager (German-speaking)",
   "location": "London, England",
   "url": "https://job-boards.greenhouse.io/coursera/jobs/6250907004",
-  "posted": "2026-11-09",
+  "posted": "2026-11-24",
   "ats": "greenhouse",
   "families": [
    "D_edtech_customer"
@@ -151,6 +151,17 @@
   "ats": "pinpoint",
   "families": [
    "B_corporate_ld"
+  ]
+ },
+ {
+  "employer": "Eleven Labs Ltd",
+  "title": "Account Manager - UK/I",
+  "location": "United Kingdom",
+  "url": "https://jobs.ashbyhq.com/ElevenLabs/7d29f7f7-158a-42e0-a6be-0ceba630863c",
+  "posted": "2026-11-24",
+  "ats": "ashby",
+  "families": [
+   "D_edtech_customer"
   ]
  },
  {
@@ -243,17 +254,6 @@
  },
  {
   "employer": "Instructure Global Limited",
-  "title": "Sr. Revenue Operations Analyst",
-  "location": "US-REMOTE",
-  "url": "https://jobs.ashbyhq.com/instructure/d36f43ef-5d99-4b62-a91e-a05a5e0c9cde",
-  "posted": "2026-08-19",
-  "ats": "ashby",
-  "families": [
-   "J_process_ops"
-  ]
- },
- {
-  "employer": "Instructure Global Limited",
   "title": "Customer Success Manager - Dutch & English Speaker (remote)",
   "location": "United Kingdom",
   "url": "https://jobs.ashbyhq.com/instructure/4dd9ac42-9d9b-4662-86f1-9a8f4725ab9f",
@@ -283,6 +283,17 @@
   "ats": "ashby",
   "families": [
    "D_edtech_customer"
+  ]
+ },
+ {
+  "employer": "Intellego Education Services Limited",
+  "title": "Admissions Officer",
+  "location": "Rome Brighton College Rome",
+  "url": "https://intellego-education.pinpointhq.com/en/postings/6793d03c-402a-4f27-9f2c-ac5d6a290ca2",
+  "posted": "",
+  "ats": "pinpoint",
+  "families": [
+   "C_marketing_recruitment"
   ]
  },
  {
@@ -407,6 +418,17 @@
   ]
  },
  {
+  "employer": "Oxford International Education & Travel Ltd",
+  "title": "Client Services Coordinator Halifax",
+  "location": "Halifax Oxford International Halifax Centre",
+  "url": "https://joinus.oxfordinternational.com/en/postings/4e7a0e6a-833d-47db-ac76-8f42faa5b9af",
+  "posted": "",
+  "ats": "pinpoint",
+  "families": [
+   "D_edtech_customer"
+  ]
+ },
+ {
   "employer": "Oxford International School",
   "title": "Welfare Assistant - Residential",
   "location": "London EFL Programmes UK",
@@ -429,6 +451,17 @@
   ]
  },
  {
+  "employer": "Oxford International School",
+  "title": "Client Services Coordinator Halifax",
+  "location": "Halifax Oxford International Halifax Centre",
+  "url": "https://joinus.oxfordinternational.com/en/postings/4e7a0e6a-833d-47db-ac76-8f42faa5b9af",
+  "posted": "",
+  "ats": "pinpoint",
+  "families": [
+   "D_edtech_customer"
+  ]
+ },
+ {
   "employer": "Oxford International Study Abroad Programme Ltd",
   "title": "Welfare Assistant - Residential",
   "location": "London EFL Programmes UK",
@@ -448,6 +481,17 @@
   "ats": "pinpoint",
   "families": [
    "K_student_support"
+  ]
+ },
+ {
+  "employer": "Oxford International Study Abroad Programme Ltd",
+  "title": "Client Services Coordinator Halifax",
+  "location": "Halifax Oxford International Halifax Centre",
+  "url": "https://joinus.oxfordinternational.com/en/postings/4e7a0e6a-833d-47db-ac76-8f42faa5b9af",
+  "posted": "",
+  "ats": "pinpoint",
+  "families": [
+   "D_edtech_customer"
   ]
  },
  {
@@ -643,28 +687,6 @@
   "location": "London, United Kingdom",
   "url": "https://job-boards.greenhouse.io/wppmedia/jobs/5372522008",
   "posted": "2026-11-12",
-  "ats": "greenhouse",
-  "families": [
-   "D_edtech_customer"
-  ]
- },
- {
-  "employer": "WPP Media UK Limited",
-  "title": "Account Manager, AV",
-  "location": "Manchester, United Kingdom",
-  "url": "https://job-boards.greenhouse.io/wppmedia/jobs/5288159008",
-  "posted": "2026-11-10",
-  "ats": "greenhouse",
-  "families": [
-   "D_edtech_customer"
-  ]
- },
- {
-  "employer": "WPP Media UK Limited",
-  "title": "Account Manager, Clients, UK",
-  "location": "London, United Kingdom",
-  "url": "https://job-boards.greenhouse.io/wppmedia/jobs/5451005008",
-  "posted": "2026-11-10",
   "ats": "greenhouse",
   "families": [
    "D_edtech_customer"
