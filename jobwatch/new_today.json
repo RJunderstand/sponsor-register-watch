@@ -1,5 +1,28 @@
 {
- "generated": "2026-11-26",
- "count": 0,
- "jobs": []
+ "generated": "2026-11-27",
+ "count": 2,
+ "jobs": [
+  {
+   "employer": "Cyberstaff Ltd",
+   "title": "Customer Success Executive",
+   "location": "London",
+   "url": "https://jobs.ashbyhq.com/cyberstaff/0d41955c-4a07-44d0-9f8f-c1863e78efb3",
+   "posted": "2026-10-30",
+   "ats": "ashby",
+   "families": [
+    "D_edtech_customer"
+   ]
+  },
+  {
+   "employer": "Qube Research & Technologies Limited",
+   "title": "Compliance Officer, Communications Surveillance",
+   "location": "London",
+   "url": "https://job-boards.greenhouse.io/quberesearchandtechnologies/jobs/8813139002",
+   "posted": "2026-11-27",
+   "ats": "greenhouse",
+   "families": [
+    "F_quality_compliance"
+   ]
+  }
+ ]
 }
